@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import { KISHAJO_TOPICS } from "../data/kishajo.js";
 
 export const TOPICS = [
   {
@@ -59,8 +60,8 @@ export const CATEGORIES = [
     id: "kishajo",
     icon: "🚤",
     title: "Kishajó",
-    subtitle: "Hamarosan",
-    topics: [],
+    subtitle: "Motor, hajótest, manőver, biztonság, időjárás",
+    topics: KISHAJO_TOPICS,
   },
   {
     id: "tengeri",

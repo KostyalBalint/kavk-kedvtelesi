@@ -1,5 +1,6 @@
 import { Link, useParams } from "react-router-dom";
 import { TOPICS } from "./Materials.jsx";
+import { KISHAJO_TOPICS } from "../data/kishajo.js";
 import {
   Buoy,
   CodeFlag,
@@ -832,13 +833,37 @@ const CONTENT = {
   kiteres: RightOfWay,
 };
 
+// Generic renderer for data-driven topics (Kishajó, later Tengeri IV.).
+const GENERIC_TOPICS = [...KISHAJO_TOPICS];
+
+function GenericTopic({ topic }) {
+  return (
+    <>
+      {topic.sections.map((sec) => (
+        <Section key={sec.title} title={sec.title}>
+          <Card>
+            <ul className="flex list-disc flex-col gap-1.5 pl-5 text-sm leading-relaxed text-slate-600">
+              {sec.items.map((it, i) => (
+                <li key={i}>{it}</li>
+              ))}
+            </ul>
+          </Card>
+        </Section>
+      ))}
+      {topic.source && <Source>Forrás: {topic.source}</Source>}
+    </>
+  );
+}
+
 export default function MaterialDetail() {
   const { cat, topicId } = useParams();
-  const topic = TOPICS.find((t) => t.id === topicId);
-  const Body = CONTENT[topicId];
+  const hszTopic = TOPICS.find((t) => t.id === topicId);
+  const genericTopic = GENERIC_TOPICS.find((t) => t.id === topicId);
+  const topic = hszTopic || genericTopic;
+  const HszBody = CONTENT[topicId];
   const backTo = cat ? `/materials/${cat}` : "/materials";
 
-  if (!topic || !Body) {
+  if (!topic || (!HszBody && !genericTopic)) {
     return (
       <div className="p-6 text-center text-slate-500">
         <p>Ismeretlen témakör.</p>
@@ -863,7 +888,7 @@ export default function MaterialDetail() {
           <p className="text-sm text-slate-500">{topic.subtitle}</p>
         </div>
       </header>
-      <Body />
+      {HszBody ? <HszBody /> : <GenericTopic topic={genericTopic} />}
     </div>
   );
 }
