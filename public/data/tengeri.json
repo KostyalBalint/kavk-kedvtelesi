@@ -1,0 +1,3058 @@
+[
+ {
+  "id": "tengeri-1",
+  "number": 1,
+  "question": "Mit nevezünk hosszúsági köröknek?",
+  "options": [
+   {
+    "text": "Az Egyenlítő síkjára merőleges és a pólusokon áthaladó köröket.",
+    "correct": true
+   },
+   {
+    "text": "Az Egyenlítővel párhuzamosak köröket, amelyek a pólusokon egy pontba futnak össze.",
+    "correct": false
+   },
+   {
+    "text": "Az egyenlítővel párhuzamosak köröket, amelyek Greenwich-ben egy pontba futnak össze.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-2",
+  "number": 2,
+  "question": "Mit nevezünk földrajzi hosszúságnak?",
+  "options": [
+   {
+    "text": "Adott földrajzi ponton áthaladó hosszúsági kör síkjának a kezdő hosszúsági kör síkjával bezárt szögét.",
+    "correct": true
+   },
+   {
+    "text": "A földrajzi pontot a Föld középpontjával összekötő egyenes és az Egyenlítő síkja által bezárt szöget.",
+    "correct": false
+   },
+   {
+    "text": "Két földrajzi pont közötti földfelszíni összekötő vonal hosszát.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-3",
+  "number": 3,
+  "question": "Mit nevezünk földrajzi szélességnek?",
+  "options": [
+   {
+    "text": "Adott földrajzi pontot a Föld középpontjával összekötő egyenes és az Egyenlítő síkja által bezárt szöget.",
+    "correct": true
+   },
+   {
+    "text": "Egy földrajzi ponton áthaladó meridián síkjának a kezdőmeridián síkjával bezárt szögét.",
+    "correct": false
+   },
+   {
+    "text": "A földrajzi pontot a Föld középpontjával összekötő egyenes és a Föld forgástengelye által bezárt szöget.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-4",
+  "number": 4,
+  "question": "Melyik hosszúsági kört nevezzük kezdő hosszúsági körnek?",
+  "options": [
+   {
+    "text": "Ez a Greenwich-i csillagvizsgálón áthaladó hosszúsági kör.",
+    "correct": true
+   },
+   {
+    "text": "Mindig az indulási kikötőn áthaladó hosszúsági kört nevezzük kezdő hosszúsági körnek.",
+    "correct": false
+   },
+   {
+    "text": "Ez a Párizson áthaladó hosszúsági kör.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-5",
+  "number": 5,
+  "question": "Milyen előjellel számoljuk a nullától mért keleti hosszúsági irányt?",
+  "options": [
+   {
+    "text": "+, azaz, pozitív.",
+    "correct": true
+   },
+   {
+    "text": "-, azaz negatív.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-6",
+  "number": 6,
+  "question": "Milyen előjellel számoljuk a nullától mért nyugati hosszúsági irányt?",
+  "options": [
+   {
+    "text": "-, azaz negatív.",
+    "correct": true
+   },
+   {
+    "text": "+, azaz, pozitív.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-7",
+  "number": 7,
+  "question": "Milyen előjellel számoljuk az északi szélességi irányt?",
+  "options": [
+   {
+    "text": "+, azaz, pozitív.",
+    "correct": true
+   },
+   {
+    "text": "-, azaz negatív.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-8",
+  "number": 8,
+  "question": "Milyen előjellel számoljuk a déli szélességi irányt?",
+  "options": [
+   {
+    "text": "-, azaz negatív.",
+    "correct": true
+   },
+   {
+    "text": "+, azaz, pozitív.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-9",
+  "number": 9,
+  "question": "Mennyi egy tengeri mérföld hossza méterben?",
+  "options": [
+   {
+    "text": "1852 méter.",
+    "correct": true
+   },
+   {
+    "text": "1528 méter.",
+    "correct": false
+   },
+   {
+    "text": "1285 méter.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-10",
+  "number": 10,
+  "question": "Mi a definíciója a csomó mértékegységnek?",
+  "options": [
+   {
+    "text": "Az egy óra alatt megtett távolságot jelenti tengeri mérföldben mérve.",
+    "correct": true
+   },
+   {
+    "text": "Az egy óra alatt megtett távolságot jelenti méterben mérve.",
+    "correct": false
+   },
+   {
+    "text": "Az egy óra alatt megtett távolságot jelenti kilométerben mérve.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-11",
+  "number": 11,
+  "question": "Mi az UTC fogalma?",
+  "options": [
+   {
+    "text": "Az UTC az egyezményes koordinált világidő angol betűrövidítése. Ez az az időzóna, amelyikhez a Föld összes többi időzónáját viszonyítjuk.",
+    "correct": true
+   },
+   {
+    "text": "Ez a világidő, vagyis a 0 szélességi körnél lévő időpont.",
+    "correct": false
+   },
+   {
+    "text": "Ez a világidő, vagyis a mindenkori idő ami a hajón van, függetlenül annak helyzetétől.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-12",
+  "number": 12,
+  "question": "15 csomós sebességgel haladunk. Mennyi idő kell 3 tengeri mérföld megtételéhez?",
+  "options": [
+   {
+    "text": "12 perc.",
+    "correct": true
+   },
+   {
+    "text": "6 perc.",
+    "correct": false
+   },
+   {
+    "text": "3 perc.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-13",
+  "number": 13,
+  "question": "Hogyan végezhetünk helymeghatározást iránylatok mérésével?",
+  "options": [
+   {
+    "text": "Kettő vagy több céltárgy valódi iránylatát felrajzoljuk a térképünkre és az így kapott vonalak metszéspontjában lesz a pozíciónk.",
+    "correct": true
+   },
+   {
+    "text": "A szélirány figyelembevételével kiszámítjuk a variációból és a deviációból a pozíciónkat.",
+    "correct": false
+   },
+   {
+    "text": "A tengeráramlás figyelembevételével kiszámítjuk a variációból és a deviációból a pozíciónkat.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-14",
+  "number": 14,
+  "question": "Hogyan végezhetünk helymeghatározást, ha csak egy céltárgyat tudunk megfigyelni?",
+  "options": [
+   {
+    "text": "Orrszög kettőzéssel vagy csúsztatott helyzetvonallal.",
+    "correct": true
+   },
+   {
+    "text": "A szélirány figyelembevételével kiszámítjuk a variációból és a deviációból a pozíciónkat.",
+    "correct": false
+   },
+   {
+    "text": "A tengeráramlás figyelembevételével, és a variációval korrigálva számolunk pozíciót.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-15",
+  "number": 15,
+  "question": "Egyenletes-e a föld felszínén a mágneses tér?",
+  "options": [
+   {
+    "text": "Nem.",
+    "correct": true
+   },
+   {
+    "text": "Igen.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-16",
+  "number": 16,
+  "question": "Mit nevezünk variációnak?",
+  "options": [
+   {
+    "text": "Az adott földrajzi helyen áthaladó mágneses erővonal, és a valódi északi irány szögeltérését nevezzük variációnak.",
+    "correct": true
+   },
+   {
+    "text": "A mágneses északi irány és a tájoló által jelzett északi irány különbségét variációnak nevezzük.",
+    "correct": false
+   },
+   {
+    "text": "A hajó mágneses térereje befolyásolja az eltérést, ezt nevezzük variációnak.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-17",
+  "number": 17,
+  "question": "Fejezze be a mondatot! A variáció (     )",
+  "options": [
+   {
+    "text": "keleti (E) vagy nyugati (W) lehet.",
+    "correct": true
+   },
+   {
+    "text": "északi (N) vagy déli (S) lehet.",
+    "correct": false
+   },
+   {
+    "text": "csak pozitív lehet.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-18",
+  "number": 18,
+  "question": "Mi a keleti variáció előjele a számítások során?",
+  "options": [
+   {
+    "text": "+, azaz, pozitív.",
+    "correct": true
+   },
+   {
+    "text": "-, azaz negatív.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-19",
+  "number": 19,
+  "question": "Mi a nyugati variáció előjele a számítások során?",
+  "options": [
+   {
+    "text": "-, azaz negatív.",
+    "correct": true
+   },
+   {
+    "text": "+, azaz, pozitív.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-20",
+  "number": 20,
+  "question": "Mit jelent a térképen ez a tájékoztató szöveg: Magnetic Variation 4°30'W 2011 (8'E)?",
+  "options": [
+   {
+    "text": "Az adott pozícióban, 2011. évben a mágneses variáció értéke 4 fok 30 perc volt nyugati irányba. Ez az érték változik évente 8 percet kelet felé.",
+    "correct": true
+   },
+   {
+    "text": "4 fok 30 perc nyugati hosszúságon lévő pozícióban a mágneses variáció értéke 2011-ben 8 perc keleti irányban.",
+    "correct": false
+   },
+   {
+    "text": "A 2011. évi felmérés szerint a mágneses variáció értéke 4 fok 30 perc nyugatra, a mérési hibatartomány 8 perc.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-21",
+  "number": 21,
+  "question": "Milyen irányba mutat a mágneses tájolónk mágnestűje?",
+  "options": [
+   {
+    "text": "A tű a földmágnesség és a hajómágnesség eredő erőinek irányába mutat, ezt nevezzük tájoló északi iránynak.",
+    "correct": true
+   },
+   {
+    "text": "A tű az útirányunkba mutat, ezt nevezzük tájoló útiránynak.",
+    "correct": false
+   },
+   {
+    "text": "A tű a valódi északi irányba mutat, amennyiben a tájolót kompenzáltuk a térképen leolvasott variáció értékével.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-22",
+  "number": 22,
+  "question": "Mi befolyásolja az orrszög értékét?",
+  "options": [
+   {
+    "text": "A saját hajónk vagy a céltárgy mozgása.",
+    "correct": true
+   },
+   {
+    "text": "A variáció.",
+    "correct": false
+   },
+   {
+    "text": "A deviáció.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-23",
+  "number": 23,
+  "question": "Milyen térképet használnak kishajókon a part menti navigációhoz?",
+  "options": [
+   {
+    "text": "Mercator-féle vetületet.",
+    "correct": true
+   },
+   {
+    "text": "Gnomonikus vetületet.",
+    "correct": false
+   },
+   {
+    "text": "Középponti síkvetületű térképet.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-24",
+  "number": 24,
+  "question": "Méretarány (lépték) szerint csoportosítva milyen térképekkel találkozhatunk egy hajón?",
+  "options": [
+   {
+    "text": "Átnézeti, útvonal, részlet, részletes part és kikötői térképekkel.",
+    "correct": true
+   },
+   {
+    "text": "A régebbi kiadású térképek más léptékűek, mint a ma használatosak. Helymeghatározásnál erre ügyelni kell.",
+    "correct": false
+   },
+   {
+    "text": "A4-es hordozható (kormányállásban használható), és A3-as nagyméretű (térképasztalon használatos) térképek.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-25",
+  "number": 25,
+  "question": "Hogyan mérjük meg a Mercator térképen két pont távolságát?",
+  "options": [
+   {
+    "text": "A pontok körzőnyílásba vett távolságát a térkép függőleges keretéhez illesztve le tudjuk olvasni, hogy hány ívperc, azaz hány tengeri mérföld a mérendő távolság.",
+    "correct": true
+   },
+   {
+    "text": "A térképen lévő távolságmérő skála segítségével.",
+    "correct": false
+   },
+   {
+    "text": "A térkép alján vagy tetején mért hosszúságkülönbségként számoljuk ki.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-26",
+  "number": 26,
+  "question": "Hogyan járunk el, ha nagyobb távolságot kell lemérnünk a Mercator térképen (amelyet a körzőnk már nem ér át)?",
+  "options": [
+   {
+    "text": "A végpontok közötti közepes szélességen körzőnyílásba veszünk egy 5 vagy 10 mérföldes egységet, és ezt a térképen többször, lépegetve felmérjük.",
+    "correct": true
+   },
+   {
+    "text": "A térképen lévő távolságmérő skála, és mérőszalag alkalmazásával.",
+    "correct": false
+   },
+   {
+    "text": "A térkép alján vagy tetején lévő skála közepes hosszúságán, egyenes vonalzó segítségével.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-27",
+  "number": 27,
+  "question": "A mellékelt horvát térképrészleten, a piros nyíllal jelzett helyen, milyen színű fénnyel világít a szektoros fény?",
+  "options": [
+   {
+    "text": "Fehér.",
+    "correct": true
+   },
+   {
+    "text": "Vörös.",
+    "correct": false
+   },
+   {
+    "text": "Sárga.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_1.jpg"
+ },
+ {
+  "id": "tengeri-28",
+  "number": 28,
+  "question": "A mellékelt térképrészleten a piros nyíl milyen vízmélységet jelöl?",
+  "options": [
+   {
+    "text": "79 méter.",
+    "correct": true
+   },
+   {
+    "text": "7 méter 90 centiméter.",
+    "correct": false
+   },
+   {
+    "text": "79 láb.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_2.jpg"
+ },
+ {
+  "id": "tengeri-29",
+  "number": 29,
+  "question": "Mit jelent a piros nyíllal jelzett térképjel?",
+  "options": [
+   {
+    "text": "Horgonyzóhely, a vízmélység 4,1 méter.",
+    "correct": true
+   },
+   {
+    "text": "Kijelölt kikötőhely, legfeljebb 41 láb hosszú hajók részére.",
+    "correct": false
+   },
+   {
+    "text": "Ajánlott horgonyzóhely, a megengedett legnagyobb merülés 4,1 fathom.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_4.jpg"
+ },
+ {
+  "id": "tengeri-30",
+  "number": 30,
+  "question": "A mellékelt horvát térképrészleten a piros nyíllal jelzett helyen milyen színű fénnyel világít a szektoros fény?",
+  "options": [
+   {
+    "text": "Vörös.",
+    "correct": true
+   },
+   {
+    "text": "Fehér.",
+    "correct": false
+   },
+   {
+    "text": "Sárga.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_5.jpg"
+ },
+ {
+  "id": "tengeri-31",
+  "number": 31,
+  "question": "Mit jelent a piros nyíllal jelzett térképjel?",
+  "options": [
+   {
+    "text": "Horgonyzóhely, 4,3 méteres vízmélységgel.",
+    "correct": true
+   },
+   {
+    "text": "Kikötőhely, 43 láb vízmélységgel.",
+    "correct": false
+   },
+   {
+    "text": "Horgonyzóhely, 4,3 kábel vízmélységgel.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_7.jpg"
+ },
+ {
+  "id": "tengeri-32",
+  "number": 32,
+  "question": "Mit jelent a piros nyíllal jelzett térképjel?",
+  "options": [
+   {
+    "text": "Horgonyzóhely.",
+    "correct": true
+   },
+   {
+    "text": "Kijelölt kikötőhely.",
+    "correct": false
+   },
+   {
+    "text": "Jachtkikötő (marina).",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_9.jpg"
+ },
+ {
+  "id": "tengeri-33",
+  "number": 33,
+  "question": "Mit jelent a piros nyíllal jelzett térképjel?",
+  "options": [
+   {
+    "text": "Elsüllyedt hajóroncs, olyan mélységben, hogy áthajózni felette nem veszélyes.",
+    "correct": true
+   },
+   {
+    "text": "Víz alatti elektromos kábelvezeték, áthajózni felette nem veszélytelen.",
+    "correct": false
+   },
+   {
+    "text": "Vízfelszínen úszó meteorológiai állomás.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_11.jpg"
+ },
+ {
+  "id": "tengeri-34",
+  "number": 34,
+  "question": "Mit jelent a mellékelt térképrészleten a piros nyíllal jelzett, sárga színnel jelölt terület?",
+  "options": [
+   {
+    "text": "A sárgával jelölt terület szárazföld. A tenger szintje fölé alig kiemelkedő szigetecskék a kishajók részére gyakran veszélyes helyek.",
+    "correct": true
+   },
+   {
+    "text": "A sárgával jelölt területen minden esetben legalább 10 méter vízmélység áll rendelkezésre, áthajózni felette nem veszélyes.",
+    "correct": false
+   },
+   {
+    "text": "A sárgával jelölt terület sekély vízmélységet jelez, ezért áthajózni felette nem veszélytelen.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_16.jpg"
+ },
+ {
+  "id": "tengeri-35",
+  "number": 35,
+  "question": "Mit jelent a piros nyíllal jelzett térképjel?",
+  "options": [
+   {
+    "text": "Révkalauz beszállóállomás.",
+    "correct": true
+   },
+   {
+    "text": "Rádióállomás.",
+    "correct": false
+   },
+   {
+    "text": "AIS állomás.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_17.jpg"
+ },
+ {
+  "id": "tengeri-36",
+  "number": 36,
+  "question": "Mit jelent a piros nyíllal jelzett térképjel?",
+  "options": [
+   {
+    "text": "Tenger alatti kábel.",
+    "correct": true
+   },
+   {
+    "text": "Vízfelszínen lebegő kábelvezeték.",
+    "correct": false
+   },
+   {
+    "text": "Mederfenéken található törésvonal.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_19.jpg"
+ },
+ {
+  "id": "tengeri-37",
+  "number": 37,
+  "question": "Mit jelez a mellékelt térképrészleten a piros nyíllal jelzett vonal?",
+  "options": [
+   {
+    "text": "100 méter vízmélységet.",
+    "correct": true
+   },
+   {
+    "text": "100 láb vízmélységet.",
+    "correct": false
+   },
+   {
+    "text": "100 fathom vízmélységet.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_20.jpg"
+ },
+ {
+  "id": "tengeri-38",
+  "number": 38,
+  "question": "Mit jelez a mellékelt térképrészleten a piros nyíllal jelzett vonal?",
+  "options": [
+   {
+    "text": "14 fok 50 perc hosszúsági kört.",
+    "correct": true
+   },
+   {
+    "text": "14,50 fok hosszúsági kört.",
+    "correct": false
+   },
+   {
+    "text": "14 fok 50 perc szélességi kört.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_21.jpg"
+ },
+ {
+  "id": "tengeri-39",
+  "number": 39,
+  "question": "A mellékelt horvát térképrészleten, a piros nyíllal jelzett helyen, milyen színű fénnyel világít a szektoros fény?",
+  "options": [
+   {
+    "text": "Fehér.",
+    "correct": true
+   },
+   {
+    "text": "Zöld.",
+    "correct": false
+   },
+   {
+    "text": "Sárga.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_22.jpg"
+ },
+ {
+  "id": "tengeri-40",
+  "number": 40,
+  "question": "A mellékelt horvát térképrészleten a piros nyíllal jelzett helyen lévő bója milyen színű szektoros fényekkel világít?",
+  "options": [
+   {
+    "text": "Fehér és vörös.",
+    "correct": true
+   },
+   {
+    "text": "Zöld és vörös.",
+    "correct": false
+   },
+   {
+    "text": "Sárga és fehér.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_24.jpg"
+ },
+ {
+  "id": "tengeri-41",
+  "number": 41,
+  "question": "Mit jelent a piros nyíllal jelzett térképjel?",
+  "options": [
+   {
+    "text": "Víz alatti csővezeték.",
+    "correct": true
+   },
+   {
+    "text": "Víz alatti elektromos kábelvezeték.",
+    "correct": false
+   },
+   {
+    "text": "Kikötőbe vezető irányvonalak.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_26.jpg"
+ },
+ {
+  "id": "tengeri-42",
+  "number": 42,
+  "question": "Milyen anyagú tengerfeneket jelez a térképrészleten piros nyíllal jelzett, M betűből álló térképjel?",
+  "options": [
+   {
+    "text": "Iszapos.",
+    "correct": true
+   },
+   {
+    "text": "Kavicsos.",
+    "correct": false
+   },
+   {
+    "text": "Sziklás.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_27.jpg"
+ },
+ {
+  "id": "tengeri-43",
+  "number": 43,
+  "question": "Mit jelent a piros nyíllal jelzett térképjel?",
+  "options": [
+   {
+    "text": "Sekély terület vagy zátony, a legkisebb vízmélység 14,7 méter.",
+    "correct": true
+   },
+   {
+    "text": "Hajózásra nem veszélyes víz alatti roncs, a vízmélység 147 láb.",
+    "correct": false
+   },
+   {
+    "text": "Kavicsos tengerfenék, a legnagyobb vízmélység 14,7 fathom.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_28.jpg"
+ },
+ {
+  "id": "tengeri-44",
+  "number": 44,
+  "question": "Mit jelent a piros nyíllal jelzett térképjel?",
+  "options": [
+   {
+    "text": "Sekély terület vagy zátony, a legkisebb vízmélység 10,2 méter.",
+    "correct": true
+   },
+   {
+    "text": "Hajózásra nem veszélyes víz alatti roncs, 102 láb mélységű víz.",
+    "correct": false
+   },
+   {
+    "text": "Kavicsos tengerfenék, a legnagyobb vízmélység 10,2 fathom.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_29.jpg"
+ },
+ {
+  "id": "tengeri-45",
+  "number": 45,
+  "question": "Mit jelent a piros nyíllal jelzett térképjel? Fejezze be a mondatot! Két sziget közötti forgalomelválasztó rendszer (     )",
+  "options": [
+   {
+    "text": "északi hajózási zónája.",
+    "correct": true
+   },
+   {
+    "text": "nyugati hajózási zónája.",
+    "correct": false
+   },
+   {
+    "text": "keleti hajózási zónája.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_45.jpg"
+ },
+ {
+  "id": "tengeri-46",
+  "number": 46,
+  "question": "Mit jelent a térképrészleten piros nyíllal jelzett térképjel?",
+  "options": [
+   {
+    "text": "Veszélyes szikla, amely időnként víz alatt van, időnként kilátszik (pl. ár-apály miatt).",
+    "correct": true
+   },
+   {
+    "text": "Vízfelszín fölé mindig kiemelkedő kis sziklasziget.",
+    "correct": false
+   },
+   {
+    "text": "Víz alatt lévő szikla, áthajózni felette nem veszélyes.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_44.jpg"
+ },
+ {
+  "id": "tengeri-47",
+  "number": 47,
+  "question": "Milyen anyagú tengerfeneket jelez a térképrészleten piros nyíllal jelzett, S betűből álló térképjel?",
+  "options": [
+   {
+    "text": "Homokosat.",
+    "correct": true
+   },
+   {
+    "text": "Kavicsosat.",
+    "correct": false
+   },
+   {
+    "text": "Mészköveset.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_42.jpg"
+ },
+ {
+  "id": "tengeri-48",
+  "number": 48,
+  "question": "Mit jelent a térképrészleten piros nyíllal jelzett térképjel?",
+  "options": [
+   {
+    "text": "Hullámtörés (pl. ár-apály miatt).",
+    "correct": true
+   },
+   {
+    "text": "Halászoknak fenntartott hely.",
+    "correct": false
+   },
+   {
+    "text": "Veszélyes vízfelszíni áramlatok.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_40.jpg"
+ },
+ {
+  "id": "tengeri-49",
+  "number": 49,
+  "question": "Mit jelent a mellékelt angol nyelvű térképrészleten a piros nyíllal jelzett helyen lévő OBSCURED felirat? Fejezze be a mondatot! A világítótorony fénye (     )",
+  "options": [
+   {
+    "text": "eltakart, nem látható.",
+    "correct": true
+   },
+   {
+    "text": "vörösen látható (obscu red).",
+    "correct": false
+   },
+   {
+    "text": "a jelzett szektorban látható.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_34.jpg"
+ },
+ {
+  "id": "tengeri-50",
+  "number": 50,
+  "question": "Mit jelöl a térképrészleten a piros nyíllal jelzett # térképjel?",
+  "options": [
+   {
+    "text": "Rossz minőségű mederfeneket. Áthajózni felette nem veszélyes, de horgonyzásra nem javasolt.",
+    "correct": true
+   },
+   {
+    "text": "Történelmi hajóroncsot.",
+    "correct": false
+   },
+   {
+    "text": "Víz alatti sziklát. Áthajózni felette nem veszélytelen.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_35.jpg"
+ },
+ {
+  "id": "tengeri-51",
+  "number": 51,
+  "question": "Mit jelöl a térképrészleten piros nyíllal jelzett terület?",
+  "options": [
+   {
+    "text": "Mély merülésű hajók horgonyzóhelyét.",
+    "correct": true
+   },
+   {
+    "text": "Halászhajók horgonyzóhelyét.",
+    "correct": false
+   },
+   {
+    "text": "A zónát, ahol horgonyozni tilos.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_36.jpg"
+ },
+ {
+  "id": "tengeri-52",
+  "number": 52,
+  "question": "Milyen távolságból látható a felvillanó fehér fény, ha a mellékelt angol nyelvű térképrészleten piros nyíllal jelzett helyen lévő információsorban ezt olvassuk: Fl.WR. 5s 17/12M?",
+  "options": [
+   {
+    "text": "17 tengeri mérföld.",
+    "correct": true
+   },
+   {
+    "text": "12 tengeri mérföld.",
+    "correct": false
+   },
+   {
+    "text": "Fehér fényt nem látunk.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_38.jpg"
+ },
+ {
+  "id": "tengeri-53",
+  "number": 53,
+  "question": "Mit jelent a piros nyíllal jelzett térképjel?",
+  "options": [
+   {
+    "text": "AIS jeladóval ellátott világítótorony.",
+    "correct": true
+   },
+   {
+    "text": "Rádiójelet sugárzó világítótorony.",
+    "correct": false
+   },
+   {
+    "text": "Radarjelet visszaverő világítótorony.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_3.jpg"
+ },
+ {
+  "id": "tengeri-54",
+  "number": 54,
+  "question": "Mit jelent a mellékelt horvát térképrészleten a piros nyíllal jelzett helyen lévő jelzőtestre vonatkozó információk közül az 5m 3M érték?",
+  "options": [
+   {
+    "text": "A fényjelzés 5 méter magasan van, 3 tengeri mérföldről látható.",
+    "correct": true
+   },
+   {
+    "text": "A fényjelzés 3 méter magasan van, 5 tengeri mérföldről látható.",
+    "correct": false
+   },
+   {
+    "text": "A fényjelzés láthatósága 3 és 5 tengeri mérföld között van.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_8.jpg"
+ },
+ {
+  "id": "tengeri-55",
+  "number": 55,
+  "question": "Milyen vonalra mutat a mellékelt horvát térképrészleten a piros nyíl?",
+  "options": [
+   {
+    "text": "A hajózható útirányt jelző fehér szektorfény határvonalára.",
+    "correct": true
+   },
+   {
+    "text": "A körbevilágító sárga szektorfény határvonalára.",
+    "correct": false
+   },
+   {
+    "text": "Az irányító rádiójelek szektorainak határvonalára.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_10.jpg"
+ },
+ {
+  "id": "tengeri-56",
+  "number": 56,
+  "question": "Mit jelent a mellékelt horvát térképrészleten a piros nyíllal jelzett helyen olvasható információsor: C Bl(2) 6s 12m 4M?",
+  "options": [
+   {
+    "text": "Hat másodpercenként kettőször felvillanó, vörös színű fény, amely 12 méter magas és 4 tengeri mérföldről látható.",
+    "correct": true
+   },
+   {
+    "text": "Hat másodpercenként két másodpercre megszakított, fehér színű fény, amely 4 méter magas és 12 tengeri mérföldről látható.",
+    "correct": false
+   },
+   {
+    "text": "Tizenkét percenként hat másodpercre elsötétedő, két színű (vörös és fehér) fény, amely 4 tengeri mérföldről látható.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_12.jpg"
+ },
+ {
+  "id": "tengeri-57",
+  "number": 57,
+  "question": "Hová mutat a horvát térképrészleten a piros nyíl?",
+  "options": [
+   {
+    "text": "Egy szektoros fényű világítótorony fehér szektorára.",
+    "correct": true
+   },
+   {
+    "text": "Egy szektoros fényű világítótorony piros szektorára.",
+    "correct": false
+   },
+   {
+    "text": "Egy szektoros fényű világítótorony zöld szektorára.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_13.jpg"
+ },
+ {
+  "id": "tengeri-58",
+  "number": 58,
+  "question": "Mit jelent a mellékelt horvát térképrészleten a piros nyíllal jelzett helyen lévő világítótoronyról szóló információsorban a Bl(2) 10s érték?",
+  "options": [
+   {
+    "text": "Csoportos, tíz másodpercenként kettőt felvillanó fény.",
+    "correct": true
+   },
+   {
+    "text": "Állandó fázisú fény, tíz másodperc ideig két szín villan fel.",
+    "correct": false
+   },
+   {
+    "text": "Tíz másodpercenként két másodpercre elsötétedő fény.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_18.jpg"
+ },
+ {
+  "id": "tengeri-59",
+  "number": 59,
+  "question": "Milyen területet jelez a mellékelt horvát térképrészleten a piros nyíl? Fejezze be a mondatot! Kikötő világítótornyának (     )",
+  "options": [
+   {
+    "text": "zöld (behajózható) szektorát.",
+    "correct": true
+   },
+   {
+    "text": "sárga (behajózható) szektorát.",
+    "correct": false
+   },
+   {
+    "text": "fehér (behajózható) szektorát",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_25.jpg"
+ },
+ {
+  "id": "tengeri-60",
+  "number": 60,
+  "question": "Mit jelent a mellékelt angol nyelvű térképrészleten a piros nyíllal jelzett helyen lévő információsorban a Horn(1) 30s felirat? Fejezze be a mondatot! A világítótorony korlátozott látási viszonyok között (     )",
+  "options": [
+   {
+    "text": "30 másodpercenként egy kürtjelet ad.",
+    "correct": true
+   },
+   {
+    "text": "30 percenként kongat egyet.",
+    "correct": false
+   },
+   {
+    "text": "a fényjelzésekkel szinkronban hangjelzéseket is ad.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_33.jpg"
+ },
+ {
+  "id": "tengeri-61",
+  "number": 61,
+  "question": "Mit jelent az angol nyelvű a térképrészleten a piros nyíllal jelzett FR térképfelirat? Fejezze be a mondatot! A világítótorony szektoros fénye (     )",
+  "options": [
+   {
+    "text": "állandó (folyamatosan világító), vörös színű.",
+    "correct": true
+   },
+   {
+    "text": "ebben a szektorban eltakart, nem látszik (obscured).",
+    "correct": false
+   },
+   {
+    "text": "egyszer felvillanó, vörös fényű.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_41.jpg"
+ },
+ {
+  "id": "tengeri-62",
+  "number": 62,
+  "question": "Mit jelent az angol nyelvű a térképrészleten a piros nyíllal jelzett információs feliratból az a rész, hogy Iso.WR.10s? Fejezze be a mondatot! A világítótorony fénye (     )",
+  "options": [
+   {
+    "text": "izofázisú, a világító és a sötét fázis tíz másodpercenként váltja egymást, a színe fehér és vörös.",
+    "correct": true
+   },
+   {
+    "text": "felvillanó, tíz másodpercenként villan egyet, vörös és zöld színű.",
+    "correct": false
+   },
+   {
+    "text": "állandó, színe fehér, tíz másodpercenként egy vörös villanással megszakítva.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_43.jpg"
+ },
+ {
+  "id": "tengeri-63",
+  "number": 63,
+  "question": "Milyen jellegű (karakterisztikájú) lehet egy világítótorony fénye?",
+  "options": [
+   {
+    "text": "Állandó, villanó, csoportosan villanó, elsötétedő, izofázisú, szektoros fény.",
+    "correct": true
+   },
+   {
+    "text": "A világítótornyon mindig villanó fények vannak, míg az úszó bójákon állandóak.",
+    "correct": false
+   },
+   {
+    "text": "A világítótorony fényei mindig szektoros fények.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-64",
+  "number": 64,
+  "question": "Mit jelent az Fl(3)W 16s 20m 15M jelölés egy angol nyelvű hajózási térképen?",
+  "options": [
+   {
+    "text": "Csoportos, 16 másodpercenként háromszor felvillanó fehér fény, amely 20 méter magasan van elhelyezve, és 15 tengeri mérföldről látható.",
+    "correct": true
+   },
+   {
+    "text": "Állandó fázisú, 16 másodpercenként háromszor villanó, 20 tengeri mérföldről látható, 15 méter magasan elhelyezett fény.",
+    "correct": false
+   },
+   {
+    "text": "Három percenkét 16 másodpercre elsötétülő fehér fény, 15 és 20 tengeri mérföld közötti láthatósággal.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-65",
+  "number": 65,
+  "question": "Mit jelent a piros nyíllal jelzett térképjel?",
+  "options": [
+   {
+    "text": "Különálló veszélyes helyet jelölő bója.",
+    "correct": true
+   },
+   {
+    "text": "Déli irányban veszélyt jelölő, északi kardinális bója.",
+    "correct": false
+   },
+   {
+    "text": "Hajóút szélét jelölő laterális bója.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_6.jpg"
+ },
+ {
+  "id": "tengeri-66",
+  "number": 66,
+  "question": "Milyen információt hordoz a horvát térképrészleten a piros nyíllal jelölt terület?",
+  "options": [
+   {
+    "text": "Ez egy különálló veszélyes hely. A veszélyt jelzi a világítótorony vörös színű szektorfénye, és egy fényjelzéssel ellátott bója.",
+    "correct": true
+   },
+   {
+    "text": "A bójával megjelölt veszélyes hely nagy magassága kitakarja a világítótorony körbevilágító fényjelzését.",
+    "correct": false
+   },
+   {
+    "text": "A nyíllal megjelölt szektorban csak a különálló veszélyes helyet jelölő bója vörös színű villogó fénye látható, a világítótorony fénye nem.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_15.jpg"
+ },
+ {
+  "id": "tengeri-67",
+  "number": 67,
+  "question": "Mit jelöl a térképen piros nyíllal jelzett bója?",
+  "options": [
+   {
+    "text": "Különálló veszélyes helyet.",
+    "correct": true
+   },
+   {
+    "text": "Nyugatra lévő veszélyes helyet (keleti kardinális bója).",
+    "correct": false
+   },
+   {
+    "text": "Hajóút tengelyét.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_23.jpg"
+ },
+ {
+  "id": "tengeri-68",
+  "number": 68,
+  "question": "Mit jelöl a térképen piros nyíllal jelzett bója?",
+  "options": [
+   {
+    "text": "Délre lévő veszélyes helyet (északi kardinális bója).",
+    "correct": true
+   },
+   {
+    "text": "Északra lévő veszélyes helyet (déli kardinális bója).",
+    "correct": false
+   },
+   {
+    "text": "Különálló veszélyes helyet.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_30.jpg"
+ },
+ {
+  "id": "tengeri-69",
+  "number": 69,
+  "question": "Milyen bójára mutat az angol nyelvű térképrészleten a piros nyíl? Fejezze be a mondatot! Hajózási csatorna szélén lévő, (     )",
+  "options": [
+   {
+    "text": "öt másodpercenként egy zöld fénnyel felvillanó bójára.",
+    "correct": true
+   },
+   {
+    "text": "öt másodpercenként egy vörös fénnyel felvillanó bójára.",
+    "correct": false
+   },
+   {
+    "text": "öt másodpercenként egy fehér fénnyel felvillanó bójára.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_46.jpg"
+ },
+ {
+  "id": "tengeri-70",
+  "number": 70,
+  "question": "Mit jelent a mellékelt angol nyelvű térképrészleten a piros nyíllal jelzett helyen lévő bójáról szóló információsorban a BELL felirat? Fejezze be a mondatot! A bója (     )",
+  "options": [
+   {
+    "text": "hullámos vízen harangozik.",
+    "correct": true
+   },
+   {
+    "text": "radarreflektorral ellátott.",
+    "correct": false
+   },
+   {
+    "text": "rádiójelet sugároz.",
+    "correct": false
+   }
+  ],
+  "image": "tengeri/kedv_IV_tengeri_kishajo_370x400v3_32.jpg"
+ },
+ {
+  "id": "tengeri-71",
+  "number": 71,
+  "question": "Milyen hajóút kitűzési rendszert alkalmaznak az európai tengereken?",
+  "options": [
+   {
+    "text": "IALA-A",
+    "correct": true
+   },
+   {
+    "text": "IALA-B",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-72",
+  "number": 72,
+  "question": "Mi a forgalomelválasztó (szeparációs) rendszerben való hajózás fő szabálya?",
+  "options": [
+   {
+    "text": "Csak a kijelölt forgalmi sávban, az arra vonatkozó általános haladási irányban szabad haladni (a halászhajók és keresztező hajók kivételével).",
+    "correct": true
+   },
+   {
+    "text": "A tengeri vízi forgalom szeparálódik a hajók aktuális merülés adatai alapján.",
+    "correct": false
+   },
+   {
+    "text": "A forgalomelválasztó rendszer kizárólag csak a nagyhajókra vonatkozik, így a kishajó közlekedhet bárhol.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-73",
+  "number": 73,
+  "question": "Egymással szembe haladó géphajóknak hogyan kell kitérniük?",
+  "options": [
+   {
+    "text": "Jobbra téréssel (red to red).",
+    "correct": true
+   },
+   {
+    "text": "Balra téréssel (green to green).",
+    "correct": false
+   },
+   {
+    "text": "Egyik jobbra tér, a másik balra.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-74",
+  "number": 74,
+  "question": "Előzéskor általában melyik hajó nem változtat útirányt?",
+  "options": [
+   {
+    "text": "Akit előznek.",
+    "correct": true
+   },
+   {
+    "text": "Aki előz.",
+    "correct": false
+   },
+   {
+    "text": "A VHF rádió 13-as csatornáján történő egyeztetés szerinti.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-75",
+  "number": 75,
+  "question": "Milyen fényeket köteles viselni éjszaka az 50 méternél rövidebb, menetben lévő géphajó éjszaka?",
+  "options": [
+   {
+    "text": "1 db árbocfényt, oldalfényeket és farfényt.",
+    "correct": true
+   },
+   {
+    "text": "2 db árbocfényt, oldalfényeket és farfényt.",
+    "correct": false
+   },
+   {
+    "text": "A géphajóra előírt fényeken kívül egy körbe világító villanó sárga fényt.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-76",
+  "number": 76,
+  "question": "Milyen fényeket visel éjszaka az 50 méternél hosszabb, menetben lévő géphajó éjszaka?",
+  "options": [
+   {
+    "text": "2 db árbocfényt, oldalfényeket és farfényt.",
+    "correct": true
+   },
+   {
+    "text": "1 db árbocfényt, oldalfényeket és farfényt.",
+    "correct": false
+   },
+   {
+    "text": "Szokásos navigációs fényein kívül köteles viselni egy függőleges vonalban elhelyezett felül fehér alul vörös körbevilágító fényt.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-77",
+  "number": 77,
+  "question": "Milyen kiegészítő fényt visel a vízből kiemelkedve közlekedő légpárnás hajó éjszaka?",
+  "options": [
+   {
+    "text": "Egy minden oldalról látható sárga fényű villanólámpát.",
+    "correct": true
+   },
+   {
+    "text": "Az árbocfény közelében, egymás felett, felül zöld, alul fehér körbevilágító fényt.",
+    "correct": false
+   },
+   {
+    "text": "A talpára állított háromszög csúcsaiban elhelyezett zöld fényeket.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-78",
+  "number": 78,
+  "question": "Milyen kiegészítő fényeket visel az aknaszedő hajó éjszaka?",
+  "options": [
+   {
+    "text": "Talpára állított háromszög csúcsaiban elhelyezett minden oldalról látható zöld fényeket.",
+    "correct": true
+   },
+   {
+    "text": "A géphajóra előírt fényeken kívül egy körbe világító villanó sárga fényt.",
+    "correct": false
+   },
+   {
+    "text": "2 db árbocfényt, oldalfényeket és farfényt.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-79",
+  "number": 79,
+  "question": "Milyen kiegészítő jelzőtesteket visel az aknaszedő hajó nappal?",
+  "options": [
+   {
+    "text": "Talpára állított háromszög csúcsaiban elhelyezett fekete gömböket.",
+    "correct": true
+   },
+   {
+    "text": "Egy csúcsával összefordított, fekete kettőskúpot.",
+    "correct": false
+   },
+   {
+    "text": "Egy talpával összefordított fekete kettőskúpot.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-80",
+  "number": 80,
+  "question": "Milyen kiegészítő fényeket visel a vonóhálóval halászó hajó éjszaka?",
+  "options": [
+   {
+    "text": "Egymás fölött elhelyezett két minden oldalról látható lámpát, melyek közül a felső zöld, az alsó fehér fényű.",
+    "correct": true
+   },
+   {
+    "text": "Az árbocfény helyén egymás felett felül vörös alul fehér körbevilágító fényt köteles viselni.",
+    "correct": false
+   },
+   {
+    "text": "Szokásos navigációs fényein kívül függőleges vonalban elhelyezett 3 db vörös fényű lámpát.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-81",
+  "number": 81,
+  "question": "Milyen kiegészítő fényeket visel a kerítőhálóval halászó hajó éjszaka?",
+  "options": [
+   {
+    "text": "Függőleges vonalban, egymás fölött elhelyezett, két minden oldalról látható lámpát, melyek közül a felső vörös, az alsó fehér fényű.",
+    "correct": true
+   },
+   {
+    "text": "Szokásos navigációs fényein kívül függőleges vonalban elhelyezett 2 db vörös fényű lámpát.",
+    "correct": false
+   },
+   {
+    "text": "Az árbocfény közelében, egymás felett, felül zöld, alul fehér körbevilágító és a géphajóra előírt navigációs fényeit viselnie kell.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-82",
+  "number": 82,
+  "question": "Milyen kiegészítő fényeket visel a menetben lévő, kormányképtelen géphajó éjszaka?",
+  "options": [
+   {
+    "text": "Függőleges vonalban, egymás fölött elhelyezett, két minden oldalról látható vörös lámpát.",
+    "correct": true
+   },
+   {
+    "text": "Függőleges vonalban elhelyezett 3 db vörös fényű lámpát visel.",
+    "correct": false
+   },
+   {
+    "text": "1 db legfelül elhelyezett, minden oldalról látható vörös fényű lámpát.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-83",
+  "number": 83,
+  "question": "Milyen kiegészítő fényeket visel a manőverképességében korlátozott géphajó éjszaka?",
+  "options": [
+   {
+    "text": "Függőleges vonalban, egymás fölött elhelyezett, három minden oldalról látható lámpát, melyek közül a legfelső és a legalsó vörös, a középső fehér fényű.",
+    "correct": true
+   },
+   {
+    "text": "Függőleges vonalban, egymás fölött elhelyezett, két minden oldalról látható vörös lámpát.",
+    "correct": false
+   },
+   {
+    "text": "Függőleges vonalban elhelyezett három, minden oldalról látható vörös lámpát.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-84",
+  "number": 84,
+  "question": "Milyen kiegészítő jelzőtesteket visel a vonóhálóval halászó hajó nappal?",
+  "options": [
+   {
+    "text": "Két egymás fölött elhelyezett, csúcsaikkal érintkező fekete kúpot.",
+    "correct": true
+   },
+   {
+    "text": "A géphajókon előírt jelzésen kívül visel egy, a talpára állított háromszög csúcsaiban elhelyezett fekete gömböket.",
+    "correct": false
+   },
+   {
+    "text": "Függőleges vonalban elhelyezett 2 db fekete gömböt köteles viselni.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-85",
+  "number": 85,
+  "question": "Milyen kiegészítő jelzőtesteket visel a kerítőhálóval halászó hajó nappal?",
+  "options": [
+   {
+    "text": "Két egymás fölött elhelyezett, csúcsaikkal érintkező fekete kúpot. Ha a háló 150 méternél messzebb nyúlik ki, akkor egy csúcsával felfelé mutató fekete kúpot a háló irányában.",
+    "correct": true
+   },
+   {
+    "text": "A géphajókon előírt jelzésen kívül visel egy, a talpára állított háromszög csúcsaiban elhelyezett fekete gömböket.",
+    "correct": false
+   },
+   {
+    "text": "Egy fekete hengerből álló jelzést köteles viselni. Ha a háló 150 méternél nem nyúlik ki messzebb, akkor egy csúcsával lefelé mutató fekete kúpot a háló irányában.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-86",
+  "number": 86,
+  "question": "Milyen kiegészítő jelzőtesteket visel a menetben lévő, kormányképtelen hajó nappal?",
+  "options": [
+   {
+    "text": "Függőleges vonalban, egymás fölött elhelyezett 2 db fekete gömböt.",
+    "correct": true
+   },
+   {
+    "text": "Egy csúcsával összefordított, fekete kettőskúpot.",
+    "correct": false
+   },
+   {
+    "text": "Egy fekete hengerből álló jelzést.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-87",
+  "number": 87,
+  "question": "Milyen kiegészítő jelzőtesteket visel a manőverképességében korlátozott géphajó nappal?",
+  "options": [
+   {
+    "text": "Függőleges vonalban, egymás fölött elhelyezett három fekete jelzőtestet, melyek közül a legfelső és a legalsó gömb, a középső rombusz alakú.",
+    "correct": true
+   },
+   {
+    "text": "Függőleges vonalban elhelyezett 1 db fekete gömböt, amely fölött egy fekete rombusz látható.",
+    "correct": false
+   },
+   {
+    "text": "Függőleges vonalban elhelyezett 3 db fekete gömböt köteles viselni, amelyek között egy-egy fekete rombusz látható.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-88",
+  "number": 88,
+  "question": "Milyen kiegészítő fényeket visel a merülése miatt mozgásában korlátozott géphajó éjszaka?",
+  "options": [
+   {
+    "text": "Függőleges vonalban, egymás fölött elhelyezett 3 db minden oldalról látható vörös fényű lámpát.",
+    "correct": true
+   },
+   {
+    "text": "Függőleges vonalban, egymás fölött elhelyezett 2 db vörös fényű lámpát.",
+    "correct": false
+   },
+   {
+    "text": "Az árbocfény felett, 1 db vörös fényű minden oldalról látható lámpát.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-89",
+  "number": 89,
+  "question": "Milyen kiegészítő jelzőtestet visel a merülése miatt mozgásában korlátozott géphajó nappal?",
+  "options": [
+   {
+    "text": "Egy fekete hengert.",
+    "correct": true
+   },
+   {
+    "text": "Egy fekete kúpot.",
+    "correct": false
+   },
+   {
+    "text": "Egy fekete gömböt.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-90",
+  "number": 90,
+  "question": "Milyen kiegészítő fényeket visel a révkalauz hajó éjszaka?",
+  "options": [
+   {
+    "text": "Függőleges vonalban, egymás fölött két minden oldalról látható lámpát, melyek közül a felső fehér, az alsó vörös fényű.",
+    "correct": true
+   },
+   {
+    "text": "Szokásos navigációs fényein kívül köteles viselni, függőleges vonalban elhelyezett felül vörös alul fehér körbevilágító fényt.",
+    "correct": false
+   },
+   {
+    "text": "2 db, vízszintes vonalban elhelyezett fehér, minden oldalról látható fényt.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-91",
+  "number": 91,
+  "question": "Milyen jelzőtestet visel a lehorgonyzott géphajó nappal?",
+  "options": [
+   {
+    "text": "Egy minden oldalról látható fekete gömböt.",
+    "correct": true
+   },
+   {
+    "text": "Egy fekete hengerből álló jelzést.",
+    "correct": false
+   },
+   {
+    "text": "Egy csúcsával lefelé álló fekete kúpot.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-92",
+  "number": 92,
+  "question": "Milyen fényeket visel a zátonyra futott géphajó éjszaka?",
+  "options": [
+   {
+    "text": "Horgonyfényein kívül függőleges vonalban, egymás alatt, két minden oldalról látható vörös fényű lámpát.",
+    "correct": true
+   },
+   {
+    "text": "Horgonyfényein kívül egy, vörös körbevilágító fényt visel.",
+    "correct": false
+   },
+   {
+    "text": "Horgonyfényein kívül három, függőleges vonalban elhelyezett vörös, minden oldalról látható fényt visel.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-93",
+  "number": 93,
+  "question": "Milyen kódlobogó jelzi nappal, hogy a révkalauz van a fedélzeten?",
+  "options": [
+   {
+    "text": "H (Hotel).",
+    "correct": true
+   },
+   {
+    "text": "P (Papa).",
+    "correct": false
+   },
+   {
+    "text": "B (Bravo).",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-94",
+  "number": 94,
+  "question": "Milyen fényeket visel a horgonyon álló géphajó éjszaka?",
+  "options": [
+   {
+    "text": "Egy minden oldalról látható, fehér fényű lámpát. Ha a hajó 50 méternél hosszabb, akkor második minden oldalról látható, fehér fényű lámpát is visel.",
+    "correct": true
+   },
+   {
+    "text": "Egy körbevilágító fehér fényt. Ha 50 méternél hosszabb a hajó, akkor a fedélzet megvilágítása is szükséges.",
+    "correct": false
+   },
+   {
+    "text": "Egy minden oldalról látható fehér fényt. Ha a hajó 50 méternél hosszabb, akkor egy kiegészítő körbevilágító zöld fény is szükséges.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-95",
+  "number": 95,
+  "question": "Milyen jelzőtesteket visel a zátonyra futott géphajó nappal?",
+  "options": [
+   {
+    "text": "Függőleges vonalban, egymás alatt három fekete gömböt.",
+    "correct": true
+   },
+   {
+    "text": "Függőleges vonalban elhelyezett 2 db fekete gömböt.",
+    "correct": false
+   },
+   {
+    "text": "1 db fekete gömböt.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-96",
+  "number": 96,
+  "question": "Milyen hangjelzést köteles adni szűk csatorna, vagy hajóút kanyarulatához közeledő géphajó?",
+  "options": [
+   {
+    "text": "Egy hosszú hangjelzést.",
+    "correct": true
+   },
+   {
+    "text": "Egy rövid hangjelzést.",
+    "correct": false
+   },
+   {
+    "text": "Két hosszú hangjelzést.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-97",
+  "number": 97,
+  "question": "Menetben lévő géphajó korlátozott látási viszonyok között milyen hangjelzést köteles adni?",
+  "options": [
+   {
+    "text": "Két percet meg nem haladó időközönként egy hosszú hangjelzést.",
+    "correct": true
+   },
+   {
+    "text": "Két percet meg nem haladó időközönként két rövid hangjelzést.",
+    "correct": false
+   },
+   {
+    "text": "Két percet meg nem haladó időközönként két hosszú hangjelzést.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-98",
+  "number": 98,
+  "question": "Mire szolgál a hajón elhelyezett vészhelyzetjelző rádióbója (EPIRB-bója)?",
+  "options": [
+   {
+    "text": "Ez egy olyan úszóképes helyzetjelző berendezés, amely a veszélybe került hajó azonosításához szükséges adatokat, valamint a jeladó pillanatnyi GPS koordinátáit sugározza műholdakon keresztül parti segélyközpontba.",
+    "correct": true
+   },
+   {
+    "text": "A bójával az elsüllyedt hajó helyét jelölik meg.",
+    "correct": false
+   },
+   {
+    "text": "Jelzi, hogy az adott pozícióban milyen tengeráramlásra lehet számítani.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-99",
+  "number": 99,
+  "question": "Melyik NEM vészjelzés az alábbiak közül?",
+  "options": [
+   {
+    "text": "Egyik kar folyamatos fel-le nyújtogatása.",
+    "correct": true
+   },
+   {
+    "text": "Ködjelző készülék folyamatos szólaltatása.",
+    "correct": false
+   },
+   {
+    "text": "Lángjelek a hajón (mint pl. egy olajos hordó meggyújtása).",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-100",
+  "number": 100,
+  "question": "Milyen jeleket sugároz a SART bója?",
+  "options": [
+   {
+    "text": "A felkutatást elősegítő radarfrekvenciás jelet.",
+    "correct": true
+   },
+   {
+    "text": "MMSI számot, pozíciót, hajónevet.",
+    "correct": false
+   },
+   {
+    "text": "A vészhelyzet jellegét közvetíti.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-101",
+  "number": 101,
+  "question": "Mi az összeütközések megelőzésére vonatkozó nemzetközi szabályozás (COLREG) területi hatálya?",
+  "options": [
+   {
+    "text": "Nyílt tengereken és az azokkal összeköttetésben lévő, tengeri hajókkal járható összes vizeken kell alkalmazni.",
+    "correct": true
+   },
+   {
+    "text": "Csak a nyílt tengeren hajózható vizeken érvényes.",
+    "correct": false
+   },
+   {
+    "text": "Csak a partmenti hajózható vizekre vonatkozik.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-102",
+  "number": 102,
+  "question": "Ki hosszabbíthatja meg a hajózási dokumentumok lejárt érvényességét külföldön?",
+  "options": [
+   {
+    "text": "A konzul.",
+    "correct": true
+   },
+   {
+    "text": "A nagykövet.",
+    "correct": false
+   },
+   {
+    "text": "Csak Magyarországon hosszabbíthatók.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-103",
+  "number": 103,
+  "question": "Mi a globális tengeri vészjelző és biztonsági rendszer (GMDSS) célja?",
+  "options": [
+   {
+    "text": "A biztonság növelése, és a bajba jutott hajók mentésének megkönnyítése.",
+    "correct": true
+   },
+   {
+    "text": "Korlátozott látási viszonyok között való tájékozódást segíti elő.",
+    "correct": false
+   },
+   {
+    "text": "Tengerrengéseket követő szökőár veszélyére figyelmeztet.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-104",
+  "number": 104,
+  "question": "Mi az INMARSAT rendszer?",
+  "options": [
+   {
+    "text": "Telefon- és adatszolgáltatást nyújtó műholdas kommunikációs rendszer, elsősorban a partoktól távol közlekedő hajók részére.",
+    "correct": true
+   },
+   {
+    "text": "A tenger szaturációjának, azaz oldott oxigéntartalmának változását leíró rendszer.",
+    "correct": false
+   },
+   {
+    "text": "A tenger áramlásának kedvezőtlen hatásaira figyelmeztető rendszer.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-105",
+  "number": 105,
+  "question": "A partoktól meddig terjed a GMDSS rendszerben az A1-es tengeri körzet?",
+  "options": [
+   {
+    "text": "A partoktól 20-30 tengeri mérföldig.",
+    "correct": true
+   },
+   {
+    "text": "A partoktól 2-3 tengeri mérföldig.",
+    "correct": false
+   },
+   {
+    "text": "A partoktól 200-300 tengeri mérföldig.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-106",
+  "number": 106,
+  "question": "Mit jelent az, ha egy VHF rádiócsatorna szimplex üzemmódú?",
+  "options": [
+   {
+    "text": "Az adás és a vétel ugyanazon a frekvencián történik, ezért egyszerre adni és venni rajta nem lehet, viszont a csatornán mindenki hall minden adást.",
+    "correct": true
+   },
+   {
+    "text": "Az adás és a vétel különböző frekvencián történik, ezért rajta a hajó által közölt információt csak a parti állomás hallja.",
+    "correct": false
+   },
+   {
+    "text": "A rádiócsatornán csak az adás üzemmód működik.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-107",
+  "number": 107,
+  "question": "Melyik szó használata jelenti VHF rádióforgalmazásban azt, hogy az egyik fél befejezi az adását és vételre kapcsolva várja a választ?",
+  "options": [
+   {
+    "text": "Over.",
+    "correct": true
+   },
+   {
+    "text": "Vége.",
+    "correct": false
+   },
+   {
+    "text": "Vettem.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-108",
+  "number": 108,
+  "question": "Hogyan történik a VHF rádiók bekapcsolása?",
+  "options": [
+   {
+    "text": "Egyes rádiókon külön ki- és bekapcsoló gomb van (On/Off), míg másokon a hangerőszabályzóval (Volume) van összekötve a ki- és a bekapcsolás.",
+    "correct": true
+   },
+   {
+    "text": "A piros műanyag fedelet felemelve a DISTRESS gomb megnyomásával kapcsoljuk be.",
+    "correct": false
+   },
+   {
+    "text": "A COVER gomb hosszú ideig (kb. 3 mp-ig) tartó megnyomásával lehet bekapcsolni.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-109",
+  "number": 109,
+  "question": "Mivel tudjuk a rádió által vett légköri- és egyéb elektromágneses alapzaj zavaró hatását csökkenteni?",
+  "options": [
+   {
+    "text": "A SQUELCH (zajzár) szolgál a rádióvevő érzékenységének beállítására.",
+    "correct": true
+   },
+   {
+    "text": "A DISTRESS gomb megnyomásával.",
+    "correct": false
+   },
+   {
+    "text": "Csak a hangerő letekerésével tudjuk csökkenteni a rádió alapzaját.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-110",
+  "number": 110,
+  "question": "Mit jelez a MAYDAY kifejezés használata a rádiózásban?",
+  "options": [
+   {
+    "text": "Vészhelyzeti kommunikációt, azonnali külső segítségre van szükség.",
+    "correct": true
+   },
+   {
+    "text": "Sürgősségi kommunikációt, nincs szükség azonnali külső segítségre.",
+    "correct": false
+   },
+   {
+    "text": "Biztonsággal kapcsolatos kommunikációt, navigációs és meteorológiai figyelmeztetéseket.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-111",
+  "number": 111,
+  "question": "Mit jelez a PAN-PAN kifejezés használata a rádiózásban?",
+  "options": [
+   {
+    "text": "Sürgősségi kommunikációt, nincs szükség azonnali külső segítségre.",
+    "correct": true
+   },
+   {
+    "text": "Biztonsággal kapcsolatos kommunikációt, navigációs és meteorológiai figyelmeztetéseket.",
+    "correct": false
+   },
+   {
+    "text": "Vészhelyzeti kommunikációt, azonnali külső segítségre van szükség.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-112",
+  "number": 112,
+  "question": "Mit jelez a SECURITE kifejezés használata a rádiózásban?",
+  "options": [
+   {
+    "text": "Biztonsággal kapcsolatos kommunikációt, navigációs és meteorológiai figyelmeztetéseket.",
+    "correct": true
+   },
+   {
+    "text": "Vészhelyzeti kommunikációt, azonnali külső segítségre van szükség.",
+    "correct": false
+   },
+   {
+    "text": "Sürgősségi kommunikációt, nincs szükség azonnali külső segítségre.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-113",
+  "number": 113,
+  "question": "Mit tesz, ha a VHF rádión az Ön térségére vonatkozó meteorológia közleményben a GALE WARNING kifejezést hallja?",
+  "options": [
+   {
+    "text": "A kifejezés viharra figyelmeztet, ha a tengeren partközelben vagyok, akkor biztonságos kikötő-, vagy horgonyzóhelyet keresek.",
+    "correct": true
+   },
+   {
+    "text": "Ha közleményhez hozzáteszik BURRASCA utótagot is, akkor szép időt jósolnak.",
+    "correct": false
+   },
+   {
+    "text": "A kifejezés azt jelenti, hogy az időjárásjelentésben most kerül sor a távolabbi kilátások ismertetésére.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-114",
+  "number": 114,
+  "question": "Mit jelent a MEDICO kifejezés használata a rádiózásban?",
+  "options": [
+   {
+    "text": "Sürgősségi üzenetekben ezzel az utótaggal jelzik, hogy orvosi segítségre van szükség (PAN-PAN MEDICO).",
+    "correct": true
+   },
+   {
+    "text": "Biztonsági közleményekben ezzel jelzik, hogy orvos tartózkodik a hajón.",
+    "correct": false
+   },
+   {
+    "text": "Mentőhajó által használt megkülönböztető jelzés.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-115",
+  "number": 115,
+  "question": "Mit jelent a SEELONCE FEENEE kifejezés a rádiózásban?",
+  "options": [
+   {
+    "text": "A vészhelyzet elmúltával a rádiócsend feloldását jelenti, a hatóság adhatja le.",
+    "correct": true
+   },
+   {
+    "text": "Teljes rádiócsend kihirdetését jelenti, a veszélyt észlelő hajó adja le.",
+    "correct": false
+   },
+   {
+    "text": "Továbbított vészhelyzetet jelent, vagyis amikor észleljük, hogy más hajó van veszélyben.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-116",
+  "number": 116,
+  "question": "Milyen kifejezés háromszori megismétlése jelenti a VHF rádióforgalomban azt, hogy személy vagy hajó biztonságát veszélyeztető esemény történt, de jelenleg még nincs életveszélyes helyzet?",
+  "options": [
+   {
+    "text": "PAN-PAN",
+    "correct": true
+   },
+   {
+    "text": "MAYDAY",
+    "correct": false
+   },
+   {
+    "text": "SECURITE",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-117",
+  "number": 117,
+  "question": "Hogyan tud téves riasztást törölni?",
+  "options": [
+   {
+    "text": "Háromszor bemondva az ALL STATIONS kifejezést, majd be kell jelenteni az előző vészjelzés törlését.",
+    "correct": true
+   },
+   {
+    "text": "Háromszor bemondva a SORRY kifejezést, majd közölni, hogy valaki téves riasztást adott.",
+    "correct": false
+   },
+   {
+    "text": "A DELETE, DELETE, DELETE kifejezés bemondása a rádióban a vészjelzés törlését jelenti.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-118",
+  "number": 118,
+  "question": "Melyik rádiócsatornát kell minden forgalomban résztvevő hajónak folyamatosan figyelni (kivéve, ha éppen másik csatornán el van foglalva)?",
+  "options": [
+   {
+    "text": "A 16-os csatornát.",
+    "correct": true
+   },
+   {
+    "text": "A 10-es csatornát.",
+    "correct": false
+   },
+   {
+    "text": "A 8-as csatornát.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-119",
+  "number": 119,
+  "question": "Melyik VHF rádiócsatorna van fenntartva a digitális szelektív hívás (DSC) számára?",
+  "options": [
+   {
+    "text": "70-es.",
+    "correct": true
+   },
+   {
+    "text": "72-es.",
+    "correct": false
+   },
+   {
+    "text": "73-as.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-120",
+  "number": 120,
+  "question": "Milyen kifejezés háromszori megismétlése jelenti a VHF rádióforgalomban, hogy egy hajó és annak személyzete közvetlen veszélyben van?",
+  "options": [
+   {
+    "text": "MAYDAY",
+    "correct": true
+   },
+   {
+    "text": "DISTRESS",
+    "correct": false
+   },
+   {
+    "text": "PAN-PAN",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-121",
+  "number": 121,
+  "question": "Mit jelent a MAYDAY RELAY kifejezés a rádiózásban?",
+  "options": [
+   {
+    "text": "Továbbított vészjelzést, a vészhelyzeti közleményt olyan állomás adja le, amely maga nincs vészhelyzetben.",
+    "correct": true
+   },
+   {
+    "text": "Teljes rádiócsend kihirdetését.",
+    "correct": false
+   },
+   {
+    "text": "Vészhelyzeti közlemény végét jelenti.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-122",
+  "number": 122,
+  "question": "Mit jelent a SEELONCE MAYDAY kifejezés a rádiózásban?",
+  "options": [
+   {
+    "text": "A 16-os csatornán jelenleg az aktuális vészhelyzet kezelésével kapcsolatban szabad forgalmazni. A hatóság használja a kifejezést akkor, ha ezt a rendet harmadik személy megzavarja.",
+    "correct": true
+   },
+   {
+    "text": "Továbbított vészhelyzetet jelent, vagyis amikor észleljük, hogy más hajó van veszélyben.",
+    "correct": false
+   },
+   {
+    "text": "A vészhelyzet elmúltával a rádiócsend feloldását jelenti, a hatóság adhatja le.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-123",
+  "number": 123,
+  "question": "Mire szolgál a VHF rádión a DISTRESS gomb?",
+  "options": [
+   {
+    "text": "Hosszan lenyomva vészhelyzeti üzenetet küld ki a rádió.",
+    "correct": true
+   },
+   {
+    "text": "Az adott rádiókapcsolatot megszakítja a készülék.",
+    "correct": false
+   },
+   {
+    "text": "Több hívás egyidejű kezelésére alkalmas gomb.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-124",
+  "number": 124,
+  "question": "Milyen adatokat küldhet el a DISTRESS gomb hosszan történő megnyomását követően egy VHF rádiókészülék?",
+  "options": [
+   {
+    "text": "A hajó MMSI kódját és pozícióját, a küldés időpontját, továbbá a vészhelyzet típusát.",
+    "correct": true
+   },
+   {
+    "text": "A hajó nevét, hosszát és a legénység utaslista szerinti létszámát.",
+    "correct": false
+   },
+   {
+    "text": "A hajó helyzetét, haladási irányát, sebességét, és a gombot megnyomó személy nevét.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-125",
+  "number": 125,
+  "question": "Általában milyen hosszan kell nyomva tartani a DISTRESS gombot a VHF rádión vészhelyzeti üzenet leadásához?",
+  "options": [
+   {
+    "text": "Legalább 5 másodpercig.",
+    "correct": true
+   },
+   {
+    "text": "Elegendő 2 másodpercig.",
+    "correct": false
+   },
+   {
+    "text": "Maximum 4 másodpercig.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-126",
+  "number": 126,
+  "question": "Milyen esetben indokolt vészhívás kezdeményezése VHF rádión?",
+  "options": [
+   {
+    "text": "Ha egy hajót vagy személyt súlyos és közvetlen veszély fenyeget, és azonnali segítségre van szükség.",
+    "correct": true
+   },
+   {
+    "text": "Ha géphiba esetén kb. 4 órán belül fennáll a megfeneklés veszélye.",
+    "correct": false
+   },
+   {
+    "text": "Csak a hajó parancsnoka adhat le vészhívást, ha úgy ítéli, hogy a hajónak és a személyzetének segítségre van szüksége.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-127",
+  "number": 127,
+  "question": "Ki a VHF rádión leadott vészhívás címzettje?",
+  "options": [
+   {
+    "text": "A VHF vételkörzetben lévő minden állomás.",
+    "correct": true
+   },
+   {
+    "text": "Partmenti vizeken csak a parti őrség.",
+    "correct": false
+   },
+   {
+    "text": "Mindig csak a mentési központ (MRCC).",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-128",
+  "number": 128,
+  "question": "Az alábbiak közül melyik a másodlagos riasztás eszköze?",
+  "options": [
+   {
+    "text": "Az EPIRB bója.",
+    "correct": true
+   },
+   {
+    "text": "A SART bója.",
+    "correct": false
+   },
+   {
+    "text": "A VHF rádió.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-129",
+  "number": 129,
+  "question": "Melyik kódlobogó jelenti azt, hogy EMBER A VÍZBEN?",
+  "options": [
+   {
+    "text": "O (Oscar).",
+    "correct": true
+   },
+   {
+    "text": "M (Mike).",
+    "correct": false
+   },
+   {
+    "text": "W (Whiskey).",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-130",
+  "number": 130,
+  "question": "Vízben eltűnt személy felkutatására milyen keresési módszereket ismer?",
+  "options": [
+   {
+    "text": "Szektoronként és növekvő négyszögekben végzett kutatást.",
+    "correct": true
+   },
+   {
+    "text": "A látótávolságnak megfelelő sugarú körben történő kutatást.",
+    "correct": false
+   },
+   {
+    "text": "S alakban történő kutatást.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-131",
+  "number": 131,
+  "question": "Milyen tényezők alapján határozza meg a kutatási területet vízbeesett, de jelenleg nem látható személy felkutatása során?",
+  "options": [
+   {
+    "text": "A vízbeesés ideje, hajónk sebessége áramlás, szél, látási viszonyok.",
+    "correct": true
+   },
+   {
+    "text": "A mentés vezetőjének utasításai alapján.",
+    "correct": false
+   },
+   {
+    "text": "A víz hőmérséklete és a hullámmagasságok függvényében.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-132",
+  "number": 132,
+  "question": "Szabad-e vizet használni elektromos tűz oltásához?",
+  "options": [
+   {
+    "text": "Nem.",
+    "correct": true
+   },
+   {
+    "text": "Igen.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-133",
+  "number": 133,
+  "question": "Mi célt szolgál a hajókonyha felett elhelyezett piros, lapos doboz, FIRE BLANKET felirattal?",
+  "options": [
+   {
+    "text": "Tűzoltópokróc található benne, amely a tűzhelyen vagy annak környezetében keletkező tüzet hivatott lokalizálni és eloltani.",
+    "correct": true
+   },
+   {
+    "text": "A doboz vészjelző rakétákat tartalmaz.",
+    "correct": false
+   },
+   {
+    "text": "A dobozban a palackos gáz vészelzáró szelepe található, melyet tűz esetén azonnal el kell zárni.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-134",
+  "number": 134,
+  "question": "Mire kell mindig nagy hangsúlyt fektetnie egy hajóvezetőnek a hajón keletkező tüzekkel kapcsolatban?",
+  "options": [
+   {
+    "text": "A megelőzésre.",
+    "correct": true
+   },
+   {
+    "text": "Gondoskodjon elegendő oltóvízről.",
+    "correct": false
+   },
+   {
+    "text": "Sose tankoljon üzemanyagot kannából.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-135",
+  "number": 135,
+  "question": "Honnan szerez információt arról, hogy a tengeren magyar lobogó alatt közlekedő kedvtelési kishajó részére melyek az előírt kötelező és ajánlott kiegészítő tengeri felszerelések?",
+  "options": [
+   {
+    "text": "A hajózási hatóság által közzétett Felszerelési jegyzék alapján.",
+    "correct": true
+   },
+   {
+    "text": "A kiegészítő felszerelési lista minden hajólevélben fel van tüntetve.",
+    "correct": false
+   },
+   {
+    "text": "Ugyanaz a kötelező felszerelés, mint a belvízen közlekedő hajók esetében.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-136",
+  "number": 136,
+  "question": "Kötelező-e a magyar felszerelési jegyzék szerint a D tengeri hajózási körzetben (védett part menti vizeken) közlekedő kishajókon a vészjelző rakéták és kézi fáklyák megléte?",
+  "options": [
+   {
+    "text": "Nem, de ajánlott.",
+    "correct": true
+   },
+   {
+    "text": "Igen, ezek minden tengeri kishajón kötelezőek.",
+    "correct": false
+   },
+   {
+    "text": "Nem, meglétük csak kereskedelmi hajókon kötelező.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-137",
+  "number": 137,
+  "question": "Charterhajó átvételekor hány darab mentőmellényt kell találnia a hajón?",
+  "options": [
+   {
+    "text": "Minimum annyit, amennyi a hajó okmányába bejegyzett maximum utaslétszám.",
+    "correct": true
+   },
+   {
+    "text": "A hajónaplóban meghatározott minimális személyzet létszámnak megfelelő mennyiségűt.",
+    "correct": false
+   },
+   {
+    "text": "Az előre leadott utaslistának megfelelő darabszámút.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-138",
+  "number": 138,
+  "question": "Kötelező-e egy kedvtelési kishajót automatikus hajóazonosító rendszerrel (AIS) felszerelni?",
+  "options": [
+   {
+    "text": "Nem, csak ajánlott.",
+    "correct": true
+   },
+   {
+    "text": "Kötelező.",
+    "correct": false
+   },
+   {
+    "text": "Csak akkor kötelező, ha utasokat is szállít.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-139",
+  "number": 139,
+  "question": "Miért nem javasolt a sziklás mederfenék horgonyzásra?",
+  "options": [
+   {
+    "text": "Mert a horgony végleg (kiszabadíthatatlanul) beakadhat a sziklák közé.",
+    "correct": true
+   },
+   {
+    "text": "Mert itt általában sokkal mélyebb a víz.",
+    "correct": false
+   },
+   {
+    "text": "Mert a charter hajókon nem szokott lenni a sziklás talajhoz való horgony.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-140",
+  "number": 140,
+  "question": "Milyen hosszú horgonyláncot kell kiengedni ahhoz, hogy a mederben megakadt horgony biztonságosan megtartsa a hajót?",
+  "options": [
+   {
+    "text": "Minimum a vízmélység háromszorosának megfelelő hosszúságút.",
+    "correct": true
+   },
+   {
+    "text": "Elegendő a vízmélységhez viszonyított kétszeres lánchossz.",
+    "correct": false
+   },
+   {
+    "text": "A lánckamrában lévő összes láncot ki kell ehhez engedni.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-141",
+  "number": 141,
+  "question": "A szomszédos hajókra való tekintettel hogyan választjuk meg a horgonyzóhelyünket?",
+  "options": [
+   {
+    "text": "Számítunk arra, hogy a szél iránya megváltozhat.",
+    "correct": true
+   },
+   {
+    "text": "Legalább fél mérföldre legyünk a legközelebbi hajótól.",
+    "correct": false
+   },
+   {
+    "text": "Mindig mi legyünk a mélyebb vízen.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-142",
+  "number": 142,
+  "question": "Melyik két szél befolyásolja jelentősen az Adria időjárását?",
+  "options": [
+   {
+    "text": "A Bóra és a Jugó (vagy más néven Sirokkó).",
+    "correct": true
+   },
+   {
+    "text": "Nyáron a passzát és télen a monszun.",
+    "correct": false
+   },
+   {
+    "text": "A Kosava és a Velebit.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-143",
+  "number": 143,
+  "question": "A bórának gyakran nincs előjele. Van-e olyan időjárási jelenség ami mégis jelezheti a bóra kezdetét?",
+  "options": [
+   {
+    "text": "Bórára lehet számítani, amikor fehér felhősapka jelenik meg a Velebit-hegység felett.",
+    "correct": true
+   },
+   {
+    "text": "Teliholdat követően gyakran 2-3 napig fúj a bóra.",
+    "correct": false
+   },
+   {
+    "text": "Csak az évszakokhoz köthető a bóra, ugyanis ez a szél télen fúj.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-144",
+  "number": 144,
+  "question": "Milyen hullámokra számít, ha a Jugó (vagy más néven Sirokkó) fúj az Adrián?",
+  "options": [
+   {
+    "text": "Ez a szél a nyílt tengeren magas hullámokat kelt, kellemetlenné téve a hajózást.",
+    "correct": true
+   },
+   {
+    "text": "Ennek a szélnek a jellemzője, hogy vízcseppeket sodor le a hullámok tarajáról, mely vízpermet belélegzése oxigénhiányos állapot kialakulásával járhat.",
+    "correct": false
+   },
+   {
+    "text": "Az Adrián nincs ami megtörje a hullámokat, ezért ott rendellenes vízmozgással, áramlásokkal nem kell számolnom.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-145",
+  "number": 145,
+  "question": "Milyen hullámfajtákat különböztetünk meg?",
+  "options": [
+   {
+    "text": "Élő hullám, döghullám, törőhullám és bukó hullám .",
+    "correct": true
+   },
+   {
+    "text": "Hideg és meleg hullám.",
+    "correct": false
+   },
+   {
+    "text": "Aktív és passzív hullám.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-146",
+  "number": 146,
+  "question": "Mi az izobár fogalma?",
+  "options": [
+   {
+    "text": "Az időjárási térképeken az azonos légnyomású pontokat összekötő görbe.",
+    "correct": true
+   },
+   {
+    "text": "Az azonos hőmérsékletű pontokat a térképen összekötve az izobárnak nevezett görbét kapjuk meg.",
+    "correct": false
+   },
+   {
+    "text": "Az azonos magasságú pontok a térképen összekötve az izobárok.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-147",
+  "number": 147,
+  "question": "Mikor alakul ki partközelben a kishajókra veszélyt jelentő bukóhullám?",
+  "options": [
+   {
+    "text": "Amikor a nyílt víz felől érkező hullámok elérik a sekély vizet (a tengerfenék mélysége a hullámmagasságnak már csak egy-, vagy kétszerese), akkor a hullámok átbuknak.",
+    "correct": true
+   },
+   {
+    "text": "Mély tengerfenék felett keletkezik, amikor egy bizonyos helyen jön létre lassulás és emiatt a hullámhegyek átbuknak.",
+    "correct": false
+   },
+   {
+    "text": "Amikor a hullám eléri az amplitúdójának a maximumát, akkor átbukik.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-148",
+  "number": 148,
+  "question": "Miért keletkeznek helyi, ún. parti és tengeri szelek?",
+  "options": [
+   {
+    "text": "A szárazföld és a víz eltérő felmelegedése miatt.",
+    "correct": true
+   },
+   {
+    "text": "Az azori alacsony légnyomású légtömegek miatt.",
+    "correct": false
+   },
+   {
+    "text": "A part tagoltsága és domborzati viszonyai miatt.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-149",
+  "number": 149,
+  "question": "Számíthatunk-e a part menti vizeken hajózva, nyáron, jó időben helyi, ún. parti és tengeri szelekre?",
+  "options": [
+   {
+    "text": "Igen, napszaktól függően.",
+    "correct": true
+   },
+   {
+    "text": "Nem, mert tengeri szelekre csak a nyílt vízen számíthatunk.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-150",
+  "number": 150,
+  "question": "Hol tud az aktuális időjárás-előrejelzésről informálódni egy kedvtelési tengeri kishajós?",
+  "options": [
+   {
+    "text": "A jachtkikötőkben (marinákban).",
+    "correct": true
+   },
+   {
+    "text": "Erre szakosodott internetkávézókban.",
+    "correct": false
+   },
+   {
+    "text": "Időjárás-előrejelzés kishajón csak NAVTEX vevő birtokában érhető el.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-151",
+  "number": 151,
+  "question": "Számíthat-e a Földközi-tengeren az ár-apály jelenség miatt jelentős (több méteres) vízszintingadozásra?",
+  "options": [
+   {
+    "text": "Nem.",
+    "correct": true
+   },
+   {
+    "text": "Igen.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-152",
+  "number": 152,
+  "question": "Mire szolgál a Douglas-skála?",
+  "options": [
+   {
+    "text": "A tengerállapot (hullámzás) pontos leírására.",
+    "correct": true
+   },
+   {
+    "text": "A szél állapotának (erejének) megállapítására.",
+    "correct": false
+   },
+   {
+    "text": "A helyi légnyomás és a hullámzás összefüggéseit írja le.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-153",
+  "number": 153,
+  "question": "Hány fokozatból áll a Douglas-skála?",
+  "options": [
+   {
+    "text": "10",
+    "correct": true
+   },
+   {
+    "text": "12",
+    "correct": false
+   },
+   {
+    "text": "9",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-154",
+  "number": 154,
+  "question": "Szabad-e kishajóról környezetre veszélyes szennyező anyagot (olajat, festéket, savat, stb.) a tengerbe engedni?",
+  "options": [
+   {
+    "text": "Nem szabad. Ezeket külön tárolóedényekben kell gyűjteni, és a kikötőkben erre megjelölt helyen kiadni.",
+    "correct": true
+   },
+   {
+    "text": "Kikötőkben nem, csak a parttól mért legalább egy mérföld távolságban.",
+    "correct": false
+   },
+   {
+    "text": "Szabad, de csak nyílt tengeren, a parttól legalább 12 tengeri mérföldes távolságban.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "tengeri-155",
+  "number": 155,
+  "question": "Mi a helyes eljárás a kishajón keletkező hulladékok (műanyag, üveg, papír, fém, stb.) kezelését illetően?",
+  "options": [
+   {
+    "text": "Szeméttárolóban gyűjteni őket, ha lehetséges szelektíven. A parton, vagy kikötőkben az arra megjelölt helyen kiadni.",
+    "correct": true
+   },
+   {
+    "text": "A parttól számított 12 tengeri mérföldre megengedett őket a vízbe kidobni.",
+    "correct": false
+   },
+   {
+    "text": "Csak lakott területtől, kijelölt strandtól, fürdőzőktől távol, a szél és áramlások irányát figyelembe véve szabad őket kidobni.",
+    "correct": false
+   }
+  ],
+  "image": null
+ }
+]

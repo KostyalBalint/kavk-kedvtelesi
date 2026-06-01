@@ -1,0 +1,8194 @@
+[
+ {
+  "id": "vitorlas-1",
+  "number": 1,
+  "question": "Milyen előkészületeket kell tenni, kikötés előtt?",
+  "options": [
+   {
+    "text": "Kihelyezni az ütköző ballonokat, előkészíteni a kikötő köteleket.",
+    "correct": true
+   },
+   {
+    "text": "Értesíteni a vízirendészetet az érkezésünkről.",
+    "correct": false
+   },
+   {
+    "text": "A kikötő kötélre kötélvég nyolcast kell kötni.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-2",
+  "number": 2,
+  "question": "Miben segít a hajócsavar forgásirányának ismerete?",
+  "options": [
+   {
+    "text": "Segít a manőverezésben.",
+    "correct": true
+   },
+   {
+    "text": "Segít az előzésben.",
+    "correct": false
+   },
+   {
+    "text": "Segíti a nagy sebességű kanyarodást.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-3",
+  "number": 3,
+  "question": "Miben segít a hajócsavar forgásirányának ismerete?",
+  "options": [
+   {
+    "text": "Segíti az iránytartást.",
+    "correct": true
+   },
+   {
+    "text": "Segít az előzésben.",
+    "correct": false
+   },
+   {
+    "text": "Segíti a nagy sebességű kanyarodást.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-4",
+  "number": 4,
+  "question": "Hogyan közelíti meg kikötéskor a mólót erős, a part irányából fújó szélben?",
+  "options": [
+   {
+    "text": "Közel merőlegesen.",
+    "correct": true
+   },
+   {
+    "text": "5 - 10 fokos szögben.",
+    "correct": false
+   },
+   {
+    "text": "Csúszóra dobott horgonnyal.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-5",
+  "number": 5,
+  "question": "Kikötőhelyhez sodrással, vagy széllel szemben érkezve melyik kötél megkötésével kell kezdeni a kikötést?",
+  "options": [
+   {
+    "text": "Az orrkötéllel.",
+    "correct": true
+   },
+   {
+    "text": "A farkötéllel.",
+    "correct": false
+   },
+   {
+    "text": "A horgonykötéllel.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-6",
+  "number": 6,
+  "question": "Milyen haladási sebesség mellett a leghatásosabb az orrsugárkormány?",
+  "options": [
+   {
+    "text": "Csak kis, a kikötői manőverezéseknél használt sebességeknél.",
+    "correct": true
+   },
+   {
+    "text": "A hajó teljes sebességtartományában.",
+    "correct": false
+   },
+   {
+    "text": "Csak nagy sebességeknél.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-7",
+  "number": 7,
+  "question": "Kikötőben ledobott horgonyunkról a többi hajóvezető honnan szerez tudomást?",
+  "options": [
+   {
+    "text": "A horgonyra kötött bójáról.",
+    "correct": true
+   },
+   {
+    "text": "Nem kell tudniuk a ledobott horgonyról, mert nem zavarja a kikötőben közlekedőket.",
+    "correct": false
+   },
+   {
+    "text": "Tilos bóját kötni a horgonyra, érkező, vagy induló hajót szóban kell figyelmeztetni a horgonyra, vagy a kikötőmestert kell tájékoztatni róla.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-8",
+  "number": 8,
+  "question": "Hogyan dönti el, hogy a kikötő használatához kellő vízmélység van-e?",
+  "options": [
+   {
+    "text": "Az üzemeltető szóbeli, vagy az interneten, vagy a kikötői szabályzatban közzétett tájékoztatása alapján.",
+    "correct": true
+   },
+   {
+    "text": "A kikötőkben olyan vízmélységet szoktak - ha kell kotrással - fenntartani, ami mellett a behajózás akadálytalan a kedvtelési kishajók számára.",
+    "correct": false
+   },
+   {
+    "text": "Kétség esetén vízmérőléccel ellenőrzöm a kikötő bejárata előtt a vízmélységet, és ha a merülésnél kevesebb mint egy méterrel több, akkor nem kísérlem meg a behajózást.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-9",
+  "number": 9,
+  "question": "Idegen kikötőben veszteglés esetén a kikötő üzemeltetője visszatarthatja/elkérheti a hajólevelet?",
+  "options": [
+   {
+    "text": "A hajólevelet elkérheti, és díjfizetésig visszatarthatja.",
+    "correct": true
+   },
+   {
+    "text": "A hajólevelet elkérheti, de nem tarthatja vissza.",
+    "correct": false
+   },
+   {
+    "text": "A hajólevelet csak megnézheti, de nem tarthatja vissza.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-10",
+  "number": 10,
+  "question": "Szabad-e vitorlás kishajóval, vitorlával a kikötőből ki- és beállni?",
+  "options": [
+   {
+    "text": "Igen, ha a kikötői szabályzat lehetővé teszi.",
+    "correct": true
+   },
+   {
+    "text": "Nem, erre csak a vízirendészet adhat engedélyt.",
+    "correct": false
+   },
+   {
+    "text": "Nem.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-11",
+  "number": 11,
+  "question": "Sodrással, vagy széllel szembe kikötött kishajónál melyik kötél elengedésével kell kezdeni az elindulás manővert?",
+  "options": [
+   {
+    "text": "A farkötél.",
+    "correct": true
+   },
+   {
+    "text": "Az orrkötél.",
+    "correct": false
+   },
+   {
+    "text": "A horgonykötél.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-12",
+  "number": 12,
+  "question": "Hátramenetben manőverezve, jobbra kitérített kormány mellett, merre fordul a hajó orra?",
+  "options": [
+   {
+    "text": "Balra.",
+    "correct": true
+   },
+   {
+    "text": "Jobbra.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-13",
+  "number": 13,
+  "question": "Lehet vitorlás kishajóval csak vitorlával hátramenetben haladni?",
+  "options": [
+   {
+    "text": "Igen.",
+    "correct": true
+   },
+   {
+    "text": "Nem.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-14",
+  "number": 14,
+  "question": "Ha egy tárgy tulajdonsága, hogy felúszó, az a gyakorlatban mit jelent?",
+  "options": [
+   {
+    "text": "Azt, hogy úszik a vízen, és ha víz alá nyomják is, utána a felszínre emelkedik.",
+    "correct": true
+   },
+   {
+    "text": "Azt, hogy lebeg a vízben, és ha lejjebb nyomják, akkor ott marad.",
+    "correct": false
+   },
+   {
+    "text": "Azt, hogy úszik a vízen, de ha víz alá nyomják, utána már folyamatosan süllyed.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-15",
+  "number": 15,
+  "question": "A kishajókon általánosan használt perlon kötelek felúszóak?",
+  "options": [
+   {
+    "text": "Igen.",
+    "correct": true
+   },
+   {
+    "text": "Nem.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-16",
+  "number": 16,
+  "question": "Minek alapján van előírva egy kedvtelési célú kishajó kötelező felszerelése?",
+  "options": [
+   {
+    "text": "A hajó hosszának alapján.",
+    "correct": true
+   },
+   {
+    "text": "A hajó össz-befogadóképességének alapján.",
+    "correct": false
+   },
+   {
+    "text": "A hajó típusa alapján (motoros, vagy vitorlás kishajó).",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-17",
+  "number": 17,
+  "question": "Egészítse ki a mondatot! A kishajókon használt szintetikus kötelek a laza, belógó állapotból hirtelen nagy terhelésű rántásra (          )",
+  "options": [
+   {
+    "text": "könnyen elpattanhatnak.",
+    "correct": true
+   },
+   {
+    "text": "megfeszülnek, megkeményednek.",
+    "correct": false
+   },
+   {
+    "text": "egyes elemi szálaik megszakadhatnak, a kötél kiszőrösödik.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-18",
+  "number": 18,
+  "question": "Mit neveznek hajóútnak?",
+  "options": [
+   {
+    "text": "A víziútnak a nagyhajók közlekedésére kijelölt és kitűzött, ennek hiányában a nagyhajók által az adott vízállásnál rendszeresen használt része, továbbá a veszteglőhely vízterülete, valamint a kikötőhöz tartozó vízterület.",
+    "correct": true
+   },
+   {
+    "text": "A víziút azon része, amely legalább 150 méter szélességgel és 3 méter mélységgel rendelkezik.",
+    "correct": false
+   },
+   {
+    "text": "A víziút azon része, amely minimum 2,5 méter vízmélységgel és 88 méter szélességgel rendelkezik.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-19",
+  "number": 19,
+  "question": "Beépített motorral rendelkező hajón mit lehet tenni, ha valami a hajócsavarra tekeredve fékezi azt?",
+  "options": [
+   {
+    "text": "A motor leállítása és áramtalanítása után kikötő öbölben, vagy tavon a vízbe merülve megkísérelhető a hajócsavar kiszabadítása.",
+    "correct": true
+   },
+   {
+    "text": "Csak a hajó kiemelésével oldható meg a probléma.",
+    "correct": false
+   },
+   {
+    "text": "Csak búvár szakember, vagy kiemelés után hozzáértő szerelő végezheti el a hajócsavar kiszabadítását.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-20",
+  "number": 20,
+  "question": "A hajtómű hirtelen leáll, a motor azonnal újraindítható, de az irányváltót előre-, vagy hátramenetbe kapcsolva a motor újra lefullad. Milyen hibára következtet?",
+  "options": [
+   {
+    "text": "A hajócsavar forgását akadályozza valami, vagy a hajtási láncban keletkezett meghibásodás.",
+    "correct": true
+   },
+   {
+    "text": "Elfogyott az üzemanyag.",
+    "correct": false
+   },
+   {
+    "text": "Zárlatos lett a gyújtótrafó.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-21",
+  "number": 21,
+  "question": "A vitorlás hajó haladási iránya menetben mindig megegyezik a hossztengely orrirányba való meghosszabbításával?",
+  "options": [
+   {
+    "text": "Nem.",
+    "correct": true
+   },
+   {
+    "text": "Igen.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-22",
+  "number": 22,
+  "question": "A viharos erejű szél hogyan befolyásolja a tőkesúlyos hajók műveletképességét?",
+  "options": [
+   {
+    "text": "Az erős hullámzás, erős dőlés és a nagy szélnyomás miatt a műveletképesség korlátozott.",
+    "correct": true
+   },
+   {
+    "text": "A műveletképesség nem változik, a hajóval minden manőver ugyanúgy végrehajtható, mint mérsékelt szélben.",
+    "correct": false
+   },
+   {
+    "text": "A műveletképesség csak azoknál a hajóknál nem csökken le, amelyeknek a hossza kisebb, mint két hullámhegy közötti távolság.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-23",
+  "number": 23,
+  "question": "Miért kell kiemelni a kompozit műgyanta testű hajót a vízből télen?",
+  "options": [
+   {
+    "text": "Mert a jégnyomás összeroppanthatja a hajótestet.",
+    "correct": true
+   },
+   {
+    "text": "Mert a hajó anyaga különösen érzékeny a hideg időjárásra.",
+    "correct": false
+   },
+   {
+    "text": "Mert kötelező, és minden kikötői rend megköveteli.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-24",
+  "number": 24,
+  "question": "Mit lehet tenni, ha egy kikötő öbölben jégpáncél van kialakulóban és hajó maradt a vízben?",
+  "options": [
+   {
+    "text": "Rendszeresen törni a jeget, hogy egybefüggő jégpáncél ne alakulhasson ki, így csökken a jégnyomás a kikötőben.",
+    "correct": true
+   },
+   {
+    "text": "Fűteni kell a hajóban, hogy ne alakulhasson ki a masszív jégpáncél.",
+    "correct": false
+   },
+   {
+    "text": "Nem kell tenni semmit, minden hajó típus ellenáll a jégnyomásnak.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-25",
+  "number": 25,
+  "question": "Mi a sója?",
+  "options": [
+   {
+    "text": "Hajók vízre rakására, kiemelésére szolgáló ferde rámpa.",
+    "correct": true
+   },
+   {
+    "text": "Kifújt szélben napsütésben vitorlázás.",
+    "correct": false
+   },
+   {
+    "text": "A kikötői emelődaru.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-26",
+  "number": 26,
+  "question": "Kishajót továbbít mellévett alakzatban, hogyan változik meg a hajójának manőverezőképessége?",
+  "options": [
+   {
+    "text": "A továbbított hajó felé elhúz.",
+    "correct": true
+   },
+   {
+    "text": "A továbbított hajóval ellentétes oldalra elhúz.",
+    "correct": false
+   },
+   {
+    "text": "Nem befolyásolja a hajó manőverezhetőségét.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-27",
+  "number": 27,
+  "question": "Hová kell rögzíteni a vontató kötelet a vontatott vitorlás hajón?",
+  "options": [
+   {
+    "text": "Az árboc tövéhez.",
+    "correct": true
+   },
+   {
+    "text": "Az első bakhoz.",
+    "correct": false
+   },
+   {
+    "text": "Az orron található korláthoz.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-28",
+  "number": 28,
+  "question": "Svertes kishajónkat kisgéphajó vontatja. Mi a teendőnk?",
+  "options": [
+   {
+    "text": "Vontatókötelet az árbochoz gyorsan oldhatóan rögzíteni, orrvereten átfűzni, svertet felhúzni, kormányt középállásban rögzíteni.",
+    "correct": true
+   },
+   {
+    "text": "Vontatókötelet az orrverethez rögzíteni, svertet félig felhúzni, úgy kormányozni, hogy a vontató sodrába ne kerüljünk be.",
+    "correct": false
+   },
+   {
+    "text": "Vontatókötelet az árbochoz gyorsan oldhatóan rögzíteni, a svertet teljesen leengedni, a kormányt felhúzni.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-29",
+  "number": 29,
+  "question": "Célszerű horgonyt dobni köves, sziklás mederfenéken?",
+  "options": [
+   {
+    "text": "Nem, mert a horgony beakadhat úgy, hogy nem lehet felszedni.",
+    "correct": true
+   },
+   {
+    "text": "Igen, mert a köves aljzatban jobban tart a horgony.",
+    "correct": false
+   },
+   {
+    "text": "Igen a köves aljzat az ideális horgonyzáshoz.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-30",
+  "number": 30,
+  "question": "Célszerű ismerni a mederjellemzőket horgonyzáskor?",
+  "options": [
+   {
+    "text": "Igen, mert a mederjellemzők nagyban befolyásolják a horgonyzást.",
+    "correct": true
+   },
+   {
+    "text": "Nem, mert a mederjellemzők nem befolyásolják a horgonyzást.",
+    "correct": false
+   },
+   {
+    "text": "Csak hosszú időre lehorgonyzáshoz szükséges a mederjellemzők ismerete.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-31",
+  "number": 31,
+  "question": "Hogyan viselkedik a hajótest jobb forgású hajócsavarral hátramenetbe kapcsolva?",
+  "options": [
+   {
+    "text": "A hajó fara bal oldalra kitér.",
+    "correct": true
+   },
+   {
+    "text": "A hajó fara jobb oldalra kitér.",
+    "correct": false
+   },
+   {
+    "text": "A hajó orra bal oldalra kitér.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-32",
+  "number": 32,
+  "question": "Jobbforgású hajócsavarral szerelt vitorlás fara merre mozdul el oldalirányban, ha álló helyzetében erőteljes gázt adunk röviden előremenetben?",
+  "options": [
+   {
+    "text": "Jobbra.",
+    "correct": true
+   },
+   {
+    "text": "Balra.",
+    "correct": false
+   },
+   {
+    "text": "Semerre.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-33",
+  "number": 33,
+  "question": "Jobbforgású hajócsavarral szerelt vitorlás fara merre mozdul el oldalirányban, ha álló helyzetében erőteljes gázt adunk röviden hátramenetben?",
+  "options": [
+   {
+    "text": "Balra.",
+    "correct": true
+   },
+   {
+    "text": "Jobbra.",
+    "correct": false
+   },
+   {
+    "text": "Semerre.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-34",
+  "number": 34,
+  "question": "Balforgású hajócsavarral szerelt vitorlás fara merre mozdul el oldalirányban, ha álló helyzetében erőteljes gázt adunk röviden előremenetben?",
+  "options": [
+   {
+    "text": "Balra.",
+    "correct": true
+   },
+   {
+    "text": "Jobbra.",
+    "correct": false
+   },
+   {
+    "text": "Semerre.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-35",
+  "number": 35,
+  "question": "Balforgású hajócsavarral szerelt vitorlás fara merre mozdul el oldalirányban, ha álló helyzetében erőteljes gázt adunk röviden hátramenetben?",
+  "options": [
+   {
+    "text": "Jobbra.",
+    "correct": true
+   },
+   {
+    "text": "Balra.",
+    "correct": false
+   },
+   {
+    "text": "Semerre.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-36",
+  "number": 36,
+  "question": "Vízhez képest álló hajó, kitérített kormánylapátján ébred kormányerő?",
+  "options": [
+   {
+    "text": "Nem.",
+    "correct": true
+   },
+   {
+    "text": "Igen.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-37",
+  "number": 37,
+  "question": "Mikor kell a hajó vezetőjének a hajón tartózkodnia?",
+  "options": [
+   {
+    "text": "Mindaddig, amíg a hajó menetben van.",
+    "correct": true
+   },
+   {
+    "text": "Mindaddig, amíg vezet és amíg veszély esetén az utolsó utas is elhagyta a hajót.",
+    "correct": false
+   },
+   {
+    "text": "Mindaddig, amíg a hajó vízen van.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-38",
+  "number": 38,
+  "question": "Meddig terjed a hajóvezető mentési kötelezettsége más hajók/emberek felé?",
+  "options": [
+   {
+    "text": "Kötelező menteni az életveszélybe került embereket, de csak a saját és a hajó biztonságával összeegyeztethető mértékben.",
+    "correct": true
+   },
+   {
+    "text": "Az életveszélyben lévő embereket a saját és a hajót fenyegető veszély mérlegelése nélkül meg kell kísérelni menteni.",
+    "correct": false
+   },
+   {
+    "text": "Ha emberélet nincs veszélyben, akkor nincs mentési kötelezettségünk.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-39",
+  "number": 39,
+  "question": "Melyik állítás igaz?",
+  "options": [
+   {
+    "text": "A hajó üzemképességét a hajózási hatóság a hajólevélben igazolja, melyben feltünteti a lejárat dátumát is.",
+    "correct": true
+   },
+   {
+    "text": "A svertes kishajóknak nincsen hajólevelük, az üzemképességet a tőkesúlyos hajóknál a hajózási hatóság a hajólevélben igazolja, melyben feltünteti a lejárat dátumát is.",
+    "correct": false
+   },
+   {
+    "text": "A vitorlás kishajók és vitorlás csónakok üzemképességét a hajózási hatóság a hajólevélben igazolja, a lejárat dátumának feltüntetése mellett.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-40",
+  "number": 40,
+  "question": "Kell-e felelősség biztosítást kötni a kedvtelési célú kishajókra?",
+  "options": [
+   {
+    "text": "Nem.",
+    "correct": true
+   },
+   {
+    "text": "Igen.",
+    "correct": false
+   },
+   {
+    "text": "Csak tőkesúlyos hajókra.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-41",
+  "number": 41,
+  "question": "Mi a légszekrény?",
+  "options": [
+   {
+    "text": "Kishajókban, csónakokban kialakított vízmentes rekesz az úszóképesség biztosítására borulás vízbetörés esetére.",
+    "correct": true
+   },
+   {
+    "text": "A hajózásban az üres nem használt szekrényeknek a neve, az újonnan beszállók pakolhatják bele a személyes dolgaikat.",
+    "correct": false
+   },
+   {
+    "text": "Egy szekrény méretű kollektív mentőeszköz, az oldalán kapaszkodó zsinórokkal.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-42",
+  "number": 42,
+  "question": "Minek nevezzük a hajó azon tulajdonságát, hogy a billentő nyomatéknak ellenáll?",
+  "options": [
+   {
+    "text": "Stabilitás.",
+    "correct": true
+   },
+   {
+    "text": "Úszóképesség.",
+    "correct": false
+   },
+   {
+    "text": "Hullámellenállás.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-43",
+  "number": 43,
+  "question": "Igaz-e hogy főként a tőkesúly nélküli hajókra jellemző az alakstabilitás?",
+  "options": [
+   {
+    "text": "Igaz.",
+    "correct": true
+   },
+   {
+    "text": "Hamis.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-44",
+  "number": 44,
+  "question": "Igaz-e hogy főként a tőkesúlyos hajók jellemzője az alakstabilitás?",
+  "options": [
+   {
+    "text": "Hamis.",
+    "correct": true
+   },
+   {
+    "text": "Igaz.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-45",
+  "number": 45,
+  "question": "Tőkesúlyos hajóknál hogyan biztosítjuk a hajó stabilitását?",
+  "options": [
+   {
+    "text": "A hajó súlypontjának alacsonyabbra helyezésével.",
+    "correct": true
+   },
+   {
+    "text": "A hajó súlypontjának magasabbra helyezésével.",
+    "correct": false
+   },
+   {
+    "text": "A hajótest oldal irányú ellaposításával.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-46",
+  "number": 46,
+  "question": "Mi biztosítja alakstabil hajóknál a kellő stabilitást?",
+  "options": [
+   {
+    "text": "A hajótest keresztmetszeti kialakítása biztosítja megdőlés esetén a visszabillentő nyomatékot.",
+    "correct": true
+   },
+   {
+    "text": "A hajó súlypontjának magasabbra helyezése.",
+    "correct": false
+   },
+   {
+    "text": "Nagy tömegű tőkesúly alkalmazása.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-47",
+  "number": 47,
+  "question": "Mi a dőlés?",
+  "options": [
+   {
+    "text": "A hajó kereszt irányú kilengését hívjuk így.",
+    "correct": true
+   },
+   {
+    "text": "A hajó hossz irányú kilengését hívjuk így.",
+    "correct": false
+   },
+   {
+    "text": "A hajó bármely irányú kilengését hívjuk így.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-48",
+  "number": 48,
+  "question": "Egészítse ki a mondatot! A(z) (               ) működéséhez a kormánylapátot áramló közegbe kell helyezni.",
+  "options": [
+   {
+    "text": "passzív kormány",
+    "correct": true
+   },
+   {
+    "text": "aktív kormány",
+    "correct": false
+   },
+   {
+    "text": "orrsugár kormány",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-49",
+  "number": 49,
+  "question": "Mitől függ a kormányerő mértéke passzív kormány használatakor?",
+  "options": [
+   {
+    "text": "A kormánylapát kitérítési szögétől, a kormánylapát méreteitől és az áramló közegnek a kormánylapáthoz viszonyított sebességétől.",
+    "correct": true
+   },
+   {
+    "text": "A hajó alatti vízmélységtől, a kormány kiegyensúlyozottságától, a hajó parthoz képesti sebességétől.",
+    "correct": false
+   },
+   {
+    "text": "A kormánylapát kitérítési sebességétől, a hajó merülésétől, a kormánylapát kiegyensúlyozottságától.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-50",
+  "number": 50,
+  "question": "Mi az aktív kormány?",
+  "options": [
+   {
+    "text": "Kormányerő a tolóerő irányának változtatásával keletkezik.",
+    "correct": true
+   },
+   {
+    "text": "Kormányerő a kormánylapát kitérítésével keletkezik.",
+    "correct": false
+   },
+   {
+    "text": "Az aktív kormányt folyamatosan (aktívan) fogni, illetve mozgatni kell.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-51",
+  "number": 51,
+  "question": "Mi a passzív kormány?",
+  "options": [
+   {
+    "text": "Kormányerő a kormánylapát kitérítésével keletkezik.",
+    "correct": true
+   },
+   {
+    "text": "Kormányerő a tolóerő irányának változtatásával keletkezik.",
+    "correct": false
+   },
+   {
+    "text": "A kormányzást nem magunk végezzük, hanem egy kijelölt személy.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-52",
+  "number": 52,
+  "question": "Általánosan milyen rendszerű kormányzást alkalmaznak vitorlás hajókon?",
+  "options": [
+   {
+    "text": "Passzív kormány.",
+    "correct": true
+   },
+   {
+    "text": "Aktív kormány.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-53",
+  "number": 53,
+  "question": "Alábbiak közül melyek a fának, mint hajóépítő anyagnak a jellemző tulajdonságai?",
+  "options": [
+   {
+    "text": "Kis fajsúly, jó hang és hőszigetelés, zsugorodik, megdagad a pára hatására.",
+    "correct": true
+   },
+   {
+    "text": "Kis fajsúly, galvanikus korrózióra hajlamos, nehezen megmunkálható.",
+    "correct": false
+   },
+   {
+    "text": "Jól ragasztható, felületi kezelést nem igényel, nagy a fajsúlya.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-54",
+  "number": 54,
+  "question": "Alábbiak közül melyek az alumíniumnak, mint hajóépítő anyagnak a jellemző tulajdonságai?",
+  "options": [
+   {
+    "text": "Költséges alapanyag, könnyű szerkezeti súly, galvanikus korrózióra hajlamos.",
+    "correct": true
+   },
+   {
+    "text": "Viszonylag nagy fajsúly, nem hegeszthető, jó hangszigetelő.",
+    "correct": false
+   },
+   {
+    "text": "Korrózió ellen felületkezeléssel védeni kell, pára hatására dagad, zsugorodik, kis fajsúlyú.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-55",
+  "number": 55,
+  "question": "Alábbiak közül melyek az acélnak, mint hajóépítő anyagnak a jellemző tulajdonságai?",
+  "options": [
+   {
+    "text": "Korróziógátlást igényel, rendkívül szilárd, nagy méretű hajók építésére alkalmas.",
+    "correct": true
+   },
+   {
+    "text": "Nem korrodál, alacsony kopásállóságú, nagy a fajsúlya.",
+    "correct": false
+   },
+   {
+    "text": "Könnyű, rugalmas, jól alakítható, jó hő- és hangszigetelő.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-56",
+  "number": 56,
+  "question": "A katamarán, trimarán kifejezések mit jelölnek?",
+  "options": [
+   {
+    "text": "Egyes hajótípusok kettő illetve három testű kialakítását.",
+    "correct": true
+   },
+   {
+    "text": "A legénység kötelező létszámát jelölik.",
+    "correct": false
+   },
+   {
+    "text": "A kormányzásnál használt kormánylapátok számát jelölik ezek a kifejezések.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-57",
+  "number": 57,
+  "question": "Mi a kokpit?",
+  "options": [
+   {
+    "text": "A hajó fedélzetébe süllyesztett munkatér.",
+    "correct": true
+   },
+   {
+    "text": "A hajótest és a fedélzet által közrefogott zárt tér, amely mérete szerint dolgok tárolására, vagy akár alvásra is használható.",
+    "correct": false
+   },
+   {
+    "text": "A hajó fedélzetéről nyíló tároló rekesz.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-58",
+  "number": 58,
+  "question": "Milyen célra szolgál a bimini.",
+  "options": [
+   {
+    "text": "A kajüt lejáratot és a kokpitot védi az esőtől, naptól.",
+    "correct": true
+   },
+   {
+    "text": "Gyenge szélben lehetővé teszi a gyors irányváltást.",
+    "correct": false
+   },
+   {
+    "text": "Erős szélben a vitorlafelületet csökkenti.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-59",
+  "number": 59,
+  "question": "Mit nevezünk deck-nek?",
+  "options": [
+   {
+    "text": "A fedélzetet.",
+    "correct": true
+   },
+   {
+    "text": "A munkateret.",
+    "correct": false
+   },
+   {
+    "text": "A lakóteret.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-60",
+  "number": 60,
+  "question": "Mit nevezünk kajüt-nek?",
+  "options": [
+   {
+    "text": "A lakóteret.",
+    "correct": true
+   },
+   {
+    "text": "A fedélzetet.",
+    "correct": false
+   },
+   {
+    "text": "A munkateret.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-61",
+  "number": 61,
+  "question": "Hogyan nevezhetjük a hajó fedélzetét más szóval?",
+  "options": [
+   {
+    "text": "Deck.",
+    "correct": true
+   },
+   {
+    "text": "Kajüt.",
+    "correct": false
+   },
+   {
+    "text": "Kokpit.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-62",
+  "number": 62,
+  "question": "Mit nevezünk denevérnek?",
+  "options": [
+   {
+    "text": "A grósz felület növelésére szolgáló latnival merevített részét.",
+    "correct": true
+   },
+   {
+    "text": "A orrkilépőt.",
+    "correct": false
+   },
+   {
+    "text": "A nagyvitorla reffsorát.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-63",
+  "number": 63,
+  "question": "Mi a fux?",
+  "options": [
+   {
+    "text": "A hajóorrban lévő kabin.",
+    "correct": true
+   },
+   {
+    "text": "A hajó farában lévő kabin.",
+    "correct": false
+   },
+   {
+    "text": "A hajó közepében kialakított társalgó.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-64",
+  "number": 64,
+  "question": "Mi a trepni?",
+  "options": [
+   {
+    "text": "Padlódeszka.",
+    "correct": true
+   },
+   {
+    "text": "Fedélzeti ablak.",
+    "correct": false
+   },
+   {
+    "text": "Árboctalp veret.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-65",
+  "number": 65,
+  "question": "Mit nevezünk kompozit alapanyagnak?",
+  "options": [
+   {
+    "text": "Több fajta eltérő jellegű anyag együttes alkalmazása azok hasznos tulajdonságainak ötvözése érdekében.",
+    "correct": true
+   },
+   {
+    "text": "A teljesen vízzáró és UV sugárzás álló anyagokat nevezzük kompozitoknak.",
+    "correct": false
+   },
+   {
+    "text": "A több fajta fém alapanyag hegesztett szerkezetét nevezzük kompozitnak.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-66",
+  "number": 66,
+  "question": "Mi a szerepe a műgyanta-kompozit alapanyag alkalmazásakor az üvegszál, szénszál vagy egyéb szálanyagok alkalmazásának?",
+  "options": [
+   {
+    "text": "Ezek biztosítják a kompozit szerkezet merevségét, szilárdságát, rugalmasságát.",
+    "correct": true
+   },
+   {
+    "text": "Elsősorban térkitöltő, sűrűségnövelő, szigetelő hatásuk van.",
+    "correct": false
+   },
+   {
+    "text": "Elsősorban azt biztosítják, hogy a hajótest teljesen vízzáróvá váljon.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-67",
+  "number": 67,
+  "question": "Mi a szerepe a műgyanta-kompozit hajóépítő alapanyagoknál a poliészter, epoxy anyagok alkalmazásának?",
+  "options": [
+   {
+    "text": "Ezek végzik a szálanyagok közötti tér kitöltését, a szálak összekötését, és a hajótest vízhatlanságának biztosítását is.",
+    "correct": true
+   },
+   {
+    "text": "A kompozit szilárdságát, rugalmasságát biztosítja.",
+    "correct": false
+   },
+   {
+    "text": "A kompozit szerkezetben a műgyanta a szerkezet fajsúlyának beállítását szolgálja.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-68",
+  "number": 68,
+  "question": "A szálanyag + gyanta kompozitból készült hajók építési módszere:",
+  "options": [
+   {
+    "text": "vagy pozitív, vagy negatív mintára építik a hajótestet, a kompozit rétegenkénti laminálásával.",
+    "correct": true
+   },
+   {
+    "text": "a hajótestet a gerinc és többi hosszmerevítő, majd a bordázat felépítésével kezdik, majd vázra hordják fel a kompozit anyagot.",
+    "correct": false
+   },
+   {
+    "text": "a hajótestet keresztirányban több részre bontják, az egyes darabokat külön-külön laminálják, és a folyamat végén összeragasztják.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-69",
+  "number": 69,
+  "question": "Mit értünk a kishajó hosszán?",
+  "options": [
+   {
+    "text": "A hajótest legnagyobb hossza a kormányberendezés és propulziós mű nélkül.",
+    "correct": true
+   },
+   {
+    "text": "Az kishajó legnagyobb hossza méterben, beleértve a kormányberendezést, a propulziós művet, a gépészeti és egyéb szerkezeteket.",
+    "correct": false
+   },
+   {
+    "text": "A hajótest legnagyobb merülés síkjában mért hossza.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-70",
+  "number": 70,
+  "question": "Mit értünk a kishajó vízvonalhosszán?",
+  "options": [
+   {
+    "text": "A hajótest legnagyobb merülés síkjában mért hossza.",
+    "correct": true
+   },
+   {
+    "text": "A hajótest legnagyobb hossza a kormányberendezés és propulziós mű nélkül.",
+    "correct": false
+   },
+   {
+    "text": "Az kishajó legnagyobb hossza méterben, beleértve a kormányberendezést, a propulziós művet, a gépészeti és egyéb szerkezeteket.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-71",
+  "number": 71,
+  "question": "Mit értünk a kishajó oldalmagasságán?",
+  "options": [
+   {
+    "text": "A hajótest vagy a gerinc legalsó pontja és a fedélzet legalsó pontja között a hajó oldalán mért legrövidebb függőleges távolság.",
+    "correct": true
+   },
+   {
+    "text": "Az oldalmagasságnak az oldalmagasság helyén mért merüléssel csökkentett értéke.",
+    "correct": false
+   },
+   {
+    "text": "A legnagyobb merülés síkja és az azzal párhuzamos olyan sík között függőlegesen mért távolság, amely felett a hajót nem lehet vízmentesnek tekinteni.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-72",
+  "number": 72,
+  "question": "Mit értünk a kishajó szabad oldalmagasságán?",
+  "options": [
+   {
+    "text": "Az oldalmagasságnak az oldalmagasság helyén mért merüléssel csökkentett értéke.",
+    "correct": true
+   },
+   {
+    "text": "A legnagyobb merülés síkja és az azzal párhuzamos olyan sík között függőlegesen mért távolság, amely felett a hajót nem lehet vízmentesnek tekinteni.",
+    "correct": false
+   },
+   {
+    "text": "A hajótest vagy a gerinc legalsó pontja és a fedélzet legalsó pontja között a hajó oldalán mért legrövidebb függőleges távolság.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-73",
+  "number": 73,
+  "question": "Hogyan hívjuk a hajótest belsejébe, általában a fedélzet alá stabilan rögzített meghajtó motort?",
+  "options": [
+   {
+    "text": "Beépített motor.",
+    "correct": true
+   },
+   {
+    "text": "Lakótéri motor.",
+    "correct": false
+   },
+   {
+    "text": "Külmotor.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-74",
+  "number": 74,
+  "question": "Minek nevezzük a hajó far részén kialakított rögzítési ponton, a fartükrön felfüggesztett kisebb tömegű motorokat, melyek magukba foglalják a hajtási lánc elemeit is?",
+  "options": [
+   {
+    "text": "Külmotor.",
+    "correct": true
+   },
+   {
+    "text": "Beépített motor.",
+    "correct": false
+   },
+   {
+    "text": "Kompresszor.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-75",
+  "number": 75,
+  "question": "Milyen belső égésű motorok üzemanyaga a gázolaj?",
+  "options": [
+   {
+    "text": "Dízelmotor motor.",
+    "correct": true
+   },
+   {
+    "text": "Otto-motor.",
+    "correct": false
+   },
+   {
+    "text": "Gőzgép.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-76",
+  "number": 76,
+  "question": "Milyen belső égésű motorok üzemanyaga a benzin?",
+  "options": [
+   {
+    "text": "Otto-motor.",
+    "correct": true
+   },
+   {
+    "text": "Dízelmotor.",
+    "correct": false
+   },
+   {
+    "text": "Gőzgép.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-77",
+  "number": 77,
+  "question": "Hogyan győződik meg róla, hogy a külmotor hűtése megfelelő?",
+  "options": [
+   {
+    "text": "Ha a motorhűtést ellenőrző vízsugár megszakítatlan és erős, akkor a hűtés megfelelő.",
+    "correct": true
+   },
+   {
+    "text": "A motor hűtését nem kell ellenőrizni, mert a motorolaj túlmelegedése esetén az automatika leállítja a motort.",
+    "correct": false
+   },
+   {
+    "text": "A motor hűtésének elégtelenségét a motor teljesítményének csökkenése, és a motor spontán leállása jelzi, ennek hiányában a hűtés biztosan megfelelő.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-78",
+  "number": 78,
+  "question": "A kishajókba építésre szánt modern dízelmotorok miben különböznek régi társaiktól?",
+  "options": [
+   {
+    "text": "A modern dízelmotor befecskendező rendszere bonyolult, elektronikusan vezérelt rendszer, a régi tisztán mechanikus.",
+    "correct": true
+   },
+   {
+    "text": "A modern dízelmotorok már mind kétüteműek és a régiekkel szemben tisztán elektronikus befecskendezéssel működnek.",
+    "correct": false
+   },
+   {
+    "text": "A modern dízelmotorok fajlagos teljesítménye jobb a régiekénél, de nagyobb a fajlagos fogyasztásuk.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-79",
+  "number": 79,
+  "question": "Mi hozza létre a benzin-levegő keveréket az Otto-motoroknál?",
+  "options": [
+   {
+    "text": "Karburátor vagy befecskendező rendszer.",
+    "correct": true
+   },
+   {
+    "text": "Kizárólag a karburátor.",
+    "correct": false
+   },
+   {
+    "text": "Kizárólag a befecskendező rendszer.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-80",
+  "number": 80,
+  "question": "Beépített Otto-motorral rendelkező kishajónál milyen műveletet kell végrehajtani minden motorindítás előtt?",
+  "options": [
+   {
+    "text": "A motortér teljes kiszellőztetését.",
+    "correct": true
+   },
+   {
+    "text": "Az ékszíj feszességének ellenőrzését.",
+    "correct": false
+   },
+   {
+    "text": "A hűtőrendszer elzáró szelepeinek zárását.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-81",
+  "number": 81,
+  "question": "Négyütemű motoroknál melyik a helyes munkaütemsorrend az alábbiak közül?",
+  "options": [
+   {
+    "text": "Szívás, sűrítés, terjeszkedés, kipufogás.",
+    "correct": true
+   },
+   {
+    "text": "Szívás, terjeszkedés, sűrítés, kipufogás.",
+    "correct": false
+   },
+   {
+    "text": "Kipufogás, terjeszkedés, sűrítés, szívás.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-82",
+  "number": 82,
+  "question": "Melyik motor jellemzője, hogy a kenőolajat az üzemanyaghoz keverve juttatják el a kenési helyekre?",
+  "options": [
+   {
+    "text": "Kétütemű Otto-motor.",
+    "correct": true
+   },
+   {
+    "text": "Elektromos motor.",
+    "correct": false
+   },
+   {
+    "text": "Négyütemű Otto-motor.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-83",
+  "number": 83,
+  "question": "Mi a dízelmotor-befecskendező porlasztó feladata?",
+  "options": [
+   {
+    "text": "A gázolaj apró cseppekre történő porlasztása és nagy nyomáson az égéstérbe juttatása.",
+    "correct": true
+   },
+   {
+    "text": "A gázolaj sűrítése, összekeverése kenőolajjal és levegővel, majd az égéstérbe juttatása.",
+    "correct": false
+   },
+   {
+    "text": "A gázolajból kiszűri a porrészecskéket és az üzemanyag rendszert légteleníti.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-84",
+  "number": 84,
+  "question": "Mi a karburátor szerepe?",
+  "options": [
+   {
+    "text": "Az Otto-motoroknál az üzemanyag-levegő keverék előállítása.",
+    "correct": true
+   },
+   {
+    "text": "A dízelmotoroknál az üzemanyag levegő keverék előállítása.",
+    "correct": false
+   },
+   {
+    "text": "Az Otto-motoroknál az üzemanyag megfelelő befecskendezési nyomását biztosítja.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-85",
+  "number": 85,
+  "question": "Tankolásnál fontos előkészületek a következők:",
+  "options": [
+   {
+    "text": "Elektromos berendezések kikapcsolása, motor leállítása, dohányzás és nyílt láng használatának megszüntetése, kézi tűzoltó készülék ellenőrzése és előkészítése.",
+    "correct": true
+   },
+   {
+    "text": "Motor alapjáratba helyezése, dohányzás és nyílt láng használatának megszüntetése, utasok kiszállítása a hajóról.",
+    "correct": false
+   },
+   {
+    "text": "Motor leállítása, dohányzás és nyílt láng használatának megszüntetése, a tankolás helyszínének ventilátorral történő szellőztetése, kézi tűzoltó készülék kipróbálása.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-86",
+  "number": 86,
+  "question": "Mi biztosítja a dízelmotorba jutó üzemanyag megfelelő tisztaságát?",
+  "options": [
+   {
+    "text": "A vízleválasztó, az elő- és finomszűrők.",
+    "correct": true
+   },
+   {
+    "text": "A tartályba épített tartályszűrő.",
+    "correct": false
+   },
+   {
+    "text": "Az üzemanyagot előállítása során gondosan tisztítják, ezért nincs szükség külön szűrésre.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-87",
+  "number": 87,
+  "question": "Mire kell figyelni a dízelüzemű motoroknál?",
+  "options": [
+   {
+    "text": "Kényszerhelyzet kivételével nem szabad elhasználni az összes üzemanyagot, mert a dízelmotor üzemanyagrendszere levegősödik, és az üzemanyag utántöltése után sem indul.",
+    "correct": true
+   },
+   {
+    "text": "A tartályban egy hónapnál hosszabb ideje tárolt üzemanyagot nem szabad felhasználni, mert ennyi idő alatt az már alkotórészeire esik, és a motorba jutva károsítja azt.",
+    "correct": false
+   },
+   {
+    "text": "Mindig tartsuk be a motorgyártó által előírt üzemagyag-kenőolaj keverési arányt.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-88",
+  "number": 88,
+  "question": "Milyen alkatrészekből épül fel az Otto-motorok üzemanyagrendszere? Melyik felsorolás helyes?",
+  "options": [
+   {
+    "text": "Üzemanyagtartály, üzemanyag szűrő(k), üzemanyag szivattyú, karburátor, vagy injektor.",
+    "correct": true
+   },
+   {
+    "text": "Üzemanyagtartály, adagolószivattyú, porlasztócsúcs.",
+    "correct": false
+   },
+   {
+    "text": "Üzemanyagtartály, üzemanyag szűrő(k), üzemanyag hűtő, adagolószivattyú, porlasztó.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-89",
+  "number": 89,
+  "question": "Milyen alkatrészekből épül fel az dízelmotorok üzemanyagrendszere? Melyik felsorolás helyes?",
+  "options": [
+   {
+    "text": "Üzemanyagtartály, tápszivattyú, üzemanyag szűrő(k), adagolószivattyú, befecskendező porlasztó.",
+    "correct": true
+   },
+   {
+    "text": "Üzemanyagtartály, adagolószivattyú, karburátor, porlasztócsúcs.",
+    "correct": false
+   },
+   {
+    "text": "Üzemanyagtartály, üzemanyag szűrő(k), üzemanyag hűtő, injektor.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-90",
+  "number": 90,
+  "question": "Belsőégésű főgéppel hajtott kishajó esetén fontos az üzemórák nyilvántartása?",
+  "options": [
+   {
+    "text": "Fontos, mert bizonyos karbantartási tevékenységeket a gyártó által meghatározott időintervallumonként kell elvégezni.",
+    "correct": true
+   },
+   {
+    "text": "Nem fontos, mert a kenőolajat minden szezon végén le kell cserélni, a hajtóműolajat meg csak akkor, ha víz szivárog bele.",
+    "correct": false
+   },
+   {
+    "text": "Fontos, de nem a karbantartás, hanem a hajó eladáskori értékének meghatározása szempontjából.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-91",
+  "number": 91,
+  "question": "Áramtalanítja-e a hajót, ha hosszabb időre felügyelet nélkül hagyja?",
+  "options": [
+   {
+    "text": "Igen így az akkumulátorokat biztosan nem meríti le semmi, és rövidzárlat sem lesz.",
+    "correct": true
+   },
+   {
+    "text": "A modern hajókat nem szabad teljesen áramtalanítani, mert a motor elektronikus vezérlőrendszerének mindig feszültség alatt kell lennie.",
+    "correct": false
+   },
+   {
+    "text": "Csak a 220 voltos rendszereket kell teljesen lekapcsolni, mivel az alacsony feszültségű áramkörökben nem keletkezhet rövidzárlat.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-92",
+  "number": 92,
+  "question": "Külmotoroknál hogyan tudjuk ellenőrizni a hűtés működését?",
+  "options": [
+   {
+    "text": "A hűtővíz megfelelő áramlását vékony és folyamatos ellenőrző vízsugár megjelenése jelzi.",
+    "correct": true
+   },
+   {
+    "text": "Nem szükséges ellenőrizni, ha a motor beindul, akkor biztosan van hűtése is.",
+    "correct": false
+   },
+   {
+    "text": "A motor burkolatát levéve a hengerfejen kézzel ellenőrizhető a hűtőfolyadék áramlása.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-93",
+  "number": 93,
+  "question": "Mi történik, ha nem kielégítő, vagy megszűnik a motor hűtése?",
+  "options": [
+   {
+    "text": "A motor túlmelegszik, a dugattyú és szelepek besülhetnek, a motorblokk és a hengerfej megrepedhetnek.",
+    "correct": true
+   },
+   {
+    "text": "A motor fogyasztása megnő, a fordulatszám megnő és a hajtómű olaj felforr.",
+    "correct": false
+   },
+   {
+    "text": "Nincs hatása, amennyiben a motort csak fél terheléssel üzemeltetjük az nem károsodik.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-94",
+  "number": 94,
+  "question": "Hogyan célszerű a hajó gumi és műanyag alkatrészeinek ápolását végezni?",
+  "options": [
+   {
+    "text": "Szilikon tartalmú ápolószerekkel ápoljuk, a megrepedezett elemeket cseréljük.",
+    "correct": true
+   },
+   {
+    "text": "Ásványi zsírral kell bekenni őket, vagy finoman mosóbenzines ronggyal áttörölgetni.",
+    "correct": false
+   },
+   {
+    "text": "Meg kell tisztítani őket és finom csiszolóvászonnal a repedezett elemeket felpolírozni.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-95",
+  "number": 95,
+  "question": "Milyen műveletet kell a hideg állapotú dízelüzemű motorok indítása előtt elvégezni?",
+  "options": [
+   {
+    "text": "Az izzító gyertyákat kb. 10 másodpercig, vagy ha van ellenőrző lámpa, annak kialvásáig kell működtetni.",
+    "correct": true
+   },
+   {
+    "text": "A motor indítása előtt valamilyen fogyasztót rövid időre fel kell kapcsolni, hogy az akkumulátort felkészítsük a dízelmotor nagy indító áramára.",
+    "correct": false
+   },
+   {
+    "text": "Minden esetben ellenőrizni kell, hogy a vízleválasztó még nem telítődött.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-96",
+  "number": 96,
+  "question": "Mikor használjuk a szivatót?",
+  "options": [
+   {
+    "text": "A hideg motor indításakor. A motor által beszívott keverék benzin arányát növeli meg, a könnyebb indítás érdekében.",
+    "correct": true
+   },
+   {
+    "text": "Akkor használjuk, ha plusz teljesítményt szeretnénk a motorból kinyerni előzéskor.",
+    "correct": false
+   },
+   {
+    "text": "A motor leállítása előtt kell bekapcsolni, hogy az üzemanyag rendszert kiürítsük.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-97",
+  "number": 97,
+  "question": "Kell-e ellenőrizni a kenőolaj szintjét motor indításkor?",
+  "options": [
+   {
+    "text": "Igen, célszerű az aznapi első motorindítás előtt, de lehet többször is.",
+    "correct": true
+   },
+   {
+    "text": "Igen, célszerű az aznapi első motorindítás után közvetlenül.",
+    "correct": false
+   },
+   {
+    "text": "Nem szükséges, mivel a motor kenőolaj nélkül amúgy sem indítható el.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-98",
+  "number": 98,
+  "question": "Motor indítása előtt a következők közül mit célszerű ellenőrizni?",
+  "options": [
+   {
+    "text": "Kenőolaj szintet, a hajtómű üres állásban legyen.",
+    "correct": true
+   },
+   {
+    "text": "A hajó stabilitását, a motor megfelelő hűtését.",
+    "correct": false
+   },
+   {
+    "text": "A motor burkolatának épségét és a hűtővíz hőfokát.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-99",
+  "number": 99,
+  "question": "Motor indítása után a következők közül mit célszerű ellenőrizni?",
+  "options": [
+   {
+    "text": "Az olajnyomást, a hűtés működését.",
+    "correct": true
+   },
+   {
+    "text": "Legyen elegendő, a motor hűtését szolgáló fenékvíz a hajóban.",
+    "correct": false
+   },
+   {
+    "text": "A kenőolaj szintet a motorban, és a hűtővíz hőfokát.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-100",
+  "number": 100,
+  "question": "Mit ítélhetünk meg az olajnyomás jelző által üzem közben mutatott érték alapján?",
+  "options": [
+   {
+    "text": "A motor kenésének megfelelőségét.",
+    "correct": true
+   },
+   {
+    "text": "A kenőolajszűrő elhasználtságát, és a motor körülbelüli fordulatszámát.",
+    "correct": false
+   },
+   {
+    "text": "A külső hőmérséklet nagyságát, és a hajó terheltségét.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-101",
+  "number": 101,
+  "question": "Mit ítélhetünk meg a kétkörös hűtési rendszereknél a belső kör vízhőmérsékletét jelző műszer által üzem közben mutatott érték alapján?",
+  "options": [
+   {
+    "text": "A motor hűtésének megfelelőségét.",
+    "correct": true
+   },
+   {
+    "text": "Megbecsülhető a külső víz hőmérséklete, és a hőcserélő tömítettsége.",
+    "correct": false
+   },
+   {
+    "text": "Megbecsülhető a motor által leadott teljesítmény.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-102",
+  "number": 102,
+  "question": "Hogyan kell leállítani a benzinüzemű külmotorokat?",
+  "options": [
+   {
+    "text": "Nagyobbakat általában a gyújtáskapcsolóval, kisebbeknél a motoron található leállító gomb pár másodpercig tartó nyomásával.",
+    "correct": true
+   },
+   {
+    "text": "Nagyobbakat általában a gyújtáskapcsolóval, kisebbeket a gáz teljes levéltelével, vagy ha akkor sem áll le, akkor az üzemanyag-vezeték csatlakozásának megszüntetésével",
+    "correct": false
+   },
+   {
+    "text": "Nagyobbakat általában a gyújtáskapcsolóval, kisebbeket az üzemanyag- tartály levegőztető szelepének zárásával.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-103",
+  "number": 103,
+  "question": "Hol vannak a külmotorokon a hűtővíz beszívására szolgáló nyílások?",
+  "options": [
+   {
+    "text": "A külmotor szárának kavitációs lap alatti részének jobb- és baloldalán.",
+    "correct": true
+   },
+   {
+    "text": "A külmotor a hűtővizet a hajócsavar agyrészén keresztül szívja be.",
+    "correct": false
+   },
+   {
+    "text": "A külmotoroknak legtöbbször zárt hűtési rendszere van, ahol a hűtővizet a külmotor szárának víz alatti részébe szerelt hőcserélő hűti le.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-104",
+  "number": 104,
+  "question": "Mit kell tenni, ha indítás után azt tapasztalja, hogy az olajnyomás mérő műszer elégtelen nyomásértéket mutat?",
+  "options": [
+   {
+    "text": "A motort azonnal le kell állítani, majd ellenőrizni kell az olajszintet, az olajszűrőt és az olajszivattyút.",
+    "correct": true
+   },
+   {
+    "text": "A motort alapjáraton működtetni kell amíg az olajnyomás meg nem emelkedik.",
+    "correct": false
+   },
+   {
+    "text": "A motor fordulatszámát addig kell növelni, amíg az olajnyomás meg nem emelkedik.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-105",
+  "number": 105,
+  "question": "Mit kell tenni, ha a terhelt motor hűtővíz hőfoka nagyon magas?",
+  "options": [
+   {
+    "text": "A motor fordulatszámát azonnal csökkenteni kell, ha a hőfok nem csökken a motort le kell állítani.",
+    "correct": true
+   },
+   {
+    "text": "A motort vizes ronggyal kívülről hűteni kell.",
+    "correct": false
+   },
+   {
+    "text": "Gázt adunk és széllel szembe fordulunk, így a megnövekedett menetszél várhatóan lehűti a motort.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-106",
+  "number": 106,
+  "question": "Mit jelent a gázolaj bedermedése?",
+  "options": [
+   {
+    "text": "A gázolaj hőmérséklete nagy hidegben eléri a dermedéspontját, a paraffin kiválik belőle és eltömíti az üzemanyag rendszert.",
+    "correct": true
+   },
+   {
+    "text": "A porlasztott gázolaj a henger hideg felületére kicsapódik és indítási nehézségeket okoz.",
+    "correct": false
+   },
+   {
+    "text": "A gázolaj hőmérséklete nagy melegben meghaladja a dermedéspontját, kiválik belőle a paraffin és eltömíti az üzemanyag rendszert.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-107",
+  "number": 107,
+  "question": "Hogyan ellenőrzi a motor üzem közbeni állapotát?",
+  "options": [
+   {
+    "text": "Műszerek segítségével és a motor működésének vizuális és hallás utáni ellenőrzésével egyaránt.",
+    "correct": true
+   },
+   {
+    "text": "Csak a műszereket kell figyelni, azok biztos információkat szolgáltatnak számomra.",
+    "correct": false
+   },
+   {
+    "text": "A motor hangja és a kipufogó gáz jellege alapján meg lehet állapítani a működés állapotát.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-108",
+  "number": 108,
+  "question": "Mire utalhat, ha a motor fordulatszáma hirtelen megnő, de a hajó sebessége lecsökken.",
+  "options": [
+   {
+    "text": "A hajtáslánc meghibásodására utal, tengelytörésre, a hajócsavar sérülésére, a hajócsavar nyírócsapjának törésére, tengelykapcsoló hibára.",
+    "correct": true
+   },
+   {
+    "text": "Az üzemanyag rendszerben lévő dugulás megszűnt.",
+    "correct": false
+   },
+   {
+    "text": "A hajóra felakadt egy uszadék és azt magával vonszolja.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-109",
+  "number": 109,
+  "question": "Mire utalhat, ha a hajtómű sebességbe kapcsolásakor a motor rendellenesen rezonálni kezd?",
+  "options": [
+   {
+    "text": "A hajócsavar egyik szárnya sérülhetett és az emiatt keletkezett rezgéseket a hajtómű továbbítja a motorhoz.",
+    "correct": true
+   },
+   {
+    "text": "A motor egyik hengere kihagy és terhelt állapotban a szerkezet berezonál.",
+    "correct": false
+   },
+   {
+    "text": "A hajtómű olajszintje alacsony.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-110",
+  "number": 110,
+  "question": "Mire utalhat, ha a motor akadozva jár, leáll?",
+  "options": [
+   {
+    "text": "Az üzemanyag rendszer meghibásodására utal, a tank levegőztetője nem lett kinyitva, eltömődött a szűrő, lelevegősödött a rendszer, vizes az üzemanyag.",
+    "correct": true
+   },
+   {
+    "text": "A motor gyújtáskapcsolója kontakthibás.",
+    "correct": false
+   },
+   {
+    "text": "Az üzemanyag oktánszáma nem megfelelő.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-111",
+  "number": 111,
+  "question": "Mire utalhat, ha a kipufogó füst színe kékes árnyalatú?",
+  "options": [
+   {
+    "text": "Kenőolaj került az égéstérbe, esetlegesen a dugattyúgyűrűk kopása, törése miatt.",
+    "correct": true
+   },
+   {
+    "text": "Oxigénszegény az égés a motorban. Lehetséges, hogy a levegőszűrő eltömődött.",
+    "correct": false
+   },
+   {
+    "text": "Az üzemanyag cetánszáma nem megfelelő.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-112",
+  "number": 112,
+  "question": "Mire utalhat, ha a kipufogógáz fehéres színű?",
+  "options": [
+   {
+    "text": "Víz került az égéstérbe esetlegesen a hengerfej tömítés sérülése miatt, vagy vizes az üzemanyag.",
+    "correct": true
+   },
+   {
+    "text": "Oxigénszegény az égés a motorban. Lehetséges, hogy a levegőszűrő eltömődött.",
+    "correct": false
+   },
+   {
+    "text": "Az üzemanyag cetánszáma nem megfelelő.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-113",
+  "number": 113,
+  "question": "Mire utalhat, ha a kipufogó gázok erős fekete színűek?",
+  "options": [
+   {
+    "text": "Tökéletlen égés a motorban, általában oxigén szegény állapotra utal. A levegőszűrő cserére szorulhat.",
+    "correct": true
+   },
+   {
+    "text": "Kenőolaj került az égéstérbe, esetlegesen a dugattyúgyűrűk kopása, törése miatt.",
+    "correct": false
+   },
+   {
+    "text": "Víz került az égéstérbe esetlegesen a hengerfej tömítés sérülése miatt, vagy vizes az üzemanyag.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-114",
+  "number": 114,
+  "question": "Kétkörös hűtés rendszerű hajóban a belső víz hőmérséklete indítás után az üzemi fölé emelkedik. Mi lehet az oka?",
+  "options": [
+   {
+    "text": "A termosztát nem nyit ki, valamelyik szivattyú nem működik, eltömődött a külső hűtőkör.",
+    "correct": true
+   },
+   {
+    "text": "A termosztát idő előtt kinyitott, eltömődött a belső kör szívónyílása.",
+    "correct": false
+   },
+   {
+    "text": "A belső kör vízszűrője eltömődött, túl magas a külső víz hőmérséklete.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-115",
+  "number": 115,
+  "question": "Mit szolgál a hajók kormányrendszerébe beépített áttétel rendszer?",
+  "options": [
+   {
+    "text": "Nagyobb méretű illetve nagyobb sebességű hajókon a kormányzáshoz szükséges nagyobb erőt biztosítja.",
+    "correct": true
+   },
+   {
+    "text": "Tehermentesíti a kormánylapát felfüggesztését.",
+    "correct": false
+   },
+   {
+    "text": "A kormánylapát kitérítési szögtartományát növeli.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-116",
+  "number": 116,
+  "question": "Mire szolgál a hajtómű?",
+  "options": [
+   {
+    "text": "A motor nyomatékának és fordulatszámának, illetve a tengelyrendszer forgási irányának megváltoztatására szolgál.",
+    "correct": true
+   },
+   {
+    "text": "A motor fordulatszámától függően beállítja a nyomatékot.",
+    "correct": false
+   },
+   {
+    "text": "A állítható szárny állásszögű hajócsavarok esetében a hajócsavar szárnyainak állítását végzi.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-117",
+  "number": 117,
+  "question": "Melyek a horgonycsörlő meghatározó paraméterei?",
+  "options": [
+   {
+    "text": "A teljesítmény, vonóerő, súlytartó képesség, a vontatási sebesség, a lánc/kötél vastagsága amit kezelni tud és a szerkezet önsúlya.",
+    "correct": true
+   },
+   {
+    "text": "A horgonykapa méret, tolóerő, a vontatási sebesség, a lánc/kötél vastagsága, amit kezelni tud.",
+    "correct": false
+   },
+   {
+    "text": "A teljesítmény, a vonóerő, súlytartó sebesség, a vontatási sebesség, a horgonyszár hossza amit kezelni tud és a szerkezet önsúlya.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-118",
+  "number": 118,
+  "question": "Mit célszerű téli konzerváláskor elvégezni az alábbiak közül?",
+  "options": [
+   {
+    "text": "Belső hűtővíz fagyállóságának ellenőrzése.",
+    "correct": true
+   },
+   {
+    "text": "Dugattyúk kiszerelése és bezsírozása.",
+    "correct": false
+   },
+   {
+    "text": "Vízcsövek szelepeinek, csapjainak kiszerelése.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-119",
+  "number": 119,
+  "question": "Mit célszerű téli konzerváláskor elvégezni az alábbiak közül?",
+  "options": [
+   {
+    "text": "A karburátorból a benzin leengedése, vagy a tankba benzin konzerváló adalék töltése.",
+    "correct": true
+   },
+   {
+    "text": "A kiegyenlítő tartályból a gázolaj leengedése.",
+    "correct": false
+   },
+   {
+    "text": "A motor felfüggesztésének fellazítása.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-120",
+  "number": 120,
+  "question": "Mit célszerű téli konzerváláskor elvégezni az alábbiak közül?",
+  "options": [
+   {
+    "text": "Bovdenek, huzalozások tisztítása, olajozása, zsírozása.",
+    "correct": true
+   },
+   {
+    "text": "Az akkumulátor kikötése és az elektrolit lecserélése.",
+    "correct": false
+   },
+   {
+    "text": "Kipufogó és szívó szelepek nyitott állapotban való rögzítése.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-121",
+  "number": 121,
+  "question": "Horgony felszedése közben hogyan csökkenthetjük az elektromos csörlő terhelését?",
+  "options": [
+   {
+    "text": "A horgonycsörlő működtetése közben a főgéppel lassú előremenetet alkalmazva csökkenthetjük a lánc és a csörlő terhelését.",
+    "correct": true
+   },
+   {
+    "text": "A hajóval a horgony fölé állunk, és ezt követően kezdjük meg a csörlővel beszedni a horgonyláncot.",
+    "correct": false
+   },
+   {
+    "text": "A hajóval áthajózunk a horgony fölött, majd amint a horgony felszakadt megállítjuk a hajót a mederhez képest, és a csörlő segítségével felhúzzuk a horgonyt.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-122",
+  "number": 122,
+  "question": "Mit nevezünk víziútnak?",
+  "options": [
+   {
+    "text": "A vízi közlekedés pályái a víziutak, amelyek természetesek (folyók, tavak, tengerek) és mesterségesek (hajózó csatornák, mesterséges tavak) lehetnek.",
+    "correct": true
+   },
+   {
+    "text": "Vízi útnak a vízterület felett átívelő hidakat, a vízterületet átszelő kompjáratok útvonalait és a vízterület alatt húzódó alagutakat nevezzük.",
+    "correct": false
+   },
+   {
+    "text": "Vízi útnak csak a mesterségesen kialakított vízterületet (például csatorna) nevezzük, ahol a hajózás lehetséges.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-123",
+  "number": 123,
+  "question": "Hogyan jellemezzük az alsó-szakasz jellegű folyóvizet?",
+  "options": [
+   {
+    "text": "Viszonylag kis esésű, hordaléklerakások útján létrejött szigetekkel megtűzdelt, széles mederrel rendelkező.",
+    "correct": true
+   },
+   {
+    "text": "Közepes szélességű, viszonylag nagyobb vízmélységgel, nagyobb kanyarívekkel rendelkező, és közepes vízsebességű.",
+    "correct": false
+   },
+   {
+    "text": "Nagy esésű, vízsebességű, szűk kanyarokkal tarkított, kis vízmélységű és szűkebb meder keresztmetszetű.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-124",
+  "number": 124,
+  "question": "Az alábbiak közül mit nevezünk egy víziút dinamikai jellemzőjének?",
+  "options": [
+   {
+    "text": "A vízállás, a gázlómélység, a vízsebesség.",
+    "correct": true
+   },
+   {
+    "text": "A legkisebb kanyarulati sugár, a hajóút legkisebb szélessége, a legkisebb szabad űrszelvény méret.",
+    "correct": false
+   },
+   {
+    "text": "A víziút hossza, a tengerszint feletti magassága és esése.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-125",
+  "number": 125,
+  "question": "Mit nevezünk hajóútnak?",
+  "options": [
+   {
+    "text": "A víziutakon rendszerint bójákkal és fényjelzésekkel a tájékozódást elősegítő jelzésekkel kitűzött, a hajóforgalom számára fenntartott területet.",
+    "correct": true
+   },
+   {
+    "text": "A víziutakon kívüli, kevésbé forgalmas, a hajóforgalom számára fenntartott területet.",
+    "correct": false
+   },
+   {
+    "text": "A kikötőből a víziútig tartó, rendszerint egy irányú közlekedést biztosító vízterület.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-126",
+  "number": 126,
+  "question": "Mi a víziút?",
+  "options": [
+   {
+    "text": "A víziközlekedés pályája, a folyók, csatornák és tavak (miniszteri rendeletben víziúttá nyilvánított) szakasza vagy része.",
+    "correct": true
+   },
+   {
+    "text": "Víziút minden olyan állami kezelésben álló folyó, tó és csatorna, amely geometriai méreteinél fogva időszakos vagy állandó jelleggel hajózásra alkalmas.",
+    "correct": false
+   },
+   {
+    "text": "Csak azt a vízterületet tekintjük víziútnak, ami hajózási jelekkel ki van tűzve.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-127",
+  "number": 127,
+  "question": "Mit nevezünk a térkép méretarányának?",
+  "options": [
+   {
+    "text": "A kicsinyítés mértékét térképi méretaránynak nevezzük, amely megadja, hogy a térképlapon mekkora területet ábrázolnak.",
+    "correct": true
+   },
+   {
+    "text": "A nagyítás mértékét térképi méretaránynak nevezzük, amely megadja, hogy a térképen milyen tereptárgyakat ábrázolnak.",
+    "correct": false
+   },
+   {
+    "text": "A kicsinyítés mértékét térképi méretaránynak nevezzük, amely megadja, hogy milyen térképi vetület alapján készült a térkép.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-128",
+  "number": 128,
+  "question": "Mit jelent a térképen az M 1:10000 jelzés?",
+  "options": [
+   {
+    "text": "A térképen 1 cm távolság a valóságban 100 méter.",
+    "correct": true
+   },
+   {
+    "text": "A térképen 1 cm távolság a valóságban 1 kilométer.",
+    "correct": false
+   },
+   {
+    "text": "A térképen 1 cm távolság a valóságban 10000 méter.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-129",
+  "number": 129,
+  "question": "Merre található az északi irány a térképeken, ha külön erre utaló jelölést nem látunk rajta?",
+  "options": [
+   {
+    "text": "A térkép felső éle felé.",
+    "correct": true
+   },
+   {
+    "text": "A térkép alsó éle felé.",
+    "correct": false
+   },
+   {
+    "text": "A méretaránytól függően vagy jobbra vagy balra esik az északi irány.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-130",
+  "number": 130,
+  "question": "A vízmércéken mért vízállásból mire lehet következtetni?",
+  "options": [
+   {
+    "text": "A merülési korlátozásokkal érintett területeken mérhető vízmélységekre.",
+    "correct": true
+   },
+   {
+    "text": "A vízmérce szelvényében fennálló legnagyobb vízmélységre.",
+    "correct": false
+   },
+   {
+    "text": "Arra, hogy az adott víziút apadó- vagy áradó jellegű fázisban van.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-131",
+  "number": 131,
+  "question": "Mi a vízállás?",
+  "options": [
+   {
+    "text": "A vízszint magassága illetőleg mélysége a vízmérce nulla-pontjának, mint viszonyítási pontnak a szintjétől.",
+    "correct": true
+   },
+   {
+    "text": "Állóvizeken, tavakon az áramlásoktól mentes vízterület a vízállás.",
+    "correct": false
+   },
+   {
+    "text": "A vízszint magassága illetőleg mélysége a vízmérce legalsó pontjának, mint viszonyítási pontnak a szintjétől.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-132",
+  "number": 132,
+  "question": "Hogyan mérjük a vízállást?",
+  "options": [
+   {
+    "text": "A vízterületen elhelyezett vízmércéről tudjuk leolvasni.",
+    "correct": true
+   },
+   {
+    "text": "Hajóról minden nap ultrahangos vízmélység mérővel mérik le.",
+    "correct": false
+   },
+   {
+    "text": "Az aktuális vízhozamból számolják ki.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-133",
+  "number": 133,
+  "question": "Milyen jelölésekkel rendelkezik a vízmérce?",
+  "options": [
+   {
+    "text": "2 centiméteres osztás és deciméteres számozás.",
+    "correct": true
+   },
+   {
+    "text": "5 centiméteres osztás és deciméteres számozás.",
+    "correct": false
+   },
+   {
+    "text": "Egy centiméteres osztás és 5 centiméteres számozás.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-134",
+  "number": 134,
+  "question": "Milyen vízállást olvas le az ábrán látható vízmércéről?",
+  "options": [
+   {
+    "text": "56 centiméter.",
+    "correct": true
+   },
+   {
+    "text": "5,6 centiméter.",
+    "correct": false
+   },
+   {
+    "text": "56 deciméter.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/Kep7 56.jpg"
+ },
+ {
+  "id": "vitorlas-135",
+  "number": 135,
+  "question": "Milyen vízállást olvas le az ábrán látható vízmércéről?",
+  "options": [
+   {
+    "text": "48 centiméter.",
+    "correct": true
+   },
+   {
+    "text": "4,8 centiméter.",
+    "correct": false
+   },
+   {
+    "text": "48 deciméter.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/Kep8 48.jpg"
+ },
+ {
+  "id": "vitorlas-136",
+  "number": 136,
+  "question": "Milyen vízállást olvas le az ábrán látható vízmércéről?",
+  "options": [
+   {
+    "text": "2 deciméter és 6 centiméter.",
+    "correct": true
+   },
+   {
+    "text": "26 deciméter.",
+    "correct": false
+   },
+   {
+    "text": "2,6 centiméter.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/Kep9 26.jpg"
+ },
+ {
+  "id": "vitorlas-137",
+  "number": 137,
+  "question": "Mi hozhat létre áramlatokat a tavakon?",
+  "options": [
+   {
+    "text": "A folyamatosan egy irányból fújó szél, vagy folyó befolyás.",
+    "correct": true
+   },
+   {
+    "text": "A meder lejtése és a vízmélység különbség.",
+    "correct": false
+   },
+   {
+    "text": "A vízhőfok különbségek az egyes vízterületek között, valamint a vízkivételi művek hatásai.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-138",
+  "number": 138,
+  "question": "Mit nevezünk döghullámnak?",
+  "options": [
+   {
+    "text": "Az erős szélből visszamaradt nagyobb hullámok.",
+    "correct": true
+   },
+   {
+    "text": "A nagy méretű tarajos hullámok.",
+    "correct": false
+   },
+   {
+    "text": "A víz kis mértékű fodrozódása.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-139",
+  "number": 139,
+  "question": "Mi az uralkodó szélirány a Balatonon?",
+  "options": [
+   {
+    "text": "Északnyugati.",
+    "correct": true
+   },
+   {
+    "text": "Délkeleti.",
+    "correct": false
+   },
+   {
+    "text": "Északkeleti.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-140",
+  "number": 140,
+  "question": "Mitől függ a szél hajóra gyakorolt hatása?",
+  "options": [
+   {
+    "text": "A szél sebességétől, a szélnek kitett felület nagyságától, a hajó vízbe merülő részének méretétől.",
+    "correct": true
+   },
+   {
+    "text": "A szél irányától, a hajó sebességétől, a vízmélységtől.",
+    "correct": false
+   },
+   {
+    "text": "A szél sebességétől, a hajó kormányképességétől, a hajó alatti víz mélységétől.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-141",
+  "number": 141,
+  "question": "Milyen skálát használunk a szél erősség becslésére?",
+  "options": [
+   {
+    "text": "Beaufort-skálát.",
+    "correct": true
+   },
+   {
+    "text": "Fahrenheit-skálát.",
+    "correct": false
+   },
+   {
+    "text": "Coriolis-skálát.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-142",
+  "number": 142,
+  "question": "Merre fúj az északkeleti szél?",
+  "options": [
+   {
+    "text": "Délnyugatra.",
+    "correct": true
+   },
+   {
+    "text": "Északkeletre.",
+    "correct": false
+   },
+   {
+    "text": "Északról fúj keletre.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-143",
+  "number": 143,
+  "question": "Merre fúj a délkeleti szél?",
+  "options": [
+   {
+    "text": "Északnyugatra.",
+    "correct": true
+   },
+   {
+    "text": "Délről fúj keletre.",
+    "correct": false
+   },
+   {
+    "text": "Délkeletre.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-144",
+  "number": 144,
+  "question": "Adja meg az északi szél irányát fokban!",
+  "options": [
+   {
+    "text": "0 fok.",
+    "correct": true
+   },
+   {
+    "text": "180 fok.",
+    "correct": false
+   },
+   {
+    "text": "270 fok.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-145",
+  "number": 145,
+  "question": "Adja meg a délkeleti szél irányát fokban!",
+  "options": [
+   {
+    "text": "135 fok.",
+    "correct": true
+   },
+   {
+    "text": "90 fok.",
+    "correct": false
+   },
+   {
+    "text": "45 fok.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-146",
+  "number": 146,
+  "question": "Adja meg a nyugati szél irányát fokban!",
+  "options": [
+   {
+    "text": "270 fok.",
+    "correct": true
+   },
+   {
+    "text": "90 fok.",
+    "correct": false
+   },
+   {
+    "text": "225 fok.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-147",
+  "number": 147,
+  "question": "Hány fokozatú a belvízen használt, alap Beaufort-skála?",
+  "options": [
+   {
+    "text": "13 fokozatú.",
+    "correct": true
+   },
+   {
+    "text": "10 fokozatú.",
+    "correct": false
+   },
+   {
+    "text": "8 fokozatú.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-148",
+  "number": 148,
+  "question": "Mit nevezünk bríznek?",
+  "options": [
+   {
+    "text": "A gyenge szellőt.",
+    "correct": true
+   },
+   {
+    "text": "A kifújt szelet.",
+    "correct": false
+   },
+   {
+    "text": "A viharos szelet.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-149",
+  "number": 149,
+  "question": "Mi a flaute?",
+  "options": [
+   {
+    "text": "A teljes szélcsend.",
+    "correct": true
+   },
+   {
+    "text": "Hirtelen széllökés.",
+    "correct": false
+   },
+   {
+    "text": "Lapos hullám.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-150",
+  "number": 150,
+  "question": "Mi a pöff?",
+  "options": [
+   {
+    "text": "Széllökés.",
+    "correct": true
+   },
+   {
+    "text": "Gyenge szellő.",
+    "correct": false
+   },
+   {
+    "text": "Szélcsend.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-151",
+  "number": 151,
+  "question": "Melyik a hidegfront jellemzője?",
+  "options": [
+   {
+    "text": "Érkezése előtt a légnyomás mindig csökken, utána gyakran igen gyorsan emelkedik.",
+    "correct": true
+   },
+   {
+    "text": "A légnyomás az érkezése előtt mindig erősen csökken, átvonulása után általában nem változik.",
+    "correct": false
+   },
+   {
+    "text": "Érkezése előtt a légnyomás mindig emelkedik utána gyakran igen gyorsan csökken.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-152",
+  "number": 152,
+  "question": "Melyik a melegfront jellemzője?",
+  "options": [
+   {
+    "text": "A légnyomás az érkezése előtt mindig erősen csökken, átvonulása után általában nem változik.",
+    "correct": true
+   },
+   {
+    "text": "Érkezése előtt a légnyomás mindig csökken, utána gyakran igen gyorsan emelkedik.",
+    "correct": false
+   },
+   {
+    "text": "Érkezése előtt a légnyomás mindig emelkedik utána gyakran igen gyorsan csökken.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-153",
+  "number": 153,
+  "question": "Melyik meteorológiai jelenség sematikus ábrázolását látja a képen?",
+  "options": [
+   {
+    "text": "Hidegfront",
+    "correct": true
+   },
+   {
+    "text": "Melegfront.",
+    "correct": false
+   },
+   {
+    "text": "Ciklon.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/Kep14 Hideg.jpg"
+ },
+ {
+  "id": "vitorlas-154",
+  "number": 154,
+  "question": "Melyik meteorológiai jelenség sematikus ábrázolását látja a képen?",
+  "options": [
+   {
+    "text": "Melegfront",
+    "correct": true
+   },
+   {
+    "text": "Hidegfront",
+    "correct": false
+   },
+   {
+    "text": "Ráfutó szél",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/Kep15 Meleg.jpg"
+ },
+ {
+  "id": "vitorlas-155",
+  "number": 155,
+  "question": "Mit nevezünk ködnek?",
+  "options": [
+   {
+    "text": "A levegőben állandóan jelenlévő vízgőz, vagyis páratartalom kicsapódási formáját.",
+    "correct": true
+   },
+   {
+    "text": "A levegőben állandóan jelenlevő gázok kicsapódási formáját.",
+    "correct": false
+   },
+   {
+    "text": "A levegőben állandóan jelenlévő vízgőz nulla fok alatti megszilárdult megjelenése.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-156",
+  "number": 156,
+  "question": "Mit nevezünk harmatpontnak?",
+  "options": [
+   {
+    "text": "Azt a hőmérséklet, melyre az adott légtömegnek le kell hűlnie ahhoz, hogy a benne lévő vízgőz vízzé kicsapódjon.",
+    "correct": true
+   },
+   {
+    "text": "Az a páratartalom érték, amikor az adott légtömegben lévő vízgőz vízzé csapódik ki.",
+    "correct": false
+   },
+   {
+    "text": "Az a légnyomás érték, amikor az adott légtömegben lévő vízgőz vízzé csapódik ki.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-157",
+  "number": 157,
+  "question": "Minek nevezzük azt a jelenséget, amikor a kásás jégből kezdenek kialakulni a nagyobb jégtáblák.",
+  "options": [
+   {
+    "text": "Elsődleges jégzajlás.",
+    "correct": true
+   },
+   {
+    "text": "Másodlagos jégzajlás.",
+    "correct": false
+   },
+   {
+    "text": "Jégtorlasz.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-158",
+  "number": 158,
+  "question": "Minek nevezzük azt a jelenséget, amikor az összeállt jégtáblákból, összefüggő jégtakaróból letöredeznek kisebb jégtáblák és a víz felszínén sodródnak.",
+  "options": [
+   {
+    "text": "Másodlagos jégzajlás.",
+    "correct": true
+   },
+   {
+    "text": "Elsődleges jégzajlás.",
+    "correct": false
+   },
+   {
+    "text": "Rianás.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-159",
+  "number": 159,
+  "question": "Mi a Beaufort-skála?",
+  "options": [
+   {
+    "text": "A szélerősség becslésére szolgáló tapasztalati táblázat.",
+    "correct": true
+   },
+   {
+    "text": "A szélsebesség mérésére szolgáló skálás kijelzőjű műszer.",
+    "correct": false
+   },
+   {
+    "text": "A hajó sebességét mérő vízbe helyezhető kézi műszer.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-160",
+  "number": 160,
+  "question": "Melyik vízterületeinken működik vihar előrejelző szolgálat?",
+  "options": [
+   {
+    "text": "Balaton, Velencei-tó, Fertő-tó, Tisza-tó.",
+    "correct": true
+   },
+   {
+    "text": "Balaton, a Duna budapesti szakasza, Tisza folyó.",
+    "correct": false
+   },
+   {
+    "text": "Balaton, Tisza-tó, Hármas-Kőrös duzzasztott részei.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-161",
+  "number": 161,
+  "question": "Melyik állítás jellemző a viharjelzésre az alábbiak közül?",
+  "options": [
+   {
+    "text": "Szezonálisan üzemel.",
+    "correct": true
+   },
+   {
+    "text": "Egész évben üzemel.",
+    "correct": false
+   },
+   {
+    "text": "Csak napkeltétől napnyugtáig üzemel.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-162",
+  "number": 162,
+  "question": "A viharjelző rendszer jelzőfényei hányszor villannak fel egy perc leforgása alatt első- és másodfokú jelzés esetén?",
+  "options": [
+   {
+    "text": "45 , 90",
+    "correct": true
+   },
+   {
+    "text": "30 , 60",
+    "correct": false
+   },
+   {
+    "text": "60 , 30",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-163",
+  "number": 163,
+  "question": "Melyek egyéni mentőeszközök?",
+  "options": [
+   {
+    "text": "Mentőmellény, mentőpatkó, mentőgyűrű.",
+    "correct": true
+   },
+   {
+    "text": "Mentőcsónak, mentőpad.",
+    "correct": false
+   },
+   {
+    "text": "Dobókörte kötéllel, szapoly.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-164",
+  "number": 164,
+  "question": "Melyek kollektív mentőeszközök?",
+  "options": [
+   {
+    "text": "Mentőcsónak, mentőpad.",
+    "correct": true
+   },
+   {
+    "text": "Mentőmellény, mentőpatkó, mentőgyűrű.",
+    "correct": false
+   },
+   {
+    "text": "Tűzponyva, lékponyva.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-165",
+  "number": 165,
+  "question": "Hínáros vízbe esve mi a helyes viselkedés?",
+  "options": [
+   {
+    "text": "A lehető legkevesebb mozgással kell haladni, a karra, lábra tekeredett hínár szárakat le kell tépni.",
+    "correct": true
+   },
+   {
+    "text": "Le kell úszni a víz alá, és a tövénél kihúzni a hínárt.",
+    "correct": false
+   },
+   {
+    "text": "Ugyanúgy kell úszni benne, mint hínár mentes vízben.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-166",
+  "number": 166,
+  "question": "Mire következtet, ha egy hajót állandó orrszög alatt lát, és útvonaluk keresztezi egymást?",
+  "options": [
+   {
+    "text": "Ha egyikünk sem változtat menetirányán, vagy sebességén össze fogunk ütközni.",
+    "correct": true
+   },
+   {
+    "text": "A másik hajó horgonyon vagy bóján áll, és a parallaxis hiba miatt látom keresztezőnek az útvonalat.",
+    "correct": false
+   },
+   {
+    "text": "Egyikünknek sem szabad változtatni útirányán és sebességén, mert így elkerüljük az összeütközést.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-167",
+  "number": 167,
+  "question": "Mit hívunk orrszögnek?",
+  "options": [
+   {
+    "text": "A hajó hossztengelye, valamint a hajó és a céltárgyat összekötő egyenes által bezárt szög a hajó orrától mérve.",
+    "correct": true
+   },
+   {
+    "text": "A hajó hossztengelye, valamint a hajó és a céltárgyat összekötő egyenes által bezárt szög a hajó farától mérve.",
+    "correct": false
+   },
+   {
+    "text": "A hajó kereszttengelye, és a fedélzet síkjának szöge az orr irányába nézve.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-168",
+  "number": 168,
+  "question": "Mit kell tenni viharban, ha a hajó felborult és nem sikerült visszaállítani, és a hajótestre sem sikerül felmászni?",
+  "options": [
+   {
+    "text": "A hajótest szél alatti oldalán várni a segítséget, vagy a vihar elmúlását.",
+    "correct": true
+   },
+   {
+    "text": "A hajótest szél feletti oldalán várni a segítséget, vagy a vihar elmúlását.",
+    "correct": false
+   },
+   {
+    "text": "A hajót elhagyva meg kell próbálni kiúszni a partra.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-169",
+  "number": 169,
+  "question": "Mit kell tenni, ha a hajó felborult?",
+  "options": [
+   {
+    "text": "Először meg kell győződnöm, hogy minden velem utazó jól van és senki nem szorult a hajótestbe, illetve vitorla alá.",
+    "correct": true
+   },
+   {
+    "text": "A hajót elhagyva meg kell próbálni kiúszni a partra, a velem utazókat is fel kell szólítani erre.",
+    "correct": false
+   },
+   {
+    "text": "Bójával megjelölni a helyet, hogy más vitorlások tudják, hogy ez egy borulásveszélyes hely, és mielőbb értesíteni a hatóságokat.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-170",
+  "number": 170,
+  "question": "Hogy lehet visszaállítani felborult vitorlás hajót?",
+  "options": [
+   {
+    "text": "A svertre állva a hajó oldalába kapaszkodva kell rugózni.",
+    "correct": true
+   },
+   {
+    "text": "Be kell vontatni a kikötőbe, és daruval kell kiemelni.",
+    "correct": false
+   },
+   {
+    "text": "A vízimentők speciális szaktudását igényli ez a feladat.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-171",
+  "number": 171,
+  "question": "Mit jelent a leszúrt az árboc kifejezés?",
+  "options": [
+   {
+    "text": "Borulás után a vitorla megtelik vízzel és az árboc belefúródik az iszapba.",
+    "correct": true
+   },
+   {
+    "text": "Az árbocnak nincsenek tartókötelei, csak bele van állítva a hajótestbe.",
+    "correct": false
+   },
+   {
+    "text": "Az árboc tároláskor, szállításkor a hajótestre vízszintesen el van fektetve.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-172",
+  "number": 172,
+  "question": "A felborult hajó visszaállítása előtt milyen feladatokat kell mindenképpen elvégezni?",
+  "options": [
+   {
+    "text": "Sottokat kitisztázni, kötélszorítókból kivenni, hajót szélbe állítani.",
+    "correct": true
+   },
+   {
+    "text": "Vitorlákat lehúzni, svertet, kormányt kivenni.",
+    "correct": false
+   },
+   {
+    "text": "Vizet kimerni, vontakötelet előkészíteni, az árbocot szélbe állítani.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-173",
+  "number": 173,
+  "question": "Mi az elsősegélynyújtás célja?",
+  "options": [
+   {
+    "text": "Az élet megmentése, további egészségkárosodás megakadályozása, gyógyulás elősegítése.",
+    "correct": true
+   },
+   {
+    "text": "A társadalmi és erkölcsi normának megfelelően viselkedni a balesetet szenvedett közelében.",
+    "correct": false
+   },
+   {
+    "text": "A mentőket riasztani, és még a mentők kiérkezése előtt a baleset helyszínére érni, hogy mi tájékoztathassuk a kiérkező mentőket.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-174",
+  "number": 174,
+  "question": "Köteles-e a hajó vezetője gondoskodni arról, hogy a beteg a legközelebbi alkalmas helyen, egészségügyi ellátásban részesülhessen?",
+  "options": [
+   {
+    "text": "Igen.",
+    "correct": true
+   },
+   {
+    "text": "Nem.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-175",
+  "number": 175,
+  "question": "Köteles-e mindenki a tőle elvárható módon elsősegélyt nyújtani?",
+  "options": [
+   {
+    "text": "Igen.",
+    "correct": true
+   },
+   {
+    "text": "Nem.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-176",
+  "number": 176,
+  "question": "Változhat-e az újraélesztési protokoll?",
+  "options": [
+   {
+    "text": "Igen, 5 évenként felülvizsgálják a statisztikák, klinikai tanulmányok és az újabb eszközök, gyógyszerek alapján.",
+    "correct": true
+   },
+   {
+    "text": "Nem, mert a jól bevált módszeren nem kell és nem is szabad változtatni.",
+    "correct": false
+   },
+   {
+    "text": "Nincs újraélesztési protokoll, ezért nem is változhat.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-177",
+  "number": 177,
+  "question": "Milyen számon kell a mentőket értesíteni?",
+  "options": [
+   {
+    "text": "104, vagy 112.",
+    "correct": true
+   },
+   {
+    "text": "105, vagy 112.",
+    "correct": false
+   },
+   {
+    "text": "107, vagy 112.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-178",
+  "number": 178,
+  "question": "Hogyan biztosítunk átjárható légutat?",
+  "options": [
+   {
+    "text": "A fejet a hajas fejbőr kezdeténél, és az állnál megfogva hátra hajtjuk.",
+    "correct": true
+   },
+   {
+    "text": "Két ujjal kihúzzuk a nyelvet és gondoskodunk róla, hogy ne kerülhessen vissza a szájüregbe.",
+    "correct": false
+   },
+   {
+    "text": "Az elsősegély dobozban található intubáló szett segítségével.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-179",
+  "number": 179,
+  "question": "Hogyan vizsgáljuk a légzést?",
+  "options": [
+   {
+    "text": "Fülünket a sérült légzőnyílásaihoz közel helyezve figyeljük a mellkas mozgását.",
+    "correct": true
+   },
+   {
+    "text": "A sérült mellé fekszünk, mert így tudjuk a legjobban megfigyelni a mellkas mozgást.",
+    "correct": false
+   },
+   {
+    "text": "A sérült szája és orra elé tollpihét, vagy hasonló tárgyat teszünk.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-180",
+  "number": 180,
+  "question": "Mit nevezünk hármas érzékelésnek?",
+  "options": [
+   {
+    "text": "Fülünket a beteg orra elé helyezve érezzük és halljuk a levegő áramlását, szemünkkel pedig figyeljük a mellkas mozgását.",
+    "correct": true
+   },
+   {
+    "text": "A sérültet háromszor megvizsgálom, hogy biztos legyek az állapotában.",
+    "correct": false
+   },
+   {
+    "text": "A látás, hallás, szaglás alapján osztályozzuk a sérülteket.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-181",
+  "number": 181,
+  "question": "Mikor kielégítő a légzés?",
+  "options": [
+   {
+    "text": "Ha 10 másodperc alatt legalább 2 légző mozgást figyelünk meg.",
+    "correct": true
+   },
+   {
+    "text": "Ha 10 másodperc alatt legalább 3 légző mozgást figyelünk meg.",
+    "correct": false
+   },
+   {
+    "text": "Ha 10 másodperc alatt legfeljebb 1 légző mozgást figyelünk meg.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-182",
+  "number": 182,
+  "question": "Mit nevezünk mellkaskompressziónak?",
+  "options": [
+   {
+    "text": "Újraélesztésnél a mellkas ütemes lenyomását és felengedését nevezzük így.",
+    "correct": true
+   },
+   {
+    "text": "Fulladásnál a tüdőben lévő nyomásnövekedést hívjuk így.",
+    "correct": false
+   },
+   {
+    "text": "Fulladásnál a légszomjat hívjuk így.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-183",
+  "number": 183,
+  "question": "Felnőtt újraélesztésnél milyen mélyen kell a mellkast lenyomni?",
+  "options": [
+   {
+    "text": "Kb. 5-6 cm.",
+    "correct": true
+   },
+   {
+    "text": "Kb. 1-2 cm.",
+    "correct": false
+   },
+   {
+    "text": "Kb. 12-15 cm.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-184",
+  "number": 184,
+  "question": "Újraélesztésnél milyen mélyen kell a mellkast benyomni?",
+  "options": [
+   {
+    "text": "A mellkas keresztmetszetének 1/3-áig.",
+    "correct": true
+   },
+   {
+    "text": "A mellkas keresztmetszetének 1/6-áig.",
+    "correct": false
+   },
+   {
+    "text": "A mellkas keresztmetszetének 1/2-éig.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-185",
+  "number": 185,
+  "question": "Milyen testhelyzetben kell a mellkaskompressziót végezni?",
+  "options": [
+   {
+    "text": "A sérült mellé térdelve, nyújtott karokkal, felsőtestből mozogva.",
+    "correct": true
+   },
+   {
+    "text": "A sérült mellé guggolva, nyújtott könyökkel combból rugózva.",
+    "correct": false
+   },
+   {
+    "text": "A sérült mellé térdelve, hajlított kézzel, karból nyomva.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-186",
+  "number": 186,
+  "question": "Újraélesztésnél a két kézfejet ujjaknál összekulcsolva az alsó tenyér párnás részét a mellkas középvonalára a szegycsont alsó harmadára helyezve a férfi mellbimbók vonalában kell a mellkast lenyomni.",
+  "options": [
+   {
+    "text": "Igaz.",
+    "correct": true
+   },
+   {
+    "text": "Hamis.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-187",
+  "number": 187,
+  "question": "Percenkét hány lenyomásra kell törekedni a mellkaskompresszió során?",
+  "options": [
+   {
+    "text": "100-120",
+    "correct": true
+   },
+   {
+    "text": "2-30",
+    "correct": false
+   },
+   {
+    "text": "220-230",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-188",
+  "number": 188,
+  "question": "Mellkaskompressziónál a mellkast mindig teljesen fel kell engedni.",
+  "options": [
+   {
+    "text": "Igaz.",
+    "correct": true
+   },
+   {
+    "text": "Hamis.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-189",
+  "number": 189,
+  "question": "Mennyi mellkaskompressziót kell végezni egymás után?",
+  "options": [
+   {
+    "text": "30",
+    "correct": true
+   },
+   {
+    "text": "2",
+    "correct": false
+   },
+   {
+    "text": "100",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-190",
+  "number": 190,
+  "question": "Legfeljebb mennyi ideig szüneteltethetjük a mellkaskompressziót?",
+  "options": [
+   {
+    "text": "5-10 másodperc.",
+    "correct": true
+   },
+   {
+    "text": "15-20 másodperc.",
+    "correct": false
+   },
+   {
+    "text": "25-30 másodperc.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-191",
+  "number": 191,
+  "question": "30 mellkaskompresszió után mennyi befúvást kell végezni?",
+  "options": [
+   {
+    "text": "2",
+    "correct": true
+   },
+   {
+    "text": "1",
+    "correct": false
+   },
+   {
+    "text": "3",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-192",
+  "number": 192,
+  "question": "Szájból szájba vagy szájból orrba kell a befúvást végrehajtani?",
+  "options": [
+   {
+    "text": "Mindkét módszer elfogadott.",
+    "correct": true
+   },
+   {
+    "text": "Szájból szájba.",
+    "correct": false
+   },
+   {
+    "text": "Szájból orrba.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-193",
+  "number": 193,
+  "question": "Mit kell tenni, ha több segítségnyújtó is van a közelben?",
+  "options": [
+   {
+    "text": "A segítségnyújtók két percenként váltják egymást, a kompressziót és a befúvást ugyanaz a segítségnyújtó hajtja végre.",
+    "correct": true
+   },
+   {
+    "text": "A segítségnyújtók kiválasztják maguk közül a legrátermettebbet, és az a segítségnyújtó végzi a kompressziót és a befúvást a segítség megérkezéséig.",
+    "correct": false
+   },
+   {
+    "text": "Annak a segítségnyújtónak aki először a helyszínre ért, a később érkezőket el kell küldenie, és egyedül kell végeznie a kompressziót és a befúvást.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-194",
+  "number": 194,
+  "question": "Végezheti-e a befúvást az egyik, a kompressziót a másik segítségnyújtó.",
+  "options": [
+   {
+    "text": "A páros munkára csak a kiképzett hivatásos ellátók vállalkozzanak, akik képesek időveszteség nélkül összehangolni munkájukat.",
+    "correct": true
+   },
+   {
+    "text": "Ez az ellátási mód ajánlott a kezdő elsősegélynyújtóknak.",
+    "correct": false
+   },
+   {
+    "text": "Ez az ellátási mód Magyarországon kifejezetten tiltott.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-195",
+  "number": 195,
+  "question": "Igaz-e, hogy a törés, a rándulás és a ficam tünetei és ellátása hasonlóak?",
+  "options": [
+   {
+    "text": "Igaz.",
+    "correct": true
+   },
+   {
+    "text": "Hamis.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-196",
+  "number": 196,
+  "question": "Melyik sérülésre igaz az állítás? A csontszövet folytonossága megszakad.",
+  "options": [
+   {
+    "text": "Törés.",
+    "correct": true
+   },
+   {
+    "text": "Rándulás.",
+    "correct": false
+   },
+   {
+    "text": "Ficam.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-197",
+  "number": 197,
+  "question": "Melyik sérülésre igaz az állítás? A két csontvég kimozdul a helyéről, az ízületi tok és szalag megnyúlik, vagy elszakad, azonban az ízületi felszínek a helyükön maradnak.",
+  "options": [
+   {
+    "text": "Rándulás.",
+    "correct": true
+   },
+   {
+    "text": "Törés.",
+    "correct": false
+   },
+   {
+    "text": "Ficam.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-198",
+  "number": 198,
+  "question": "Melyik sérülésre igaz az állítás? Az erőbehatás végén a csontvégek az ízületi vápából kimozdulva rendellenes pozícióban maradnak.",
+  "options": [
+   {
+    "text": "Ficam.",
+    "correct": true
+   },
+   {
+    "text": "Rándulás.",
+    "correct": false
+   },
+   {
+    "text": "Törés.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-199",
+  "number": 199,
+  "question": "Mely állítások igazak a törés, rándulás ficam ellátására.",
+  "options": [
+   {
+    "text": "Mozgatási tilalom, jegelés, borogatás, rögzítés.",
+    "correct": true
+   },
+   {
+    "text": "Masszírozás, ékszerek eltávolítása, a sérült testrész melegen tartása.",
+    "correct": false
+   },
+   {
+    "text": "Helyre rakás, sínbe rakás, izolációs fóliába tekerés.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-200",
+  "number": 200,
+  "question": "Melyik vérzésre igaz az állítás? Gyenge intenzitású, nem ritkán csupán kisebb cseppekben jelentkezik a sérült bőrfelületen.",
+  "options": [
+   {
+    "text": "Kapilláris/hajszáleres.",
+    "correct": true
+   },
+   {
+    "text": "Vénás/visszeres.",
+    "correct": false
+   },
+   {
+    "text": "Artériás/ütőeres.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-201",
+  "number": 201,
+  "question": "Melyik vérzésre igaz az állítás? A vérzés intenzitása erős is lehet, a vér színe rendszerint sötétpiros.",
+  "options": [
+   {
+    "text": "Vénás/visszeres.",
+    "correct": true
+   },
+   {
+    "text": "Kapilláris/hajszáleres.",
+    "correct": false
+   },
+   {
+    "text": "Artériás/ütőeres.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-202",
+  "number": 202,
+  "question": "Melyik vérzésre igaz az állítás? A vérzés tipikus jellemzője az élénkpiros, lüktető sugárban távozó vér.",
+  "options": [
+   {
+    "text": "Artériás/ütőeres.",
+    "correct": true
+   },
+   {
+    "text": "Kapilláris/hajszáleres.",
+    "correct": false
+   },
+   {
+    "text": "Vénás/visszeres.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-203",
+  "number": 203,
+  "question": "Melyik vérzéstípus ellátásának lényege a fedőkötés?",
+  "options": [
+   {
+    "text": "Kapilláris/hajszáleres.",
+    "correct": true
+   },
+   {
+    "text": "Vénás/visszeres.",
+    "correct": false
+   },
+   {
+    "text": "Artériás/ütőeres.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-204",
+  "number": 204,
+  "question": "Milyen típusú vérzésnél alkalmazandó a nyomókötés?",
+  "options": [
+   {
+    "text": "Artériás/ütőeres és vénás/visszeres vérzések ellátására.",
+    "correct": true
+   },
+   {
+    "text": "Kapilláris/hajszáleres vérzés ellátására.",
+    "correct": false
+   },
+   {
+    "text": "Kizárólag belső vérzés ellátására.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-205",
+  "number": 205,
+  "question": "Melyik vérzéstípus ellátásának lényeges lépése a nyomáspont alkalmazása?",
+  "options": [
+   {
+    "text": "Artériás/ütőeres.",
+    "correct": true
+   },
+   {
+    "text": "Kapilláris/hajszáleres.",
+    "correct": false
+   },
+   {
+    "text": "Vénás/visszeres.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-206",
+  "number": 206,
+  "question": "Mik a belső vérzés tünetei?",
+  "options": [
+   {
+    "text": "Sápadtság, hideg, nedves bőr, szapora pulzus, szomjúság, fázás.",
+    "correct": true
+   },
+   {
+    "text": "Végtag görcsök, levertség, megemelkedett testhőmérséklet, verejtékezés.",
+    "correct": false
+   },
+   {
+    "text": "Hasfájás, hasmenés, hányinger, hányás, remegés, gyengeség.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-207",
+  "number": 207,
+  "question": "Mik a sokk tünetei?",
+  "options": [
+   {
+    "text": "Sápadtság, hideg, nedves bőr, szapora pulzus, szomjúság, fázás.",
+    "correct": true
+   },
+   {
+    "text": "Végtag görcsök, levertség, megemelkedett testhőmérséklet, verejtékezés.",
+    "correct": false
+   },
+   {
+    "text": "Hasfájás, hasmenés, hányinger, hányás, remegés, gyengeség.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-208",
+  "number": 208,
+  "question": "Mitől alakul ki a sokkos állapot?",
+  "options": [
+   {
+    "text": "A szervezet folyadékháztartásának hirtelen megváltozásától.",
+    "correct": true
+   },
+   {
+    "text": "A vér látványától.",
+    "correct": false
+   },
+   {
+    "text": "Nagy öröm hatására.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-209",
+  "number": 209,
+  "question": "Medence-, vagy gerincsérültnél lehet-e sokkfektetést alkalmazni?",
+  "options": [
+   {
+    "text": "Nem.",
+    "correct": true
+   },
+   {
+    "text": "Igen.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-210",
+  "number": 210,
+  "question": "Kell-e gerincsérülésre gyanakodnunk lépcsőről leesett sérültnél?",
+  "options": [
+   {
+    "text": "Igen.",
+    "correct": true
+   },
+   {
+    "text": "Nem.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-211",
+  "number": 211,
+  "question": "Kell-e gerincsérülésre gyanakodnunk sekély vízbe ugrott sérültnél?",
+  "options": [
+   {
+    "text": "Igen.",
+    "correct": true
+   },
+   {
+    "text": "Nem.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-212",
+  "number": 212,
+  "question": "Kell-e gerincsérülésre gyanakodnunk hirtelen összeeső sérültnél?",
+  "options": [
+   {
+    "text": "Nem.",
+    "correct": true
+   },
+   {
+    "text": "Igen.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-213",
+  "number": 213,
+  "question": "Mi a legfontosabb feladat az égési sérülések ellátásánál?",
+  "options": [
+   {
+    "text": "Hűtés, hőelvonás.",
+    "correct": true
+   },
+   {
+    "text": "Mozgatási tilalom.",
+    "correct": false
+   },
+   {
+    "text": "Izolációs fólia használata.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-214",
+  "number": 214,
+  "question": "Égési sérülés hűtésére mi a legmegfelelőbb?",
+  "options": [
+   {
+    "text": "Víz.",
+    "correct": true
+   },
+   {
+    "text": "Tejföl.",
+    "correct": false
+   },
+   {
+    "text": "Napolaj.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-215",
+  "number": 215,
+  "question": "Igaz-e, hogy égési sérült esetében a ruhákat és ékszereket el kell távolítani.",
+  "options": [
+   {
+    "text": "Igaz, de az égett területbe ragadt ruhákat/ruhadarabokat nem szabad eltávolítani.",
+    "correct": true
+   },
+   {
+    "text": "Igaz, az égett területbe ragadt ruhákat/ruhadarabokat hirtelen kell kirántani a sebből.",
+    "correct": false
+   },
+   {
+    "text": "Igaz, de csak az égett területbe ragadt ruhákat/ruhadarabokat kell eltávolítani.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-216",
+  "number": 216,
+  "question": "Melyik állítás igaz égési sérülés estében?",
+  "options": [
+   {
+    "text": "Csak az égett testrészt és környékét kell hűteni.",
+    "correct": true
+   },
+   {
+    "text": "Az egész testet kell hűteni.",
+    "correct": false
+   },
+   {
+    "text": "Mindig a csuklókat kell hűteni.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-217",
+  "number": 217,
+  "question": "A napszúrás, vagy a tartós meleg hatására bekövetkezett rosszullét a súlyosabb?",
+  "options": [
+   {
+    "text": "A tartós meleg hatására.",
+    "correct": true
+   },
+   {
+    "text": "A napszúrás.",
+    "correct": false
+   },
+   {
+    "text": "Egyforma.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-218",
+  "number": 218,
+  "question": "Melyek a napszúrás tünetei?",
+  "options": [
+   {
+    "text": "Fejfájás, hányinger, hányás.",
+    "correct": true
+   },
+   {
+    "text": "Kettős látás, tarkómerevség.",
+    "correct": false
+   },
+   {
+    "text": "Nincs jellegzetes tünete.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-219",
+  "number": 219,
+  "question": "Napszúrás és meleg okozta rosszullét esetén mi a kezelés módja?",
+  "options": [
+   {
+    "text": "Árnyékba, szellős helyre kell vinni, lefektetni, meg kell itatni, hűtőborogatást alkalmazni.",
+    "correct": true
+   },
+   {
+    "text": "Le kell venni a ruháit és az ékszereit, és stabil oldalfekvésbe kell rakni.",
+    "correct": false
+   },
+   {
+    "text": "Izolációs fóliát kell használni.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-220",
+  "number": 220,
+  "question": "Mi a hipotermia?",
+  "options": [
+   {
+    "text": "Kihűlés.",
+    "correct": true
+   },
+   {
+    "text": "A betegségektől való kórós félelem.",
+    "correct": false
+   },
+   {
+    "text": "Magas vérnyomás.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-221",
+  "number": 221,
+  "question": "Mi a legfontosabb feladat a hipotermiás sérülések ellátásánál?",
+  "options": [
+   {
+    "text": "Gátolni a további hővesztést.",
+    "correct": true
+   },
+   {
+    "text": "Hűtés, hőelvonás.",
+    "correct": false
+   },
+   {
+    "text": "Mozgatási tilalom.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-222",
+  "number": 222,
+  "question": "Okozhat-e sokkos állapotot a hipotermiás sérült hirtelen felmelegítése?",
+  "options": [
+   {
+    "text": "Igen.",
+    "correct": true
+   },
+   {
+    "text": "Nem.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-223",
+  "number": 223,
+  "question": "Okozhat-e hipotermiás állapotot, az égési sérülést szenvedett, vagy lázas beteg túlzott hűtése?",
+  "options": [
+   {
+    "text": "Igen.",
+    "correct": true
+   },
+   {
+    "text": "Nem.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-224",
+  "number": 224,
+  "question": "Mi a legfontosabb feladat mérgezést szenvedett sérült ellátásánál?",
+  "options": [
+   {
+    "text": "Mérgezés okának kiderítése, mentőhívás, beteg állapotának figyelése.",
+    "correct": true
+   },
+   {
+    "text": "Hányás- és hasmenés csillapítót adni, rendőrt hívni.",
+    "correct": false
+   },
+   {
+    "text": "A mérget kiszívni, ellenmérget beadni.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-225",
+  "number": 225,
+  "question": "A szén-dioxid könnyebb a levegőnél?",
+  "options": [
+   {
+    "text": "Nem.",
+    "correct": true
+   },
+   {
+    "text": "Igen.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-226",
+  "number": 226,
+  "question": "A szén-monoxid könnyebb a levegőnél?",
+  "options": [
+   {
+    "text": "Igen.",
+    "correct": true
+   },
+   {
+    "text": "Nem.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-227",
+  "number": 227,
+  "question": "Mit kell tenni vélhetően gázzal telített térbe történő belépés előtt?",
+  "options": [
+   {
+    "text": "Alaposan kiszellőztetni.",
+    "correct": true
+   },
+   {
+    "text": "Leguggolni, és így menni be.",
+    "correct": false
+   },
+   {
+    "text": "Semmit, mert nem szabad bemenni.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-228",
+  "number": 228,
+  "question": "Milyen esetben alkalmazunk Heimlich-féle műfogást?",
+  "options": [
+   {
+    "text": "Fulladó sérültnél.",
+    "correct": true
+   },
+   {
+    "text": "Vízből kiemelésnél.",
+    "correct": false
+   },
+   {
+    "text": "Spriccelő vérzés elállítására.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-229",
+  "number": 229,
+  "question": "Mit kell tenni a fulladó sérülttel?",
+  "options": [
+   {
+    "text": "Erőteljesen a lapockái közé csapni.",
+    "correct": true
+   },
+   {
+    "text": "Stabil oldalfekvésbe kell helyezni.",
+    "correct": false
+   },
+   {
+    "text": "Gégemetszést kell végrehajtani.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-230",
+  "number": 230,
+  "question": "Mit kell tenni a fulladó sérülttel?",
+  "options": [
+   {
+    "text": "Heimlich-féle műfogást kell alkalmazni.",
+    "correct": true
+   },
+   {
+    "text": "Stabil oldalfekvésbe kell helyezni.",
+    "correct": false
+   },
+   {
+    "text": "Gégemetszést kell végrehajtani.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-231",
+  "number": 231,
+  "question": "Maximum hányszor kell egymás után a fulladó lapockái közé csapni?",
+  "options": [
+   {
+    "text": "5-ször.",
+    "correct": true
+   },
+   {
+    "text": "1-szer.",
+    "correct": false
+   },
+   {
+    "text": "10-szer.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-232",
+  "number": 232,
+  "question": "Maximum hányszor kell egymás után gyomortáji lökést alkalmazni a fulladón?",
+  "options": [
+   {
+    "text": "5-ször.",
+    "correct": true
+   },
+   {
+    "text": "1-szer.",
+    "correct": false
+   },
+   {
+    "text": "10-szer.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-233",
+  "number": 233,
+  "question": "Igaz-e, hogy először 5 lapockák közé mért ütést, majd 5 gyomortáji lökést kell alkalmazni a léguti idegen test távozásáig?",
+  "options": [
+   {
+    "text": "Igaz.",
+    "correct": true
+   },
+   {
+    "text": "Hamis.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-234",
+  "number": 234,
+  "question": "Indokolt-e mentőt hívni, ha sikerült megszüntetni a légúti elzáródást?",
+  "options": [
+   {
+    "text": "Igen.",
+    "correct": true
+   },
+   {
+    "text": "Nem.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-235",
+  "number": 235,
+  "question": "Bele lehet-e fulladni sekély vízbe?",
+  "options": [
+   {
+    "text": "Igen.",
+    "correct": true
+   },
+   {
+    "text": "Nem.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-236",
+  "number": 236,
+  "question": "Veszélyes-e alkoholos, vagy bódult állapotban vízbe ugrani?",
+  "options": [
+   {
+    "text": "Igen.",
+    "correct": true
+   },
+   {
+    "text": "Nem.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-237",
+  "number": 237,
+  "question": "Mi az a növekvő négyszögek módszer, és hol használják?",
+  "options": [
+   {
+    "text": "Pásztázási módszer vízbe esett felkutatására, melyet tavi körülmények között használnak.",
+    "correct": true
+   },
+   {
+    "text": "Pásztázási módszer vízbe esett felkutatására, melyet folyami körülmények között használnak.",
+    "correct": false
+   },
+   {
+    "text": "Lékesedés esetén egyre nagyobb lékponyvát kell a lékre helyezni.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-238",
+  "number": 238,
+  "question": "A növekvő négyszögek módszer használatakor hogyan változnak a megtett távolságok?",
+  "options": [
+   {
+    "text": "Minden második derékszögű forduló után az első hosszal növekszik a megtett út.",
+    "correct": true
+   },
+   {
+    "text": "Minden második derékszögű forduló után duplázódik a megtett távolság.",
+    "correct": false
+   },
+   {
+    "text": "Minden harmadik derékszögű forduló után duplázódik a megtett távolság.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-239",
+  "number": 239,
+  "question": "Mit lát az ábrán?",
+  "options": [
+   {
+    "text": "A vízbeesettek keresésére szolgáló eltolt háromszögek módszerét.",
+    "correct": true
+   },
+   {
+    "text": "Környezetre ártalmas anyagot szállító hajó megkülönböztető jelzését.",
+    "correct": false
+   },
+   {
+    "text": "Hatósági hajó megkülönböztető jelzését.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/Eltolt haromszogek modszere.jpg"
+ },
+ {
+  "id": "vitorlas-240",
+  "number": 240,
+  "question": "Hol használjuk az alábbi keresési módot?",
+  "options": [
+   {
+    "text": "Állóvízen.",
+    "correct": true
+   },
+   {
+    "text": "Folyóvízen.",
+    "correct": false
+   },
+   {
+    "text": "Álló-, és folyóvízen egyaránt.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/Eltolt haromszogek modszere.jpg"
+ },
+ {
+  "id": "vitorlas-241",
+  "number": 241,
+  "question": "Az ábrán látható keresési módot hogyan hajtjuk végre?",
+  "options": [
+   {
+    "text": "A fordulóknál a menetirányunkhoz képest 120 fokkal kell elfordulni, mindig azonos irányban.",
+    "correct": true
+   },
+   {
+    "text": "A fordulóknál a menetirányunkhoz képest 60 fokkal kell elfordulni, mindig azonos irányban.",
+    "correct": false
+   },
+   {
+    "text": "A fordulóknál a menetirányunkhoz képest 180 fokkal kell elfordulni, mindig azonos irányban.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/Eltolt haromszogek modszere.jpg"
+ },
+ {
+  "id": "vitorlas-242",
+  "number": 242,
+  "question": "Mit lát az ábrán?",
+  "options": [
+   {
+    "text": "A vízbeesettek keresésére szolgáló növekvő négyzetek módszerét.",
+    "correct": true
+   },
+   {
+    "text": "A diagonális palánkolási mód elvi vázlatát.",
+    "correct": false
+   },
+   {
+    "text": "Szendvics szerkezetű műanyag hajó csúszásgátló felületének kiképzését.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/Novekvo negyzetek modszere.jpg"
+ },
+ {
+  "id": "vitorlas-243",
+  "number": 243,
+  "question": "Hol használjuk az alábbi keresési módot?",
+  "options": [
+   {
+    "text": "Állóvízen.",
+    "correct": true
+   },
+   {
+    "text": "Folyóvízen.",
+    "correct": false
+   },
+   {
+    "text": "Álló-, és folyóvízen egyaránt.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/Novekvo negyzetek modszere.jpg"
+ },
+ {
+  "id": "vitorlas-244",
+  "number": 244,
+  "question": "Az ábrán látható keresési módot hogyan hajtjuk végre?",
+  "options": [
+   {
+    "text": "Két egymást követő szakasz egyforma hosszú, a következő kettő egy egységgel hosszabb.",
+    "correct": true
+   },
+   {
+    "text": "Két egymást követő szakasz egyforma hosszú, a következő kettő hossza az előző duplája.",
+    "correct": false
+   },
+   {
+    "text": "Két egymást követő szakasz egyforma hosszú, a következő kettő egy egységgel rövidebb.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/Novekvo negyzetek modszere.jpg"
+ },
+ {
+  "id": "vitorlas-245",
+  "number": 245,
+  "question": "Hol használjuk az alábbi keresési módot?",
+  "options": [
+   {
+    "text": "Folyóvízen.",
+    "correct": true
+   },
+   {
+    "text": "Állóvízen.",
+    "correct": false
+   },
+   {
+    "text": "Álló-, és folyóvízen egyaránt.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/Kigyo vonalban.jpg"
+ },
+ {
+  "id": "vitorlas-246",
+  "number": 246,
+  "question": "Az alábbiak közül melyik keresési módot/módokat használják állóvízen?",
+  "options": [
+   {
+    "text": "a. és b.",
+    "correct": true
+   },
+   {
+    "text": "a. és c.",
+    "correct": false
+   },
+   {
+    "text": "c.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/Keresesi modok.jpg"
+ },
+ {
+  "id": "vitorlas-247",
+  "number": 247,
+  "question": "Az alábbiak közül melyik keresési módot/módokat használják folyóvízen?",
+  "options": [
+   {
+    "text": "c.",
+    "correct": true
+   },
+   {
+    "text": "a. és b.",
+    "correct": false
+   },
+   {
+    "text": "a.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/Keresesi modok.jpg"
+ },
+ {
+  "id": "vitorlas-248",
+  "number": 248,
+  "question": "Használható e vízből mentéshez például gumimatrac, vagy egyéb strandeszköz, ha nincs a hajón mentőpatkó, vagy mentőgyűrű?",
+  "options": [
+   {
+    "text": "Igen, szükség esetén bármilyen tárgy ami erre alkalmas, igénybe vehető az életmentéshez.",
+    "correct": true
+   },
+   {
+    "text": "Nem, mert minden hajón van mentőgyűrű, vagy mentőpatkó.",
+    "correct": false
+   },
+   {
+    "text": "Nem mert nem biztonságos, és kicsúszhat a bajbajutott alól.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-249",
+  "number": 249,
+  "question": "Vízből mentésnél hogyan közelítjük meg a mentendőt állóvízen?",
+  "options": [
+   {
+    "text": "Szél ellenében.",
+    "correct": true
+   },
+   {
+    "text": "Oldalszélben.",
+    "correct": false
+   },
+   {
+    "text": "Hátszélben.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-250",
+  "number": 250,
+  "question": "Vízből mentésnél hogyan közelítjük meg a mentendőt folyóvízen?",
+  "options": [
+   {
+    "text": "Hegymenetben.",
+    "correct": true
+   },
+   {
+    "text": "Völgymenetben.",
+    "correct": false
+   },
+   {
+    "text": "Hegymenetben, vagy völgymenetben, szabadon választható.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-251",
+  "number": 251,
+  "question": "A vízből mentésnél a mentendőt jobb vagy bal oldalról kell megközelíteni?",
+  "options": [
+   {
+    "text": "Bármely oldalról.",
+    "correct": true
+   },
+   {
+    "text": "Jobb oldalról.",
+    "correct": false
+   },
+   {
+    "text": "Bal oldalról.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-252",
+  "number": 252,
+  "question": "A vízből mentésnél a mentendőt szél alól, vagy szél felől kell megközelíteni állóvízen?",
+  "options": [
+   {
+    "text": "Szél alól.",
+    "correct": true
+   },
+   {
+    "text": "Szél felől.",
+    "correct": false
+   },
+   {
+    "text": "Mindegy.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-253",
+  "number": 253,
+  "question": "Vízből mentésnél, milyen sebességgel kell a mentendő mellé érni?",
+  "options": [
+   {
+    "text": "Nullához közeli sebességgel.",
+    "correct": true
+   },
+   {
+    "text": "A hajó manőversebességével.",
+    "correct": false
+   },
+   {
+    "text": "Minél gyorsabban.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-254",
+  "number": 254,
+  "question": "Helyes-e a mentendő megközelítése az ábrán látható módon? A nyíl a szél irányát jelöli.",
+  "options": [
+   {
+    "text": "Igen.",
+    "correct": true
+   },
+   {
+    "text": "Nem.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/Mentes vkh jo 1.jpg"
+ },
+ {
+  "id": "vitorlas-255",
+  "number": 255,
+  "question": "Helyes-e a mentendő megközelítése az ábrán látható módon? A nyíl a szél irányát jelöli.",
+  "options": [
+   {
+    "text": "Nem.",
+    "correct": true
+   },
+   {
+    "text": "Igen.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/Mentes vkh rossz 1.jpg"
+ },
+ {
+  "id": "vitorlas-256",
+  "number": 256,
+  "question": "A vízből mentésnél a megközelítés végső stádiumában a mentendőnek, a hajó melyik oldalán kell lennie?",
+  "options": [
+   {
+    "text": "A hajó luv oldalán.",
+    "correct": true
+   },
+   {
+    "text": "A hajó lee oldalán.",
+    "correct": false
+   },
+   {
+    "text": "A hajó bármelyikoldalán.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-257",
+  "number": 257,
+  "question": "Mit kell tennünk amikor a mentendő mellé érünk, ha vitorlával haladó kishajóval közelítjük meg?",
+  "options": [
+   {
+    "text": "Vitorlákat kilobogtatni.",
+    "correct": true
+   },
+   {
+    "text": "A fokkal beggelni.",
+    "correct": false
+   },
+   {
+    "text": "Vitorlákat behúzni.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-258",
+  "number": 258,
+  "question": "Milyen veszélyeket rejthet a vízből mentett hajóba történő beemelése?",
+  "options": [
+   {
+    "text": "Kisebb hajóval, csónakkal végzett mentésnél felborulhatunk.",
+    "correct": true
+   },
+   {
+    "text": "A hajó oldalán történő beemelésnél mindig fennáll a borulás veszélye.",
+    "correct": false
+   },
+   {
+    "text": "A hajó orránál és faránál történő beemelésnél mindig fennáll a borulás veszélye.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-259",
+  "number": 259,
+  "question": "Milyen veszélyeket rejthet a vízből mentett hajóba történő beemelése?",
+  "options": [
+   {
+    "text": "Ha háton emeljük be a mentendőt gerincsérülést okozhatunk neki.",
+    "correct": true
+   },
+   {
+    "text": "Ha háttal próbáljuk beemelni nem lát minket és megijedhet a mentendő.",
+    "correct": false
+   },
+   {
+    "text": "Ha háttal emeljük be a mentendőt vizet nyelhet.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-260",
+  "number": 260,
+  "question": "Hogyan minimalizálható a hajómotorok környezetterhelése?",
+  "options": [
+   {
+    "text": "Idejében elvégzett karbantartásokkal, a pontos, szakszerű beállításokkal és a gyár által előírt kenő- és üzemanyagok használatával.",
+    "correct": true
+   },
+   {
+    "text": "A gyártó által erre a célra javasolt adalékok rendszeres használatával.",
+    "correct": false
+   },
+   {
+    "text": "Megfelelő idejű bemelegítéssel, és a benzinkutak extra üzemanyagainak rendszeres használatával.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-261",
+  "number": 261,
+  "question": "Mit kell tenni, ha tankoláskor üzemanyag kerül a vízbe?",
+  "options": [
+   {
+    "text": "Értesíteni kell a vízirendészetet (107, 112).",
+    "correct": true
+   },
+   {
+    "text": "Ultrát kell rászórni.",
+    "correct": false
+   },
+   {
+    "text": "Nem kell tenni semmit.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-262",
+  "number": 262,
+  "question": "Mit kell tenni, ha tankoláskor üzemanyag kerül a vízbe?",
+  "options": [
+   {
+    "text": "Értesíteni kell a katasztrófavédelmet (105, 112).",
+    "correct": true
+   },
+   {
+    "text": "Ultrát kell rászórni.",
+    "correct": false
+   },
+   {
+    "text": "Nem kell tenni semmit.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-263",
+  "number": 263,
+  "question": "Mit kell tenni, ha tankoláskor üzemanyag kerül a vízbe?",
+  "options": [
+   {
+    "text": "Értesíteni kell a területileg illetékes vízügyi igazgatóságot.",
+    "correct": true
+   },
+   {
+    "text": "Ultrát kell rászórni.",
+    "correct": false
+   },
+   {
+    "text": "Nem kell tenni semmit.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-264",
+  "number": 264,
+  "question": "Hol kell tárolni egy gázpalackot a hajón?",
+  "options": [
+   {
+    "text": "A lakótértől elkülönített, jól szellőző, naptól, sugárzó hőtől védett zárt helyen.",
+    "correct": true
+   },
+   {
+    "text": "A kézi tűzoltó készülékre kell ezeket rakni.",
+    "correct": false
+   },
+   {
+    "text": "Kizárólag a vízvonal alatt szabad tárolni.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-265",
+  "number": 265,
+  "question": "Milyen módon kell a hajón a tűzveszélyes anyagokat tárolni?",
+  "options": [
+   {
+    "text": "A lakótértől elkülönített, jól szellőző, naptól, sugárzó hőtől védett zárt helyen.",
+    "correct": true
+   },
+   {
+    "text": "A kézi tűzoltó készülékre kell ezeket rakni.",
+    "correct": false
+   },
+   {
+    "text": "Kizárólag a vízvonal alatt szabad tárolni.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-266",
+  "number": 266,
+  "question": "Miben szabad üzemanyagot tárolni?",
+  "options": [
+   {
+    "text": "Az erre a célra rendszeresített minőségi tanúsítvánnyal rendelkező eszközben.",
+    "correct": true
+   },
+   {
+    "text": "Akármiben, de rá kell írni, hogy mi van benne.",
+    "correct": false
+   },
+   {
+    "text": "Akármiben, de egy edényben mindig csak egy fajta üzemanyagtípust szabad tárolni.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-267",
+  "number": 267,
+  "question": "Hogyan kell ellenőrizni összeszerelés után a PB palack tömítettségét.",
+  "options": [
+   {
+    "text": "Szivárgás ellenőrző spray-vel.",
+    "correct": true
+   },
+   {
+    "text": "Gyufával.",
+    "correct": false
+   },
+   {
+    "text": "Kóccal.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-268",
+  "number": 268,
+  "question": "Milyen típusú tüzek oltására alkalmas a porral oltó készülék?",
+  "options": [
+   {
+    "text": "A,B,C típusúakra és elektromos tüzekre 1000 V feszültségig.",
+    "correct": true
+   },
+   {
+    "text": "A, B, C,típusokra és minden elektromos tűz oltására.",
+    "correct": false
+   },
+   {
+    "text": "A,B,C,D típusú tüzekre.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-269",
+  "number": 269,
+  "question": "Téli tárolás idejére hogyan kell eljárni a poroltóval?",
+  "options": [
+   {
+    "text": "Nincs vele tennivaló, marad a helyén.",
+    "correct": true
+   },
+   {
+    "text": "Ki kell venni a hajóból, fagymentes és száraz helyiségben tárolni a téli állás alatt.",
+    "correct": false
+   },
+   {
+    "text": "Ki kell venni, mert a kikötő személyzet intézkedik az esedékes felülvizsgálatáról.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-270",
+  "number": 270,
+  "question": "Elektromos tüzek oltására használható e az A,B,C kategóriájú tüzek oltására alkalmas készülék?",
+  "options": [
+   {
+    "text": "Igen, 1000 Volt feszültségig.",
+    "correct": true
+   },
+   {
+    "text": "Nem.",
+    "correct": false
+   },
+   {
+    "text": "Igen, nincs feszültség korlátozás, mert az oltóanyag nem vezeti az áramot.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-271",
+  "number": 271,
+  "question": "Mi a hatásmechanizmusa a porral oltásnak?",
+  "options": [
+   {
+    "text": "Az oltóanyag elzárja a levegőtől az égő anyagot, valamint magas hő hatására széndioxid szabadul fel.",
+    "correct": true
+   },
+   {
+    "text": "Az oltóanyag magas hő hatására folyadékká alakul, és lefedi, valamint lehűti a tüzet.",
+    "correct": false
+   },
+   {
+    "text": "Az oltóanyag gőzzé alakul a magas hő hatására, és elfolytja, valamint lehűti a tüzet.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-272",
+  "number": 272,
+  "question": "Hol kell a kézi tűzoltó készüléket elhelyezni?",
+  "options": [
+   {
+    "text": "A tűzveszélyes helyek közelében.",
+    "correct": true
+   },
+   {
+    "text": "A menekülési útban.",
+    "correct": false
+   },
+   {
+    "text": "A légkamrában.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-273",
+  "number": 273,
+  "question": "Hol kell a kézi tűzoltó készüléket elhelyezni?",
+  "options": [
+   {
+    "text": "Könnyen hozzáférhető helyen.",
+    "correct": true
+   },
+   {
+    "text": "A menekülési útban.",
+    "correct": false
+   },
+   {
+    "text": "A légkamrában.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-274",
+  "number": 274,
+  "question": "Hogyan kell a kézi tűzoltó készüléket elhelyezni?",
+  "options": [
+   {
+    "text": "Könnyen oldható rögzítéssel.",
+    "correct": true
+   },
+   {
+    "text": "Lopásvédelemmel ellátott fix rögzítéssel.",
+    "correct": false
+   },
+   {
+    "text": "Nem szabad rögzíteni.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-275",
+  "number": 275,
+  "question": "Milyen veszélye van a szén-dioxiddal oltó készüléknek?",
+  "options": [
+   {
+    "text": "A gáz alulról tölti ki a teret, így fulladásveszélyt okozhat.",
+    "correct": true
+   },
+   {
+    "text": "Előfordulhat, hogy nem jön ki belőle az oltópor.",
+    "correct": false
+   },
+   {
+    "text": "Nincs veszélye, ez a legbiztonságosabb oltókészülék.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-276",
+  "number": 276,
+  "question": "Mi az első lépés, ha tűz üt ki a hajón?",
+  "options": [
+   {
+    "text": "A hajóban tartózkodó személyek kimentése.",
+    "correct": true
+   },
+   {
+    "text": "A gázpalack, benzinkanna eltávolítása a hajóról.",
+    "correct": false
+   },
+   {
+    "text": "A tűzoltók értesítése.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-277",
+  "number": 277,
+  "question": "Mi az az égési háromszög?",
+  "options": [
+   {
+    "text": "A levegő, a hő és az éghető anyag hármasa, amelynek egyidejű jelenléte az égés alapfeltétele.",
+    "correct": true
+   },
+   {
+    "text": "A levegő, a tűz és az éghető anyag hármasa, amelynek egyidejű jelenléte az égés alapfeltétele.",
+    "correct": false
+   },
+   {
+    "text": "A levegő, a hő és a tűz hármasa, amelynek egyidejű jelenléte az égés alapfeltétele.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-278",
+  "number": 278,
+  "question": "Elegendő-e a tűz eloltásához ha az égési háromszögnek csak az egyik tényezőjét vonjuk el?",
+  "options": [
+   {
+    "text": "Igen.",
+    "correct": true
+   },
+   {
+    "text": "Nem.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-279",
+  "number": 279,
+  "question": "Mi jellemző a kompozit műgyanta égésére?",
+  "options": [
+   {
+    "text": "Heves gázképződés, sűrű fekete, mérgező füst formájában.",
+    "correct": true
+   },
+   {
+    "text": "Mérsékelt gázképződés mellett az anyag leginkább parázslik.",
+    "correct": false
+   },
+   {
+    "text": "Heves gázképződés mellett az anyag leginkább parázslik.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-280",
+  "number": 280,
+  "question": "Hány alapfeltétele van az égésnek?",
+  "options": [
+   {
+    "text": "3.",
+    "correct": true
+   },
+   {
+    "text": "1.",
+    "correct": false
+   },
+   {
+    "text": "5.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-281",
+  "number": 281,
+  "question": "Az égés alapfeltételei közül mennyit kell minimálisan megszüntetni, hogy a tűz elaludjon?",
+  "options": [
+   {
+    "text": "1.",
+    "correct": true
+   },
+   {
+    "text": "3.",
+    "correct": false
+   },
+   {
+    "text": "2.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-282",
+  "number": 282,
+  "question": "Honnan tudható meg a tűzoltó készülék lejárati időpontja?",
+  "options": [
+   {
+    "text": "A készüléken hitelesítéskor felragasztható matricán feltüntetik.",
+    "correct": true
+   },
+   {
+    "text": "Az interneten kell megnézni.",
+    "correct": false
+   },
+   {
+    "text": "A tűzoltóság diszpécserét kell megkérdezni a 105-ös számon.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-283",
+  "number": 283,
+  "question": "Honnan tudható meg, hogy milyen tüzek oltására alkalmas tűzoltó készülékünk?",
+  "options": [
+   {
+    "text": "A készüléken feltüntetett piktogramokból, és betűjelzésekből.",
+    "correct": true
+   },
+   {
+    "text": "Az interneten kell megnézni.",
+    "correct": false
+   },
+   {
+    "text": "A tűzoltóság diszpécserét kell megkérdezni a 105-ös számon.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-284",
+  "number": 284,
+  "question": "Kell-e a tűzoltóságot értesíteni, ha sikerült a tüzet eloltani?",
+  "options": [
+   {
+    "text": "Igen.",
+    "correct": true
+   },
+   {
+    "text": "Nem.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-285",
+  "number": 285,
+  "question": "Milyen számon kell a tűzoltóságot értesíteni?",
+  "options": [
+   {
+    "text": "105, vagy 112.",
+    "correct": true
+   },
+   {
+    "text": "104, vagy 112.",
+    "correct": false
+   },
+   {
+    "text": "107, vagy 112.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-286",
+  "number": 286,
+  "question": "A tűz melyik részét kell célozni a kézi tűzoltó készülékkel?",
+  "options": [
+   {
+    "text": "A felénk eső részét.",
+    "correct": true
+   },
+   {
+    "text": "A közepét.",
+    "correct": false
+   },
+   {
+    "text": "A tőlünk távolabbi felét.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-287",
+  "number": 287,
+  "question": "Szél ellenében, negyedszélben vitorlázva mitől keletkezik hajtóerő a vitorlán?",
+  "options": [
+   {
+    "text": "A vitorla szél alatti oldalán felgyorsul a levegő, nyomása lecsökken. A szél felőli oldalon lecsökken a levegő sebessége, nyomása megnő.",
+    "correct": true
+   },
+   {
+    "text": "A vitorlában összegyűlt levegő tömege nagyobb lesz, mint a vitorla előtt lévő levegőé.",
+    "correct": false
+   },
+   {
+    "text": "A levegő nyomása és a víz felhajtóerejének eredőjéből származtatható.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-288",
+  "number": 288,
+  "question": "Igaz-e, hogy a vitorlán keletkező felhajtó erő azért alakul ki, mert a vitorla külső oldalán hosszabb utat tesz meg a levegő, mint a belsőn?",
+  "options": [
+   {
+    "text": "Hamis.",
+    "correct": true
+   },
+   {
+    "text": "Igaz.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-289",
+  "number": 289,
+  "question": "Igaz-e, hogy a vitorlán keletkező felhajtó erő azért alakul ki, mert a vitorla körül cirkuláló levegőt, a vitorla külső oldalán erősíti, a belső oldalán gyengíti, a látszólagos szél?",
+  "options": [
+   {
+    "text": "Igaz.",
+    "correct": true
+   },
+   {
+    "text": "Hamis.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-290",
+  "number": 290,
+  "question": "Milyen, komponensekre bontható a vitorlán ébredő felhajtóerő?",
+  "options": [
+   {
+    "text": "Előre mutató (haladást eredményező) és oldalra mutató (döntő) erőre.",
+    "correct": true
+   },
+   {
+    "text": "Előre mutató (haladást eredményező) és lefelé mutató (döntő) erőre.",
+    "correct": false
+   },
+   {
+    "text": "Előre mutató (haladást eredményező) és hátra mutató (fékező) erőre.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-291",
+  "number": 291,
+  "question": "Mennyire kell megfeszíteni a vitorlák felhúzó köteleit gyenge szélben?",
+  "options": [
+   {
+    "text": "Nem szabad nagyon megfeszíteni.",
+    "correct": true
+   },
+   {
+    "text": "A lehető legjobban meg kell feszíteni.",
+    "correct": false
+   },
+   {
+    "text": "A vitorla felhúzó kötelének feszességét nem lehet állítani.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-292",
+  "number": 292,
+  "question": "Mennyire kell megfeszíteni a vitorlák felhúzó köteleit erős szélben?",
+  "options": [
+   {
+    "text": "A lehető legjobban meg kell feszíteni.",
+    "correct": true
+   },
+   {
+    "text": "Nem szabad nagyon megfeszíteni.",
+    "correct": false
+   },
+   {
+    "text": "A vitorla felhúzó kötelének feszességét nem lehet állítani.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-293",
+  "number": 293,
+  "question": "Mikor kell öblösre állítani a vitorla profilt?",
+  "options": [
+   {
+    "text": "Gyenge szélben.",
+    "correct": true
+   },
+   {
+    "text": "Erős szélben.",
+    "correct": false
+   },
+   {
+    "text": "Mindig.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-294",
+  "number": 294,
+  "question": "Mikor kell laposra állítani a vitorla profilt?",
+  "options": [
+   {
+    "text": "Erős szélben.",
+    "correct": true
+   },
+   {
+    "text": "Gyenge szélben.",
+    "correct": false
+   },
+   {
+    "text": "Mindig.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-295",
+  "number": 295,
+  "question": "Mi a csúszás?",
+  "options": [
+   {
+    "text": "A hajó oldalirányú sodródása.",
+    "correct": true
+   },
+   {
+    "text": "A nagy sebességgel való közlekedés.",
+    "correct": false
+   },
+   {
+    "text": "Lassan farral beállás, a kikötőhelyre.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-296",
+  "number": 296,
+  "question": "Mi a látszólagos szél?",
+  "options": [
+   {
+    "text": "A valós szél és a menetszél vektoriális eredője.",
+    "correct": true
+   },
+   {
+    "text": "A menetszél és a közegellenállás vektoriális eredője.",
+    "correct": false
+   },
+   {
+    "text": "A hátszél és a szembeszél vektoriális eredője.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-297",
+  "number": 297,
+  "question": "Egészítse ki a mondatot! A hajótest keresztirányú dőlésének növelésével a tőkesúlyos hajó visszabillentő nyomatéka (          )",
+  "options": [
+   {
+    "text": "növekszik.",
+    "correct": true
+   },
+   {
+    "text": "csökken.",
+    "correct": false
+   },
+   {
+    "text": "a hajótest kialakításától függő kitérítési szögig növekszik, utána csökken.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-298",
+  "number": 298,
+  "question": "Egészítse ki a mondatot! A tőkesúlyos hajók kezdeti stabilitása (          )",
+  "options": [
+   {
+    "text": "csak a hajótest formájától függ.",
+    "correct": true
+   },
+   {
+    "text": "kicsi.",
+    "correct": false
+   },
+   {
+    "text": "nagy.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-299",
+  "number": 299,
+  "question": "Egészítse ki a mondatot! A hajótest keresztirányú dőlésének növelésével a svertes hajó visszabillentő nyomatéka (          )",
+  "options": [
+   {
+    "text": "a hajótest kialakításától függő kitérítési szögig növekszik, utána csökken.",
+    "correct": true
+   },
+   {
+    "text": "növekszik.",
+    "correct": false
+   },
+   {
+    "text": "csökken.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-300",
+  "number": 300,
+  "question": "Egészítse ki a mondatot! A svertes hajóknál a legénység hajótesten belüli elhelyezkedésének (          )",
+  "options": [
+   {
+    "text": "jelentős hatása van a hajó úszási helyzetére.",
+    "correct": true
+   },
+   {
+    "text": "hatása nem jelentős a hajó úszási helyzetére.",
+    "correct": false
+   },
+   {
+    "text": "csak gyenge szélben van hatása a hajó úszási helyzetére.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-301",
+  "number": 301,
+  "question": "Mi a jolle?",
+  "options": [
+   {
+    "text": "Alacsony oldalmagasságú, általában nyitott, ballaszt nélküli svertes vitorlás.",
+    "correct": true
+   },
+   {
+    "text": "Olyan svertes, cat vitorlázatú, cockpit-tel rendelkező vitorlás, amely vízzel megtelve is úszóképes.",
+    "correct": false
+   },
+   {
+    "text": "Minden kajüt nélküli svertes vitorlás jolle.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-302",
+  "number": 302,
+  "question": "Milyen hajótípust lát az ábrán?",
+  "options": [
+   {
+    "text": "Svertes.",
+    "correct": true
+   },
+   {
+    "text": "Tőkesúlyos.",
+    "correct": false
+   },
+   {
+    "text": "Svert-kieles.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/Vitorlas svertes.jpg"
+ },
+ {
+  "id": "vitorlas-303",
+  "number": 303,
+  "question": "Milyen hajótípust lát az ábrán?",
+  "options": [
+   {
+    "text": "Tőkesúlyos.",
+    "correct": true
+   },
+   {
+    "text": "Svertes.",
+    "correct": false
+   },
+   {
+    "text": "Svert-kieles.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/Vitorlas kiel 1.jpg"
+ },
+ {
+  "id": "vitorlas-304",
+  "number": 304,
+  "question": "Milyen hajótípust lát az ábrán?",
+  "options": [
+   {
+    "text": "Tőkesúlyos.",
+    "correct": true
+   },
+   {
+    "text": "Svertes.",
+    "correct": false
+   },
+   {
+    "text": "Svert-kieles.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/Vitorlas kiel 2.jpg"
+ },
+ {
+  "id": "vitorlas-305",
+  "number": 305,
+  "question": "Milyen hajótípust lát az ábrán?",
+  "options": [
+   {
+    "text": "Svert-kieles.",
+    "correct": true
+   },
+   {
+    "text": "Tőkesúlyos.",
+    "correct": false
+   },
+   {
+    "text": "Svertes.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/Vitorlas svert-kiel 1.jpg"
+ },
+ {
+  "id": "vitorlas-306",
+  "number": 306,
+  "question": "Milyen hajótípust lát az ábrán?",
+  "options": [
+   {
+    "text": "Svert-kieles.",
+    "correct": true
+   },
+   {
+    "text": "Tőkesúlyos.",
+    "correct": false
+   },
+   {
+    "text": "Svertes.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/Vitorlas svert-kiel 2.jpg"
+ },
+ {
+  "id": "vitorlas-307",
+  "number": 307,
+  "question": "Melyik kifejezés jelentése a két testű hajó?",
+  "options": [
+   {
+    "text": "Katamarán.",
+    "correct": true
+   },
+   {
+    "text": "Trimarán.",
+    "correct": false
+   },
+   {
+    "text": "Szkúner.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-308",
+  "number": 308,
+  "question": "Melyik kifejezés jelentése a három testű hajó?",
+  "options": [
+   {
+    "text": "Trimarán.",
+    "correct": true
+   },
+   {
+    "text": "Katamarán.",
+    "correct": false
+   },
+   {
+    "text": "Szkúner.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-309",
+  "number": 309,
+  "question": "Mire szolgál a tőkesúly?",
+  "options": [
+   {
+    "text": "A csúszás mérséklésére, visszabillentő nyomaték létrehozására.",
+    "correct": true
+   },
+   {
+    "text": "A merülési vonal beállítására.",
+    "correct": false
+   },
+   {
+    "text": "Az úszás segítése, a hasznos teher növelése.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-310",
+  "number": 310,
+  "question": "Mire szolgál a svert?",
+  "options": [
+   {
+    "text": "Az oldalirányú csúszás csökkentésére.",
+    "correct": true
+   },
+   {
+    "text": "A stabilitás növelésére.",
+    "correct": false
+   },
+   {
+    "text": "A hullámok szétvágására.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-311",
+  "number": 311,
+  "question": "Mire szolgál az alba?",
+  "options": [
+   {
+    "text": "A bum lefeszítésére.",
+    "correct": true
+   },
+   {
+    "text": "A grósz behúzására.",
+    "correct": false
+   },
+   {
+    "text": "A fok behúzására.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-312",
+  "number": 312,
+  "question": "Mi a dingi jelentése?",
+  "options": [
+   {
+    "text": "Svertes kishajó, csónak.",
+    "correct": true
+   },
+   {
+    "text": "Vitorlás deszka.",
+    "correct": false
+   },
+   {
+    "text": "Felépítményes hajó.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-313",
+  "number": 313,
+  "question": "Mi a jolle jelentése?",
+  "options": [
+   {
+    "text": "Svertes kishajó, csónak.",
+    "correct": true
+   },
+   {
+    "text": "Vitorlás deszka.",
+    "correct": false
+   },
+   {
+    "text": "Felépítményes hajó.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-314",
+  "number": 314,
+  "question": "Hány testű hajótípus a katamarán?",
+  "options": [
+   {
+    "text": "2.",
+    "correct": true
+   },
+   {
+    "text": "1.",
+    "correct": false
+   },
+   {
+    "text": "3.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-315",
+  "number": 315,
+  "question": "Hány testű hajótípus a trimarán?",
+  "options": [
+   {
+    "text": "3.",
+    "correct": true
+   },
+   {
+    "text": "2.",
+    "correct": false
+   },
+   {
+    "text": "1.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-316",
+  "number": 316,
+  "question": "Mi a kiel?",
+  "options": [
+   {
+    "text": "A hajó gerince.",
+    "correct": true
+   },
+   {
+    "text": "A ballaszttartály.",
+    "correct": false
+   },
+   {
+    "text": "A trapézlétra.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-317",
+  "number": 317,
+  "question": "Milyen vitorlázatú, és milyen vitorlákkal szerelt a tőkesúlyos hajók általában?",
+  "options": [
+   {
+    "text": "A legtöbb hajó bermuda-vitorlával szerelt slup vitorlázatú.",
+    "correct": true
+   },
+   {
+    "text": "A legtöbb hajó gaffvitorlával szerelt schooner vitorlázatú.",
+    "correct": false
+   },
+   {
+    "text": "A legtöbb hajó sprietvitorlával szerelt cat vitorlázatú.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-318",
+  "number": 318,
+  "question": "Milyen kötelekből áll a vitorlás állókötélzete?",
+  "options": [
+   {
+    "text": "Vantnik és stágok.",
+    "correct": true
+   },
+   {
+    "text": "Fallok és sottok.",
+    "correct": false
+   },
+   {
+    "text": "Toppnant és dirk.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-319",
+  "number": 319,
+  "question": "Milyen kötelekből áll a vitorlás futókötélzete?",
+  "options": [
+   {
+    "text": "Fallok és sottok.",
+    "correct": true
+   },
+   {
+    "text": "Vantnik és stágok.",
+    "correct": false
+   },
+   {
+    "text": "Jumpstag és babystag.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-320",
+  "number": 320,
+  "question": "Milyen funkcióra használunk kizárólag felúszó kötele(ke)t?",
+  "options": [
+   {
+    "text": "A mentőgyűrűhöz tartozó kötélnek felúszónak kell lennie.",
+    "correct": true
+   },
+   {
+    "text": "A kikötőköteleknek felúszónak kell lennie.",
+    "correct": false
+   },
+   {
+    "text": "A vontatásra szolgáló kötél kizárólag felúszó kötél lehet a kötél hajócsavarra való felcsavarodásának veszélye miatt.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-321",
+  "number": 321,
+  "question": "Mire szolgál az árbochoz rögzített száling?",
+  "options": [
+   {
+    "text": "A felső-oldalmerevítőket támasztja el az árboctól.",
+    "correct": true
+   },
+   {
+    "text": "Az alsó oldalmerevítőket támasztja el az árboctól.",
+    "correct": false
+   },
+   {
+    "text": "A jumpstag kifeszítését látja el.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-322",
+  "number": 322,
+  "question": "Melyik állókötelek állítását lehet általában szerszám nélkül elvégezni menet közben a vitorlák trimmelés céljából?",
+  "options": [
+   {
+    "text": "Achterstag, backstag.",
+    "correct": true
+   },
+   {
+    "text": "Vorstag, Unterstag.",
+    "correct": false
+   },
+   {
+    "text": "Achterstag, oberwant.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-323",
+  "number": 323,
+  "question": "Mi a grósz?",
+  "options": [
+   {
+    "text": "A nagyvitorla.",
+    "correct": true
+   },
+   {
+    "text": "Az orrvitorla.",
+    "correct": false
+   },
+   {
+    "text": "A hátszélvitorla.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-324",
+  "number": 324,
+  "question": "Mi a fok?",
+  "options": [
+   {
+    "text": "Az orrvitorla.",
+    "correct": true
+   },
+   {
+    "text": "A hátszélvitorla.",
+    "correct": false
+   },
+   {
+    "text": "A nagyvitorla.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-325",
+  "number": 325,
+  "question": "Mi a spinakker?",
+  "options": [
+   {
+    "text": "A hátszélvitorla.",
+    "correct": true
+   },
+   {
+    "text": "Az orrvitorla.",
+    "correct": false
+   },
+   {
+    "text": "A nagyvitorla.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-326",
+  "number": 326,
+  "question": "Mit nevezünk álló kötélzetnek?",
+  "options": [
+   {
+    "text": "Az árbocmerevítő köteleket.",
+    "correct": true
+   },
+   {
+    "text": "A klemmben rögzített köteleket.",
+    "correct": false
+   },
+   {
+    "text": "A kikötéshez használt köteleket.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-327",
+  "number": 327,
+  "question": "Melyik álló kötél?",
+  "options": [
+   {
+    "text": "Vorstag.",
+    "correct": true
+   },
+   {
+    "text": "Fall.",
+    "correct": false
+   },
+   {
+    "text": "Sott.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-328",
+  "number": 328,
+  "question": "Melyik álló kötél?",
+  "options": [
+   {
+    "text": "Achterstag.",
+    "correct": true
+   },
+   {
+    "text": "Sott.",
+    "correct": false
+   },
+   {
+    "text": "Dirk.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-329",
+  "number": 329,
+  "question": "Melyik álló kötél?",
+  "options": [
+   {
+    "text": "Backstag.",
+    "correct": true
+   },
+   {
+    "text": "Dirk.",
+    "correct": false
+   },
+   {
+    "text": "Fall.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-330",
+  "number": 330,
+  "question": "Melyik álló kötél?",
+  "options": [
+   {
+    "text": "Vantni.",
+    "correct": true
+   },
+   {
+    "text": "Fall.",
+    "correct": false
+   },
+   {
+    "text": "Sott.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-331",
+  "number": 331,
+  "question": "Melyik mozgó kötél?",
+  "options": [
+   {
+    "text": "Fall.",
+    "correct": true
+   },
+   {
+    "text": "Vantni.",
+    "correct": false
+   },
+   {
+    "text": "Achterstag.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-332",
+  "number": 332,
+  "question": "Melyik mozgó kötél?",
+  "options": [
+   {
+    "text": "Sott.",
+    "correct": true
+   },
+   {
+    "text": "Forstag.",
+    "correct": false
+   },
+   {
+    "text": "Backstag.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-333",
+  "number": 333,
+  "question": "Melyik mozgó kötél?",
+  "options": [
+   {
+    "text": "Dirk.",
+    "correct": true
+   },
+   {
+    "text": "Achterstag.",
+    "correct": false
+   },
+   {
+    "text": "Vantni.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-334",
+  "number": 334,
+  "question": "Melyik vitorlát kell először felhúzni?",
+  "options": [
+   {
+    "text": "Hajótípustól és felszereltségtől függ.",
+    "correct": true
+   },
+   {
+    "text": "A grószt.",
+    "correct": false
+   },
+   {
+    "text": "A fokot.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-335",
+  "number": 335,
+  "question": "Melyik vitorlát kell először lehúzni?",
+  "options": [
+   {
+    "text": "Hajótípustól és felszereltségtől függ.",
+    "correct": true
+   },
+   {
+    "text": "A grószt.",
+    "correct": false
+   },
+   {
+    "text": "A fokot.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-336",
+  "number": 336,
+  "question": "Mi a dirk?",
+  "options": [
+   {
+    "text": "A bum pihentető kötele.",
+    "correct": true
+   },
+   {
+    "text": "A spinakker felhúzó kötele.",
+    "correct": false
+   },
+   {
+    "text": "A bum lefeszítő csigarendszere.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-337",
+  "number": 337,
+  "question": "Mi a genakker?",
+  "options": [
+   {
+    "text": "Aszimmetrikus szabású hátszélvitorla.",
+    "correct": true
+   },
+   {
+    "text": "Szimmetrikus szabású hátszélvitorla.",
+    "correct": false
+   },
+   {
+    "text": "Kis méretű orrvitorla.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-338",
+  "number": 338,
+  "question": "Mi a spinakker?",
+  "options": [
+   {
+    "text": "Szimmetrikus szabású hátszélvitorla.",
+    "correct": true
+   },
+   {
+    "text": "Aszimmetrikus szabású hátszélvitorla.",
+    "correct": false
+   },
+   {
+    "text": "Kis méretű orrvitorla.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-339",
+  "number": 339,
+  "question": "Mi a génua?",
+  "options": [
+   {
+    "text": "Nagyméretű orrvitorla.",
+    "correct": true
+   },
+   {
+    "text": "Aszimmetrikus szabású hátszélvitorla.",
+    "correct": false
+   },
+   {
+    "text": "Kis méretű orrvitorla.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-340",
+  "number": 340,
+  "question": "Melyik vitorla fekete színű?",
+  "options": [
+   {
+    "text": "Grósz.",
+    "correct": true
+   },
+   {
+    "text": "Fok.",
+    "correct": false
+   },
+   {
+    "text": "Génua.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/Grosz 1.jpg"
+ },
+ {
+  "id": "vitorlas-341",
+  "number": 341,
+  "question": "Melyik vitorla fekete színű?",
+  "options": [
+   {
+    "text": "Grósz.",
+    "correct": true
+   },
+   {
+    "text": "Fok.",
+    "correct": false
+   },
+   {
+    "text": "Génua.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/Grosz 2.jpg"
+ },
+ {
+  "id": "vitorlas-342",
+  "number": 342,
+  "question": "Melyik vitorla fekete színű?",
+  "options": [
+   {
+    "text": "Grósz.",
+    "correct": true
+   },
+   {
+    "text": "Fok.",
+    "correct": false
+   },
+   {
+    "text": "Génua.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/Grosz 3.jpg"
+ },
+ {
+  "id": "vitorlas-343",
+  "number": 343,
+  "question": "Melyik vitorla fekete színű?",
+  "options": [
+   {
+    "text": "Génua.",
+    "correct": true
+   },
+   {
+    "text": "Fok.",
+    "correct": false
+   },
+   {
+    "text": "Grósz.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/Genua 1.jpg"
+ },
+ {
+  "id": "vitorlas-344",
+  "number": 344,
+  "question": "Melyik vitorla fekete színű?",
+  "options": [
+   {
+    "text": "Fok.",
+    "correct": true
+   },
+   {
+    "text": "Grósz.",
+    "correct": false
+   },
+   {
+    "text": "Génua.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/Fok 1.jpg"
+ },
+ {
+  "id": "vitorlas-345",
+  "number": 345,
+  "question": "Mit nevezünk a vitorlás hajón Lazy Jack-nak?",
+  "options": [
+   {
+    "text": "A vitorla összeszedését segítő kötélrendszerrel kombinált zsákokat.",
+    "correct": true
+   },
+   {
+    "text": "A kapitányi pihenő időt.",
+    "correct": false
+   },
+   {
+    "text": "A bum pihentető kötelét.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-346",
+  "number": 346,
+  "question": "Mi a luftkaszni?",
+  "options": [
+   {
+    "text": "Légkamra.",
+    "correct": true
+   },
+   {
+    "text": "Kötélvezető.",
+    "correct": false
+   },
+   {
+    "text": "Horgonykamra.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-347",
+  "number": 347,
+  "question": "Mi a rig?",
+  "options": [
+   {
+    "text": "A rudazat és a merevítő kötelek.",
+    "correct": true
+   },
+   {
+    "text": "Kötélvezető szem.",
+    "correct": false
+   },
+   {
+    "text": "A szabad oldalmagasság.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-348",
+  "number": 348,
+  "question": "Mi a strekkelés?",
+  "options": [
+   {
+    "text": "Az állókötélzet feszítése.",
+    "correct": true
+   },
+   {
+    "text": "Cikk-cakk vonalban a széllel szemben vitorlázás.",
+    "correct": false
+   },
+   {
+    "text": "A vitorla felület csökkentése.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-349",
+  "number": 349,
+  "question": "Mi a takli?",
+  "options": [
+   {
+    "text": "Vitorlázat.",
+    "correct": true
+   },
+   {
+    "text": "A hajó útiránya.",
+    "correct": false
+   },
+   {
+    "text": "Menetes félszem.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-350",
+  "number": 350,
+  "question": "A nagyvitorla melyik részét rögzítjük a fokfallhoz?",
+  "options": [
+   {
+    "text": "Egyiket sem.",
+    "correct": true
+   },
+   {
+    "text": "A halfejet.",
+    "correct": false
+   },
+   {
+    "text": "A Cunningham-szemet.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-351",
+  "number": 351,
+  "question": "Miért kell elengedett sottal felhúzni a nagyvitorlát?",
+  "options": [
+   {
+    "text": "Mert különben szelet fog, és a felhúzást nem lehet befejezni.",
+    "correct": true
+   },
+   {
+    "text": "Nem kell a sottokat teljesen kiengedni, a vitorlák lobogásának felhúzás közbeni lobogásának megakadályozására enyhén be kell húzni a sottot.",
+    "correct": false
+   },
+   {
+    "text": "Mert a vitorlába kapó szél megdöntheti, svertes hajó esetén fel is boríthatja a hajót.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-352",
+  "number": 352,
+  "question": "Milyen irányú szélben szokás a vitorlákat felhúzni?",
+  "options": [
+   {
+    "text": "Negyedszélnél élesebb szélben.",
+    "correct": true
+   },
+   {
+    "text": "Éles negyedszéltől félszélig terjedő irányokban.",
+    "correct": false
+   },
+   {
+    "text": "A szél sebességétől függően negyedszéltől hátszélig terjed a vitorlák felvonására legalkalmasabb szélirány.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-353",
+  "number": 353,
+  "question": "Ha főgép nélküli vitorlással indul bójáról, hogyan tudja a hajót a kívánt csapásirány felvételéhez szükséges irányba fordítani?",
+  "options": [
+   {
+    "text": "A grósszal azon az oldalon beggelni, amelyik felé el kívánunk indulni, hátramenetben a kormánylapátot a grósszal ellentétes oldalra kihajtani, esetleg beggelni a fokkal.",
+    "correct": true
+   },
+   {
+    "text": "A grósszal a felvenni kívánt haladási iránnyal ellentétes oldalon beggelni, hátramenetben a kormánylapátot a grósszal ellentétes oldalra kihajtani, esetleg beggelni a fokkal.",
+    "correct": false
+   },
+   {
+    "text": "A grósszal a felvenni kívánt haladási iránnyal ellentétes oldalon beggelni, hátramenetben a kormánylapátot a grósszal azonos oldalra kihajtani, esetleg beggelni a fokkal.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-354",
+  "number": 354,
+  "question": "Hányféleképpen lehet csapást váltani?",
+  "options": [
+   {
+    "text": "Széllel szemben és hátszéllel.",
+    "correct": true
+   },
+   {
+    "text": "Széllel szemben.",
+    "correct": false
+   },
+   {
+    "text": "Hátszéllel.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-355",
+  "number": 355,
+  "question": "Egészítse ki a mondatot! Svertes hajón fordulás közben a vitorlákat (          )",
+  "options": [
+   {
+    "text": "az éppen aktuális látszólagos szélirány szerint állítjuk, ha szél túl élessé válik a sottokat elengedjük.",
+    "correct": true
+   },
+   {
+    "text": "már nem állítjuk, a forduláshoz szükséges lendületet a fordulás előtt kell megszerezni a hajó kellő sebességre gyorsításával.",
+    "correct": false
+   },
+   {
+    "text": "csak a széltengelyen való áthaladás előtt állítjuk, az egyre élesedő szélhez igazítva azokat. Ha a szél túl élessé válik, a sottokat elengedjük, és csak az elérni kívánt haladási irány felvétele után állítjuk a vitorlákat, különben felborulhatunk.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-356",
+  "number": 356,
+  "question": "Egészítse ki a mondatot! Svertes hajóval a halzolást élénk szélben (          )",
+  "options": [
+   {
+    "text": "félig felhúzott sverttel hajtjuk végre.",
+    "correct": true
+   },
+   {
+    "text": "teljesen leengedett sverttel hajtjuk végre.",
+    "correct": false
+   },
+   {
+    "text": "teljesen felhúzott sverttel hajtjuk végre.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-357",
+  "number": 357,
+  "question": "Egészítse ki a mondatot! Svertes hajóval végrehajtott halzolás végén (          )",
+  "options": [
+   {
+    "text": "a grószt az új csapáson teljesen ki kell engedni.",
+    "correct": true
+   },
+   {
+    "text": "nem szabad teljesen kiengedni az új csapáson, mert az borulásveszélyt okoz.",
+    "correct": false
+   },
+   {
+    "text": "a grószt csak lassan, fokozatosan szabad kiengedni, kissé késleltetve a látszólagos szélirányhoz képest.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-358",
+  "number": 358,
+  "question": "Egészítse ki a mondatot! Ha a hajó széllel szemben áll, és jobb oldalra kell a hajó orrát fordítani, akkor az orrvitorlát (          )",
+  "options": [
+   {
+    "text": "a hajó bal oldala felé térítjük ki, azaz beggelünk.",
+    "correct": true
+   },
+   {
+    "text": "a hajó jobb oldala felé térítjük ki, azaz beggelünk.",
+    "correct": false
+   },
+   {
+    "text": "hagyjuk lobogni, és a grósszal beggelünk a hajó bal oldala felé kitérítve azt.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-359",
+  "number": 359,
+  "question": "Egészítse ki a mondatot! Fordulás közben a hajó fordulását segíthetjük (          )",
+  "options": [
+   {
+    "text": "ha az orrvitorla sottját megfeszítve tartjuk azt követően is, hogy a hajó orra a széltengelyen átfordult.",
+    "correct": true
+   },
+   {
+    "text": "ha az orrvitorla luv sottját elengedjük, és lee oldali sottját megfeszítjük, mielőtt a hajó orra a széltengelyen áthaladt.",
+    "correct": false
+   },
+   {
+    "text": "ha a hajó orrának a széltengelyen való áthaladását megelőzően a grósz bumját a szél felöli oldalra kissé kitérítjük kézzel.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-360",
+  "number": 360,
+  "question": "Egészítse ki a mondatot! A vízből mentés manőver végén a mentendő személy mellett a hajó (          )",
+  "options": [
+   {
+    "text": "úgy áll meg, hogy a mentendő a luv oldalon van, és a hajó orra negyedszeles irányban áll.",
+    "correct": true
+   },
+   {
+    "text": "úgy áll meg, hogy a mentendő a luv oldalon van, és a hajó orra szélben áll.",
+    "correct": false
+   },
+   {
+    "text": "úgy áll meg, hogy a mentendő a lee oldalon van, és a hajó orra negyedszeles irányban áll.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-361",
+  "number": 361,
+  "question": "Egészítse ki a mondatot! A vízbeesett személy vízből hajóba történő beemelésekor (          )",
+  "options": [
+   {
+    "text": "körülményektől függően a mentendő hasa, vagy háta néz a hajótest felé.",
+    "correct": true
+   },
+   {
+    "text": "mindig a mentendő javasolja, hogy melyik oldala nézzen a hajótest felé.",
+    "correct": false
+   },
+   {
+    "text": "ha a mentendő eszméletlen, akkor mindig a mentendő háta néz a hajótest felé.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-362",
+  "number": 362,
+  "question": "Egészítse ki a mondatot! A Q forduló (          )",
+  "options": [
+   {
+    "text": "a halzolás kiváltására szolgáló manőver.",
+    "correct": true
+   },
+   {
+    "text": "olyan manőver, amelynek során az egyik csapás negyedszélből a másik csapás negyedszélbe kerül a hajó.",
+    "correct": false
+   },
+   {
+    "text": "olyan manőver, amelynek segítségével a negyedszélből indított mentés gyenge szélben a leggyorsabban végrehajtható.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-363",
+  "number": 363,
+  "question": "Egészítse ki a mondatot! A hajó élesedése közben (          )",
+  "options": [
+   {
+    "text": "a hajó orra a valódi szél iránya felé közelít.",
+    "correct": true
+   },
+   {
+    "text": "a hajó orra a valódi szél irányától távolodik.",
+    "correct": false
+   },
+   {
+    "text": "a valódi szél iránya a hajó fara felé mozog.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-364",
+  "number": 364,
+  "question": "Egészítse ki a mondatot! A hajó ejtése közben (          )",
+  "options": [
+   {
+    "text": "a hajó orra a szél valódi irányától távolodik.",
+    "correct": true
+   },
+   {
+    "text": "a hajó orra a valódi szél iránya felé közelít.",
+    "correct": false
+   },
+   {
+    "text": "a valódi szél iránya a hajó orra felé mozog.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-365",
+  "number": 365,
+  "question": "Egészítse ki a mondatot! Ha cirkálás közben a valódi szél iránya úgy változik, hogy hajónkat az eredeti irányhoz képest ejteni kényszerülünk (          )",
+  "options": [
+   {
+    "text": "akkor nyomban csapást váltunk, mert a másik csapáson a célhoz közelebbi irányon tudunk hajózni, mint a szélforduló előtt.",
+    "correct": true
+   },
+   {
+    "text": "nem váltunk csapást, mert így a célhoz közelebbi irányban tudunk hajózni.",
+    "correct": false
+   },
+   {
+    "text": "nem váltunk csapást, mert a szélforduló miatt a másik csapáson a céltól távolabbi irányra tudnánk hajózni, mint a szélforduló előtt.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-366",
+  "number": 366,
+  "question": "Egészítse ki a mondatot! Szél ellenében történő vitorlázás közben az adott cél eléréséhez (          )",
+  "options": [
+   {
+    "text": "a szükségesnél több magasságot gyűjtünk.",
+    "correct": true
+   },
+   {
+    "text": "addig vitorlázunk a húzó szakaszon, amíg a célt a hajóval összekötő egyenes orrszöge kis híján 90 fok nem lesz.",
+    "correct": false
+   },
+   {
+    "text": "még beiktatunk egy közelítő szakaszt, ha a szélirány raumosodik.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-367",
+  "number": 367,
+  "question": "Milyen irányból közelítjük meg a horgonyzóhelyet?",
+  "options": [
+   {
+    "text": "Áramlás (víz sodrása, szél) ellenében.",
+    "correct": true
+   },
+   {
+    "text": "A széliránnyal szemből.",
+    "correct": false
+   },
+   {
+    "text": "Szélirányból.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-368",
+  "number": 368,
+  "question": "Mivel kezdődik a nagyvitorla bevonásának művelete?",
+  "options": [
+   {
+    "text": "A grószsott elengedésével.",
+    "correct": true
+   },
+   {
+    "text": "A grószfall elengedésével.",
+    "correct": false
+   },
+   {
+    "text": "A dirk elengedésével.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-369",
+  "number": 369,
+  "question": "Milyen relatív szélirány esetén lehet a fokrolleres orrvitorlát bevonni?",
+  "options": [
+   {
+    "text": "Bármilyen szélirányban.",
+    "correct": true
+   },
+   {
+    "text": "Szembeszéltől negyedszélig terjedő szélirányok mellett.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-370",
+  "number": 370,
+  "question": "Mit nevezünk fordulásnak?",
+  "options": [
+   {
+    "text": "Amikor széllel szemben történik a csapásváltás.",
+    "correct": true
+   },
+   {
+    "text": "Amikor hátszélben történik a csapásváltás.",
+    "correct": false
+   },
+   {
+    "text": "Amikor az ejtés során csapásváltás történik.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-371",
+  "number": 371,
+  "question": "Mit nevezünk perdülésnek?",
+  "options": [
+   {
+    "text": "Amikor hátszélben történik a csapásváltás.",
+    "correct": true
+   },
+   {
+    "text": "Amikor széllel szemben történik a csapásváltás.",
+    "correct": false
+   },
+   {
+    "text": "Amikor az élesedés során csapásváltás történik.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-372",
+  "number": 372,
+  "question": "Mit nevezünk halzolásnak?",
+  "options": [
+   {
+    "text": "Amikor hátszélben történik a csapásváltás.",
+    "correct": true
+   },
+   {
+    "text": "Amikor széllel szemben történik a csapásváltás.",
+    "correct": false
+   },
+   {
+    "text": "Amikor az élesedés során csapásváltás történik.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-373",
+  "number": 373,
+  "question": "Az alábbiak közül melyik manőver beggelés?",
+  "options": [
+   {
+    "text": "A fok luv szárát húzom meg.",
+    "correct": true
+   },
+   {
+    "text": "A fok lee szárát húzom meg.",
+    "correct": false
+   },
+   {
+    "text": "A fokot kilobogtatom.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-374",
+  "number": 374,
+  "question": "Az alábbiak közül melyik manőver beggelés?",
+  "options": [
+   {
+    "text": "Élesen haladva a grósz sottot elengedve a bumot a vantniig kinyomom.",
+    "correct": true
+   },
+   {
+    "text": "Bő szélben haladva a grósz sottot elengedve a bumot a vantniig kinyomom.",
+    "correct": false
+   },
+   {
+    "text": "A grószt kilobogtatom.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-375",
+  "number": 375,
+  "question": "Mi a halzolás?",
+  "options": [
+   {
+    "text": "Hátszélben történő csapásváltás.",
+    "correct": true
+   },
+   {
+    "text": "Bal csapáson megfuttatás.",
+    "correct": false
+   },
+   {
+    "text": "Jobb csapáson kilobogtatás.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-376",
+  "number": 376,
+  "question": "Mikor nevezzük leegierig-nek a hajót.",
+  "options": [
+   {
+    "text": "Ha elengedett kormánnyal a széltől el akar fordulni.",
+    "correct": true
+   },
+   {
+    "text": "Ha elengedett kormánnyal a szél felé akar fordulni.",
+    "correct": false
+   },
+   {
+    "text": "Ha elengedett kormánnyal egyenesen halad tovább.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-377",
+  "number": 377,
+  "question": "Mikor nevezzük luvgierig-nek a hajót.",
+  "options": [
+   {
+    "text": "Ha elengedett kormánnyal a szél felé akar fordulni.",
+    "correct": true
+   },
+   {
+    "text": "Ha elengedett kormánnyal a széltől el akar fordulni.",
+    "correct": false
+   },
+   {
+    "text": "Ha elengedett kormánnyal egyenesen halad tovább.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-378",
+  "number": 378,
+  "question": "Mi a reffelés?",
+  "options": [
+   {
+    "text": "A vitorlafelület csökkentése.",
+    "correct": true
+   },
+   {
+    "text": "Cikk-cakk vonalban a széllel szemben vitorlázás.",
+    "correct": false
+   },
+   {
+    "text": "Az állókötélzet feszítése.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-379",
+  "number": 379,
+  "question": "Pillangózva vitorlázó kishajó milyen csapáson halad?",
+  "options": [
+   {
+    "text": "A nagyvitorla állása szerinti csapáson.",
+    "correct": true
+   },
+   {
+    "text": "Az orrvitorla állása szerinti csapáson.",
+    "correct": false
+   },
+   {
+    "text": "A vitorla állásától függetlenül jobb csapáson haladónak tekintjük.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-380",
+  "number": 380,
+  "question": "Mit nevezünk csapásnak?",
+  "options": [
+   {
+    "text": "A hajó haladási irányát.",
+    "correct": true
+   },
+   {
+    "text": "A bum átvágódását.",
+    "correct": false
+   },
+   {
+    "text": "A parton felvett iránylatot.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-381",
+  "number": 381,
+  "question": "Milyen csapásokat ismer?",
+  "options": [
+   {
+    "text": "Pozitív, negatív.",
+    "correct": true
+   },
+   {
+    "text": "Alsó, felső.",
+    "correct": false
+   },
+   {
+    "text": "Egyes, kettes, hármas, négyes.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-382",
+  "number": 382,
+  "question": "Milyen csapásokat ismer?",
+  "options": [
+   {
+    "text": "Bal, jobb.",
+    "correct": true
+   },
+   {
+    "text": "Alsó, felső.",
+    "correct": false
+   },
+   {
+    "text": "Egyes, kettes, hármas, négyes.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-383",
+  "number": 383,
+  "question": "Melyik a luv oldal?",
+  "options": [
+   {
+    "text": "Szél feletti oldal.",
+    "correct": true
+   },
+   {
+    "text": "Szél alatti oldal.",
+    "correct": false
+   },
+   {
+    "text": "Jobb oldal.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-384",
+  "number": 384,
+  "question": "Melyik a lee oldal?",
+  "options": [
+   {
+    "text": "Szél alatti oldal.",
+    "correct": true
+   },
+   {
+    "text": "Szél feletti oldal.",
+    "correct": false
+   },
+   {
+    "text": "Bal oldal.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-385",
+  "number": 385,
+  "question": "Melyik hajónak van útjoga, ha ellentétes csapáson haladnak?",
+  "options": [
+   {
+    "text": "A backboard-on haladónak.",
+    "correct": true
+   },
+   {
+    "text": "A steuerboard-on haladónak.",
+    "correct": false
+   },
+   {
+    "text": "A bal csapáson haladónak.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-386",
+  "number": 386,
+  "question": "Melyik hajónak van útjoga, ha ellentétes csapáson haladnak?",
+  "options": [
+   {
+    "text": "A jobb csapáson haladónak.",
+    "correct": true
+   },
+   {
+    "text": "A bal csapáson haladónak.",
+    "correct": false
+   },
+   {
+    "text": "Amelyiknek a bumja a jobb oldalon van.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-387",
+  "number": 387,
+  "question": "Melyik hajónak van útjoga?",
+  "options": [
+   {
+    "text": "Amelyiknek a bumja a bal oldalon van.",
+    "correct": true
+   },
+   {
+    "text": "Amelyiknek a bumja a jobb oldalon van.",
+    "correct": false
+   },
+   {
+    "text": "A bal csapáson haladónak.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-388",
+  "number": 388,
+  "question": "A látszólagos szél iránya milyen esetben egyezik meg a valós szél irányával?",
+  "options": [
+   {
+    "text": "Szélbe állva, hátszélben és vesztegelve.",
+    "correct": true
+   },
+   {
+    "text": "Félszélben, hátszélben és vesztegelve.",
+    "correct": false
+   },
+   {
+    "text": "Hátszélben, és vesztegelve.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-389",
+  "number": 389,
+  "question": "Mi a préselés?",
+  "options": [
+   {
+    "text": "Teljesen behúzott vitorlákkal, minél élesebben haladás.",
+    "correct": true
+   },
+   {
+    "text": "Szűk bejárattal rendelkező kikötőbe vitorlával behajózás.",
+    "correct": false
+   },
+   {
+    "text": "Lassú, hátramenetben történő beállás a kikötőhelyre.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-390",
+  "number": 390,
+  "question": "Mi a raum?",
+  "options": [
+   {
+    "text": "Háromnegyedszeles szakasz.",
+    "correct": true
+   },
+   {
+    "text": "Negyedszeles szakasz.",
+    "correct": false
+   },
+   {
+    "text": "A hajósok kedvenc itala.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-391",
+  "number": 391,
+  "question": "Mi a kreuzolás?",
+  "options": [
+   {
+    "text": "Cikk-cakk vonalban a széllel szemben vitorlázás.",
+    "correct": true
+   },
+   {
+    "text": "A vitorla felület csökkentése.",
+    "correct": false
+   },
+   {
+    "text": "Az állókötélzet feszítése.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-392",
+  "number": 392,
+  "question": "Mit nevezünk takknak?",
+  "options": [
+   {
+    "text": "A hajó haladási irányát.",
+    "correct": true
+   },
+   {
+    "text": "A hajó vitorlázatát.",
+    "correct": false
+   },
+   {
+    "text": "A parton felvett iránylatot.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-393",
+  "number": 393,
+  "question": "Milyen takkokat ismer?",
+  "options": [
+   {
+    "text": "Pozitív, negatív.",
+    "correct": true
+   },
+   {
+    "text": "Alsó, felső.",
+    "correct": false
+   },
+   {
+    "text": "Egyes, kettes, hármas, négyes.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-394",
+  "number": 394,
+  "question": "Milyen takkokat ismer?",
+  "options": [
+   {
+    "text": "Bal, jobb.",
+    "correct": true
+   },
+   {
+    "text": "Alsó, felső.",
+    "correct": false
+   },
+   {
+    "text": "Egyes, kettes, hármas, négyes.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-395",
+  "number": 395,
+  "question": "Milyen szélben haladva a leggyorsabb általában a vitorlás hajó?",
+  "options": [
+   {
+    "text": "Háromnegyedszélben.",
+    "correct": true
+   },
+   {
+    "text": "Futtatott negyedszélben.",
+    "correct": false
+   },
+   {
+    "text": "Hátszélben.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-396",
+  "number": 396,
+  "question": "Egészítse ki a mondatot! Útirányra vitorlázva (          )",
+  "options": [
+   {
+    "text": "a hajót állandó irányban tartva a vitorlák állításával reagálunk a szélirány változásaira. Csak akkor lehet végrehajtani, ha nem kell cirkálni.",
+    "correct": true
+   },
+   {
+    "text": "a hajó irányát a szélfordulók szerint változtatjuk úgy, hogy a vitorlákon ne kelljen állítani, így a leggyorsabban érhetjük el a csak cirkálással elérhető úti célt.",
+    "correct": false
+   },
+   {
+    "text": "a hajó mindenkori irányát úgy választjuk meg, hogy az úti cél felé a lehető leggyorsabban haladjunk. Mérlegeljük, hogy az irány úti célon tartásával, vagy kedvezőtlenebb útirányon elérhető nagyobb sebességgel nyerünk időt.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-397",
+  "number": 397,
+  "question": "Egészítse ki a mondatot! Szélirányra vitorlázva (          )",
+  "options": [
+   {
+    "text": "a hajó irányának folyamatos korrigálásával követjük le a szélirány változásait, úgy, hogy a vitorlák megfúvási szöge ideális legyen.",
+    "correct": true
+   },
+   {
+    "text": "a hajót állandó irányban tartva a vitorlák állításával reagálunk a szélirány változásaira. Csak akkor lehet végrehajtani, ha nem kell cirkálni.",
+    "correct": false
+   },
+   {
+    "text": "a hajó mindenkori irányát úgy választjuk meg, hogy az úti cél felé a lehető leggyorsabban haladjunk. Mérlegeljük, hogy az irány úti célon tartásával, vagy kedvezőtlenebb útirányon elérhető nagyobb sebességgel nyerünk időt.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-398",
+  "number": 398,
+  "question": "Mire szolgál a farkasfog?",
+  "options": [
+   {
+    "text": "Kötél gyors, oldható rögzítésére.",
+    "correct": true
+   },
+   {
+    "text": "Az acélsodrony kötelek elvágására.",
+    "correct": false
+   },
+   {
+    "text": "Kötélvégek eldolgozására.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-399",
+  "number": 399,
+  "question": "Mi az iránylat?",
+  "options": [
+   {
+    "text": "Egy tárgy iránya a hajóról nézve.",
+    "correct": true
+   },
+   {
+    "text": "A hajó iránya a szélhez képest.",
+    "correct": false
+   },
+   {
+    "text": "A szél iránya a hajóhoz képest.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-400",
+  "number": 400,
+  "question": "Mire szolgál a klemm?",
+  "options": [
+   {
+    "text": "Kötél gyors, oldható rögzítésére.",
+    "correct": true
+   },
+   {
+    "text": "Az acélsodrony kötelek elvágására.",
+    "correct": false
+   },
+   {
+    "text": "Kötélvégek eldolgozására.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-401",
+  "number": 401,
+  "question": "Mi a kompasz?",
+  "options": [
+   {
+    "text": "Tájoló.",
+    "correct": true
+   },
+   {
+    "text": "Reteszes ajtózár.",
+    "correct": false
+   },
+   {
+    "text": "A fenékben összegyűlő szennyeződés.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-402",
+  "number": 402,
+  "question": "Mi a pádli?",
+  "options": [
+   {
+    "text": "Evező.",
+    "correct": true
+   },
+   {
+    "text": "Takaró ponyva.",
+    "correct": false
+   },
+   {
+    "text": "Széllökés.",
+    "correct": false
+   }
+  ],
+  "image": null
+ },
+ {
+  "id": "vitorlas-403",
+  "number": 403,
+  "question": "Mit lát az ábrán?",
+  "options": [
+   {
+    "text": "Sekli.",
+    "correct": true
+   },
+   {
+    "text": "Karabiner.",
+    "correct": false
+   },
+   {
+    "text": "Stagreiter.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/6216.jpg"
+ },
+ {
+  "id": "vitorlas-404",
+  "number": 404,
+  "question": "Mit lát az ábrán?",
+  "options": [
+   {
+    "text": "Karabiner.",
+    "correct": true
+   },
+   {
+    "text": "Stagreiter.",
+    "correct": false
+   },
+   {
+    "text": "Sekli.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/Karabiner.jpg"
+ },
+ {
+  "id": "vitorlas-405",
+  "number": 405,
+  "question": "Mit lát az ábrán?",
+  "options": [
+   {
+    "text": "Stagreiter.",
+    "correct": true
+   },
+   {
+    "text": "Karabiner.",
+    "correct": false
+   },
+   {
+    "text": "Sekli.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/stagreiter.jpg"
+ },
+ {
+  "id": "vitorlas-406",
+  "number": 406,
+  "question": "Mit lát az ábrán?",
+  "options": [
+   {
+    "text": "Őzni.",
+    "correct": true
+   },
+   {
+    "text": "Sekli.",
+    "correct": false
+   },
+   {
+    "text": "Karabiner.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/6175.jpg"
+ },
+ {
+  "id": "vitorlas-407",
+  "number": 407,
+  "question": "Mit lát az ábrán?",
+  "options": [
+   {
+    "text": "Fok kocsi.",
+    "correct": true
+   },
+   {
+    "text": "Lee kocsi.",
+    "correct": false
+   },
+   {
+    "text": "Fokroller.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/6186.jpg"
+ },
+ {
+  "id": "vitorlas-408",
+  "number": 408,
+  "question": "Mit lát az ábrán?",
+  "options": [
+   {
+    "text": "Lee kocsi.",
+    "correct": true
+   },
+   {
+    "text": "Fok kocsi.",
+    "correct": false
+   },
+   {
+    "text": "Fokroller.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/6198.jpg"
+ },
+ {
+  "id": "vitorlas-409",
+  "number": 409,
+  "question": "Mit lát az ábrán?",
+  "options": [
+   {
+    "text": "Fokroller.",
+    "correct": true
+   },
+   {
+    "text": "Leekocsi.",
+    "correct": false
+   },
+   {
+    "text": "Fokkocsi.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/6159.jpg"
+ },
+ {
+  "id": "vitorlas-410",
+  "number": 410,
+  "question": "Mit lát az ábrán?",
+  "options": [
+   {
+    "text": "Spanner.",
+    "correct": true
+   },
+   {
+    "text": "Őzni.",
+    "correct": false
+   },
+   {
+    "text": "Száling.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/6165.jpg"
+ },
+ {
+  "id": "vitorlas-411",
+  "number": 411,
+  "question": "Mit lát az ábrán?",
+  "options": [
+   {
+    "text": "Stopper.",
+    "correct": true
+   },
+   {
+    "text": "Klemm.",
+    "correct": false
+   },
+   {
+    "text": "Farkasfog.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/6223.jpg"
+ },
+ {
+  "id": "vitorlas-412",
+  "number": 412,
+  "question": "Mit lát az ábrán?",
+  "options": [
+   {
+    "text": "Klemm.",
+    "correct": true
+   },
+   {
+    "text": "Stopper.",
+    "correct": false
+   },
+   {
+    "text": "Farkasfog.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/6234.jpg"
+ },
+ {
+  "id": "vitorlas-413",
+  "number": 413,
+  "question": "Mit lát az ábrán?",
+  "options": [
+   {
+    "text": "Farkasfog.",
+    "correct": true
+   },
+   {
+    "text": "Klemm.",
+    "correct": false
+   },
+   {
+    "text": "Stopper.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/6171.jpg"
+ },
+ {
+  "id": "vitorlas-414",
+  "number": 414,
+  "question": "Mit lát az ábrán?",
+  "options": [
+   {
+    "text": "Száling.",
+    "correct": true
+   },
+   {
+    "text": "Stagreiter.",
+    "correct": false
+   },
+   {
+    "text": "Spanner.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/6244.jpg"
+ },
+ {
+  "id": "vitorlas-415",
+  "number": 415,
+  "question": "Mit lát az ábrán?",
+  "options": [
+   {
+    "text": "Ventil.",
+    "correct": true
+   },
+   {
+    "text": "Stagreiter.",
+    "correct": false
+   },
+   {
+    "text": "Stopper.",
+    "correct": false
+   }
+  ],
+  "image": "vitorlas/Ventil.jpg"
+ },
+ {
+  "id": "vitorlas-416",
+  "number": 416,
+  "question": "Melyik állítás jellemző a viharjelzésre az alábbiak közül?",
+  "options": [
+   {
+    "text": "Villogó fénnyel figyelmeztetnek a veszélyre.",
+    "correct": true
+   },
+   {
+    "text": "Piros és sárga rakétával figyelmeztetnek a veszélyre.",
+    "correct": false
+   },
+   {
+    "text": "Három tónusú hangjelzéssel figyelmeztetnek a veszélyre.",
+    "correct": false
+   }
+  ],
+  "image": null
+ }
+]

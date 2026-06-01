@@ -1,0 +1,22 @@
+[
+ {
+  "id": "tengeri",
+  "title": "Tengeri kishajó (IV. o.)",
+  "count": 155
+ },
+ {
+  "id": "belvizi",
+  "title": "Belvízi hajózási szabályzat",
+  "count": 535
+ },
+ {
+  "id": "vitorlas",
+  "title": "Vitorlás kishajó",
+  "count": 416
+ },
+ {
+  "id": "kisgephajo",
+  "title": "Kisgéphajó",
+  "count": 326
+ }
+]
