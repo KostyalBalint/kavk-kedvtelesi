@@ -6,6 +6,7 @@ import Review from "./pages/Review.jsx";
 import Stats from "./pages/Stats.jsx";
 import Study from "./pages/Study.jsx";
 import Materials from "./pages/Materials.jsx";
+import CategoryTopics from "./pages/CategoryTopics.jsx";
 import MaterialDetail from "./pages/MaterialDetail.jsx";
 
 export default function App() {
@@ -17,7 +18,8 @@ export default function App() {
           <Route path="/quiz/:bankId/:mode" element={<Quiz />} />
           <Route path="/study/:bankId" element={<Study />} />
           <Route path="/materials" element={<Materials />} />
-          <Route path="/materials/:topicId" element={<MaterialDetail />} />
+          <Route path="/materials/:cat" element={<CategoryTopics />} />
+          <Route path="/materials/:cat/:topicId" element={<MaterialDetail />} />
           <Route path="/review/:bankId" element={<Review />} />
           <Route path="/stats" element={<Stats />} />
           <Route path="*" element={<Navigate to="/" replace />} />

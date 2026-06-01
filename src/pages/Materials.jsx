@@ -19,6 +19,56 @@ export const TOPICS = [
     title: "Fények (Lights)",
     subtitle: "Éjszakai navigációs fényjelzések",
   },
+  {
+    id: "tablak",
+    icon: "🪧",
+    title: "Táblák",
+    subtitle: "Parti jelzőtáblák – tiltó, kötelező, korlátozó, tájékoztató",
+  },
+  {
+    id: "bojak",
+    icon: "🟢",
+    title: "Bóják, hajóút",
+    subtitle: "Laterális kitűzőjelek és a hajóút jelölése",
+  },
+  {
+    id: "hangjelzesek",
+    icon: "🔊",
+    title: "Hangjelzések",
+    subtitle: "Rövid/hosszú hangok és jelentésük",
+  },
+  {
+    id: "kiteres",
+    icon: "↔️",
+    title: "Kitérés, elsőbbség",
+    subtitle: "Találkozás, keresztezés, kitérési szabályok",
+  },
+];
+
+// Top-level study categories. HSZ holds the current material; the others are
+// placeholders to be filled later.
+export const CATEGORIES = [
+  {
+    id: "hsz",
+    icon: "📕",
+    title: "Hajózási Szabályzat (HSZ)",
+    subtitle: "Jelzések, táblák, fények, bóják, hangjelek, kitérés",
+    topics: TOPICS,
+  },
+  {
+    id: "kishajo",
+    icon: "🚤",
+    title: "Kishajó",
+    subtitle: "Hamarosan",
+    topics: [],
+  },
+  {
+    id: "tengeri",
+    icon: "⚓",
+    title: "Tengeri IV. osztály",
+    subtitle: "Hamarosan",
+    topics: [],
+  },
 ];
 
 export default function Materials() {
@@ -32,32 +82,32 @@ export default function Materials() {
 
       <header className="mb-4 px-1">
         <h1 className="text-2xl font-bold text-slate-800">Tananyag</h1>
-        <p className="text-sm text-slate-500">
-          Hajózási jelzések – nappali alakzatok, lobogók, éjszakai fények
-        </p>
+        <p className="text-sm text-slate-500">Válassz témakört</p>
       </header>
 
       <div className="flex flex-col gap-3">
-        {TOPICS.map((t) => (
-          <Link
-            key={t.id}
-            to={`/materials/${t.id}`}
-            className="flex items-center gap-3 rounded-2xl bg-white p-4 shadow-sm active:bg-slate-50"
-          >
-            <span className="text-3xl leading-none">{t.icon}</span>
-            <div className="min-w-0">
-              <h2 className="text-base font-semibold text-slate-800">{t.title}</h2>
-              <p className="text-sm text-slate-500">{t.subtitle}</p>
-            </div>
-            <span className="ml-auto text-slate-300">›</span>
-          </Link>
-        ))}
+        {CATEGORIES.map((c) => {
+          const empty = c.topics.length === 0;
+          return (
+            <Link
+              key={c.id}
+              to={`/materials/${c.id}`}
+              className={`flex items-center gap-3 rounded-2xl bg-white p-4 shadow-sm active:bg-slate-50 ${
+                empty ? "opacity-60" : ""
+              }`}
+            >
+              <span className="text-3xl leading-none">{c.icon}</span>
+              <div className="min-w-0">
+                <h2 className="text-base font-semibold text-slate-800">{c.title}</h2>
+                <p className="text-sm text-slate-500">
+                  {empty ? "Hamarosan" : `${c.topics.length} témakör`}
+                </p>
+              </div>
+              <span className="ml-auto text-slate-300">›</span>
+            </Link>
+          );
+        })}
       </div>
-
-      <p className="mt-6 px-1 text-xs leading-relaxed text-slate-400">
-        Forrás: 57/2011. (XI. 22.) NFM rendelet – Hajózási Szabályzat (belvízi),
-        valamint a Nemzetközi Jelzési Kódex (ICS) kódlobogói.
-      </p>
     </div>
   );
 }
