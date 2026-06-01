@@ -64,6 +64,12 @@ export default function Home() {
                   Hibás ({p.failed.length})
                 </button>
               </div>
+              <button
+                onClick={() => navigate(`/study/${b.id}`)}
+                className="mt-2 w-full rounded-lg border border-brand py-2.5 text-sm font-semibold text-brand active:bg-cyan-50"
+              >
+                📖 Tanulás (helyes válaszok)
+              </button>
             </div>
           );
         })}

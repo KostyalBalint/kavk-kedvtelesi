@@ -4,6 +4,7 @@ import Home from "./pages/Home.jsx";
 import Quiz from "./pages/Quiz.jsx";
 import Review from "./pages/Review.jsx";
 import Stats from "./pages/Stats.jsx";
+import Study from "./pages/Study.jsx";
 
 export default function App() {
   return (
@@ -12,6 +13,7 @@ export default function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/quiz/:bankId/:mode" element={<Quiz />} />
+          <Route path="/study/:bankId" element={<Study />} />
           <Route path="/review/:bankId" element={<Review />} />
           <Route path="/stats" element={<Stats />} />
           <Route path="*" element={<Navigate to="/" replace />} />
