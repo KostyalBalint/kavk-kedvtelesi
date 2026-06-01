@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import { KISHAJO_TOPICS } from "../data/kishajo.js";
+import { TENGERI_TOPICS } from "../data/tengeri.js";
 
 export const TOPICS = [
   {
@@ -67,8 +68,8 @@ export const CATEGORIES = [
     id: "tengeri",
     icon: "⚓",
     title: "Tengeri IV. osztály",
-    subtitle: "Hamarosan",
-    topics: [],
+    subtitle: "Navigáció, tájoló, COLREG, rádió, vészhelyzet",
+    topics: TENGERI_TOPICS,
   },
 ];
 

@@ -1,6 +1,7 @@
 import { Link, useParams } from "react-router-dom";
 import { TOPICS } from "./Materials.jsx";
 import { KISHAJO_TOPICS } from "../data/kishajo.js";
+import { TENGERI_TOPICS } from "../data/tengeri.js";
 import {
   Buoy,
   CodeFlag,
@@ -834,7 +835,7 @@ const CONTENT = {
 };
 
 // Generic renderer for data-driven topics (Kishajó, later Tengeri IV.).
-const GENERIC_TOPICS = [...KISHAJO_TOPICS];
+const GENERIC_TOPICS = [...KISHAJO_TOPICS, ...TENGERI_TOPICS];
 
 function GenericTopic({ topic }) {
   return (
